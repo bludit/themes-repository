@@ -1,0 +1,38 @@
+{
+	"name": "Editorial",
+	"version": "1.0",
+	"release_date": "2018-01-08",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/bludit-themes/editorial/archive/master.zip",
+	"demo_url": "https://demo.bludit.com/magazine/",
+	"information_url": "https://github.com/bludit-themes/editorial",
+	"description": "Editorial designed by HTML5-UP is a perfect theme for a website magazine. Suitable for online magazines, newspaper, publishing, personal blogs and any kind of sites.",
+	"features": {
+		"0": "Fully responsive.",
+		"1": "Full support of sidebar plugins."
+	},
+	"description_de": "Editorial designed by HTML5-UP is a perfect theme for a website magazine. Suitable for online magazines, newspaper, publishing, personal blogs and any kind of sites.",
+	"features_de": {
+		"0": "Fully responsive.",
+		"1": "Full support of sidebar plugins."
+	},
+	"description_es": "Editorial designed by HTML5-UP is a perfect theme for a website magazine. Suitable for online magazines, newspaper, publishing, personal blogs and any kind of sites.",
+	"features_es": {
+		"0": "Fully responsive.",
+		"1": "Full support of sidebar plugins."
+	},
+	"author_name": "Diego",
+	"author_email": "",
+	"author_contact_url": "",
+	"author_website": "",
+	"author_twitter": "https://twitter.com/dignajar",
+	"author_facebook": "",
+	"author_github": "https://github.com/dignajar",
+	"author_youtube": "",
+	"author_reddit": "",
+	"author_pinterest": "",
+	"author_flickr": "",
+	"author_google_plus": "",
+	"author_vk": ""
+}
