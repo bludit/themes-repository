@@ -1,0 +1,41 @@
+{
+	"name": "Lingoberry",
+	"version": "1.0",
+	"release_date": "2018-01-10",
+	"license": "GPL 2.0",
+	"price_usd": "",
+	"download_url": "https://github.com/bludit-themes/lingonberry/archive/master.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/bludit-themes/lingonberry",
+	"description": "Lingonberry is a clean and simple theme for bloggers, with responsive design and beautiful typography. Based on the theme Lingoberry for Wordpress by Anders Norén.",
+	"features": {
+		"0": "Beautiful Design.",
+		"1": "Responsive & Retina Ready.",
+		"2": ""
+	},
+	"description_de": "",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description": "",
+	"features": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"author_name": "Hakim Zulkufli",
+	"author_email": "",
+	"author_contact_url": "",
+	"author_website": "",
+	"author_twitter": "",
+	"author_facebook": "",
+	"author_github": "",
+	"author_youtube": "",
+	"author_reddit": "",
+	"author_pinterest": "",
+	"author_flickr": "",
+	"author_google_plus": "",
+	"author_vk": ""
+}

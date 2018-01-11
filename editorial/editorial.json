@@ -2,7 +2,7 @@
 	"name": "Editorial",
 	"version": "1.0",
 	"release_date": "2018-01-08",
-	"license": "MIT",
+	"license": "CCA 3.0",
 	"price_usd": "0",
 	"download_url": "https://github.com/bludit-themes/editorial/archive/master.zip",
 	"demo_url": "https://demo.bludit.com/magazine/",
@@ -10,17 +10,20 @@
 	"description": "Editorial designed by HTML5-UP is a perfect theme for a website magazine. Suitable for online magazines, newspaper, publishing, personal blogs and any kind of sites.",
 	"features": {
 		"0": "Fully responsive.",
-		"1": "Full support of sidebar plugins."
+		"1": "Full support of sidebar plugins.",
+		"2": "Free for personal and commercial use under the CCA 3.0 license."
 	},
 	"description_de": "Editorial designed by HTML5-UP is a perfect theme for a website magazine. Suitable for online magazines, newspaper, publishing, personal blogs and any kind of sites.",
 	"features_de": {
 		"0": "Fully responsive.",
-		"1": "Full support of sidebar plugins."
+		"1": "Full support of sidebar plugins.",
+		"2": "Free for personal and commercial use under the CCA 3.0 license."
 	},
 	"description_es": "Editorial designed by HTML5-UP is a perfect theme for a website magazine. Suitable for online magazines, newspaper, publishing, personal blogs and any kind of sites.",
 	"features_es": {
 		"0": "Fully responsive.",
-		"1": "Full support of sidebar plugins."
+		"1": "Full support of sidebar plugins.",
+		"2": "Free for personal and commercial use under the CCA 3.0 license."
 	},
 	"author_name": "Diego",
 	"author_email": "",

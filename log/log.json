@@ -1,0 +1,42 @@
+{
+	"name": "Log",
+	"version": "1.0",
+	"release_date": "2018-01-10",
+	"license": "CCA 3.0",
+	"price_usd": "",
+	"download_url": "https://github.com/bludit-themes/log/archive/master.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/bludit-themes/log",
+	"description": "Based on the theme Future Imperfect from <a href=\"https://html5up.net\">HTML5 UP</a>. Log is a clean and responsive theme for personal blogs.",
+	"features": {
+		"0": "Sidebar Plugins support.",
+		"1": "Responsive.",
+		"2": "Cover images support.",
+		"3": "Free for personal and commercial use under the CCA 3.0 license."
+	},
+	"description_de": "",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description": "",
+	"features": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"author_name": "Diego",
+	"author_email": "",
+	"author_contact_url": "",
+	"author_website": "",
+	"author_twitter": "https://twitter.com/dignajar",
+	"author_facebook": "",
+	"author_github": "https://github.com/dignajar",
+	"author_youtube": "",
+	"author_reddit": "",
+	"author_pinterest": "",
+	"author_flickr": "",
+	"author_google_plus": "",
+	"author_vk": ""
+}
