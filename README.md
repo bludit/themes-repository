@@ -1,2 +1,4 @@
-# themes-repository
-Database of Theme for Bludit
+# Bludit Themes Repository
+Database of themes for [Bludit CMS](https://www.bludit.com).
+
+Add your free or payed theme.
