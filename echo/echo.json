@@ -1,0 +1,41 @@
+{
+	"name": "Core",
+	"version": "1.0",
+	"release_date": "2018-01-02",
+	"license": "GPL-3.0",
+	"price_usd": "0",
+	"download_url": "https://github.com/marekrost/echo/archive/master.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/marekrost/echo",
+	"description": "Bludit and Bootstrap 3 version of original Echo theme for Nibbleblog by Diego Najar.",
+	"features": {
+		"0": "Lightweight.",
+		"1": "Responsive design.",
+		"2": ""
+	},
+	"description_de": "",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_es": "",
+	"features_es": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"author_name": "Marek Rost",
+	"author_email": "",
+	"author_contact_url": "",
+	"author_website": "http://www.marekrost.cz/",
+	"author_twitter": "",
+	"author_facebook": "",
+	"author_github": "https://github.com/marekrost",
+	"author_youtube": "",
+	"author_reddit": "",
+	"author_pinterest": "",
+	"author_flickr": "",
+	"author_google_plus": "",
+	"author_vk": ""
+}
