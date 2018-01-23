@@ -1,0 +1,31 @@
+{
+	"name": "_NAME_",
+	"version": "_VERSION_",
+	"release_date": "_RELEASE_DATE_",
+	"license": "_LICENSE_",
+	"price_usd": "_PRICE_",
+	"download_url": "_DOWNLOAD_URL_",
+	"demo_url": "_DEMO_URL_",
+	"information_url": "_INFORMATION_URL_",
+	"credits": "",
+	"credits_url": "",
+	"description": "_DESCRIPTION_",
+	"features": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_de": "_DESCRIPTION_GERMAN_",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_es": "_DESCRIPTION_SPANISH_",
+	"features_es": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"author_username": "_AUTHOR_USERNAME_"
+}

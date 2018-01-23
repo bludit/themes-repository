@@ -7,6 +7,8 @@
 	"download_url": "https://github.com/marekrost/echo/archive/master.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/marekrost/echo",
+	"credits": "",
+	"credits_url": "",
 	"description": "Bludit and Bootstrap 3 version of original Echo theme for Nibbleblog by Diego Najar.",
 	"features": {
 		"0": "Lightweight.",
@@ -25,17 +27,5 @@
 		"1": "",
 		"2": ""
 	},
-	"author_name": "Marek Rost",
-	"author_email": "",
-	"author_contact_url": "",
-	"author_website": "http://www.marekrost.cz/",
-	"author_twitter": "",
-	"author_facebook": "",
-	"author_github": "https://github.com/marekrost",
-	"author_youtube": "",
-	"author_reddit": "",
-	"author_pinterest": "",
-	"author_flickr": "",
-	"author_google_plus": "",
-	"author_vk": ""
+	"author_username": "marekrost"
 }

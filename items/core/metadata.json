@@ -7,6 +7,8 @@
 	"download_url": "https://github.com/anaggh/core/archive/master.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/anaggh/core",
+	"credits": "",
+	"credits_url": "",
 	"description": "Another minimal theme for Bludit - Not based on any framework.",
 	"features": {
 		"0": "Lightweight",
@@ -25,17 +27,5 @@
 		"1": "",
 		"2": ""
 	},
-	"author_name": "anaggh",
-	"author_email": "",
-	"author_contact_url": "",
-	"author_website": "",
-	"author_twitter": "",
-	"author_facebook": "",
-	"author_github": "https://github.com/anaggh",
-	"author_youtube": "",
-	"author_reddit": "",
-	"author_pinterest": "",
-	"author_flickr": "",
-	"author_google_plus": "",
-	"author_vk": ""
+	"author_username": "anaggh"
 }

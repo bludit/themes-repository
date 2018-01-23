@@ -7,6 +7,8 @@
 	"download_url": "https://github.com/bludit-themes/micro/archive/master.zip",
 	"demo_url": "https://demo.bludit.com/microblog/",
 	"information_url": "https://github.com/bludit-themes/micro",
+	"credits": "",
+	"credits_url": "",
 	"description": "",
 	"features": {
 		"0": "",
@@ -19,23 +21,11 @@
 		"1": "",
 		"2": ""
 	},
-	"description": "",
-	"features": {
+	"description_es": "",
+	"features_es": {
 		"0": "",
 		"1": "",
 		"2": ""
 	},
-	"author_name": "Diego",
-	"author_email": "",
-	"author_contact_url": "",
-	"author_website": "",
-	"author_twitter": "https://twitter.com/dignajar",
-	"author_facebook": "",
-	"author_github": "https://github.com/dignajar",
-	"author_youtube": "",
-	"author_reddit": "",
-	"author_pinterest": "",
-	"author_flickr": "",
-	"author_google_plus": "",
-	"author_vk": ""
+	"author_username": "diego"
 }

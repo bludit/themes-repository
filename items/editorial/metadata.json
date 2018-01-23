@@ -7,6 +7,8 @@
 	"download_url": "https://github.com/bludit-themes/editorial/archive/master.zip",
 	"demo_url": "https://demo.bludit.com/magazine/",
 	"information_url": "https://github.com/bludit-themes/editorial",
+	"credits": "HTML5UP",
+	"credits_url": "https://html5up.net",
 	"description": "Editorial designed by HTML5-UP is a perfect theme for a website magazine. Suitable for online magazines, newspaper, publishing, personal blogs and any kind of sites.",
 	"features": {
 		"0": "Fully responsive.",
@@ -25,17 +27,5 @@
 		"1": "Full support of sidebar plugins.",
 		"2": "Free for personal and commercial use under the CCA 3.0 license."
 	},
-	"author_name": "Diego",
-	"author_email": "",
-	"author_contact_url": "",
-	"author_website": "",
-	"author_twitter": "https://twitter.com/dignajar",
-	"author_facebook": "",
-	"author_github": "https://github.com/dignajar",
-	"author_youtube": "",
-	"author_reddit": "",
-	"author_pinterest": "",
-	"author_flickr": "",
-	"author_google_plus": "",
-	"author_vk": ""
+	"author_username": "diego"
 }
