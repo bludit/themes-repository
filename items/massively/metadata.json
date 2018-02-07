@@ -1,7 +1,7 @@
 {
 	"name": "Massively",
-	"version": "1.0",
-	"release_date": "2018-01-10",
+	"version": "1.1",
+	"release_date": "2018-02-07",
 	"license": "CCA 3.0",
 	"price_usd": "",
 	"download_url": "https://github.com/bludit-themes/massively/archive/master.zip",
@@ -22,11 +22,12 @@
 		"1": "",
 		"2": ""
 	},
-	"description_es": "",
+	"description_es": "Versión del tema Massively creado por <a href=\"https://html5up.net\">HTML5 UP</a> para Bludit.",
 	"features_es": {
-		"0": "",
-		"1": "",
-		"2": ""
+		"0": "Diseño receptivo.",
+		"1": "Soporte para el plugin Disqus.",
+		"2": "Soporte para el plugin Google Analytics.",
+		"3": "Libre para uso personal y comercial bajo la licencia de CCA 3.0."
 	},
 	"author_username": "diego"
 }
