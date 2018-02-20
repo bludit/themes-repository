@@ -1,0 +1,37 @@
+{
+	"name": "Kernel Panic",
+	"version": "2.3",
+	"release_date": "2018-02-20",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/bludit-themes/kernel-panic/archive/master.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/bludit-themes/kernel-panic",
+	"credits": "",
+	"credits_url": "",
+	"description": "Just a simple and clean theme for microsites or microblogs. Full support to cover images.",
+	"features": {
+		"0": "Plugins support.",
+		"1": "Cover Image support.",
+		"2": "Footer with social links and copyright information.",
+		"3": "",
+		"4": ""
+	},
+	"description_de": "Einfaches und übersichtliches Theme für Microsites und Microblogs. Das Theme unterstützt Hauptbilder.",
+	"features_de": {
+		"0": "Plugins support.",
+		"1": "Cover Image support.",
+		"2": "Footer with social links and copyright information.",
+		"3": "",
+		"4": ""
+	},
+	"description_es": "Tema para micro-sitios o micro-blogs. Soporte para imágenes de portada y para complementos.",
+	"features_es": {
+		"0": "Soporte para plugins.",
+		"1": "Soporte para imagen de portada.",
+		"2": "Pie de pagina con redes sociales y copyright.",
+		"3": "",
+		"4": ""
+	},
+	"author_username": "diego"
+}
