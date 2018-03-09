@@ -1,10 +1,10 @@
 {
 	"name": "Log",
-	"version": "1.0",
-	"release_date": "2018-01-10",
+	"version": "1.1",
+	"release_date": "2018-03-09",
 	"license": "CCA 3.0",
 	"price_usd": "",
-	"download_url": "https://github.com/bludit-themes/log/archive/master.zip",
+	"download_url": "https://github.com/bludit-themes/log/archive/log-v1.1.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/bludit-themes/log",
 	"credits": "HTML5UP",
@@ -16,17 +16,17 @@
 		"2": "Cover images support.",
 		"3": "Free for personal and commercial use under the CCA 3.0 license."
 	},
-	"description_de": "",
+	"description_de": "Theme, das sich vor allem für Blogs eignet.",
 	"features_de": {
 		"0": "",
 		"1": "",
 		"2": ""
 	},
-	"description_es": "",
+	"description_es": "Log es un tema ideal para crear blog personales.",
 	"features_es": {
-		"0": "",
-		"1": "",
-		"2": ""
+		"0": "Soporte para imagen de portada",
+		"1": "Gratis",
+		"2": "Soporte para plugins en la barra lateral"
 	},
 	"author_username": "diego"
 }
