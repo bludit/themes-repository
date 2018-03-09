@@ -1,10 +1,10 @@
 {
 	"name": "Clean Blog",
-	"version": "1.0",
-	"release_date": "2018-01-11",
+	"version": "1.1",
+	"release_date": "2018-03-09",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://github.com/bludit-themes/clean-blog/archive/master.zip",
+	"download_url": "https://github.com/bludit-themes/clean-blog/archive/clean-blog-v1.1.zip",
 	"demo_url": "https://blackrockdigital.github.io/startbootstrap-clean-blog/",
 	"information_url": "https://github.com/bludit-themes/clean-blog",
 	"credits": "Start Bootstrap",
