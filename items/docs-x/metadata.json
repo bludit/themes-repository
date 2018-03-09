@@ -1,0 +1,31 @@
+{
+	"name": "Docs X",
+	"version": "1.0",
+	"release_date": "2018-03-09",
+	"license": "MIT",
+	"price_usd": "",
+	"download_url": "https://github.com/bludit-themes/docs-x/archive/docs-x-v1.0.zip",
+	"demo_url": "https://docs.bludit.com",
+	"information_url": "https://github.com/bludit-themes/docs-x",
+	"credits": "",
+	"credits_url": "",
+	"description": "Docs X is a theme to create documentation sites, with highligh syntax and based on Bootstrap.",
+	"features": {
+		"0": "Navigation in sidebar",
+		"1": "",
+		"2": ""
+	},
+	"description_de": "",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_es": "Tema para crear sitios tipo de documentación, además incluye resaltado de código, basado en Bootstrap.",
+	"features_es": {
+		"0": "Barra de navegacion",
+		"1": "",
+		"2": ""
+	},
+	"author_username": "diego"
+}
