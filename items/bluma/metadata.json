@@ -1,0 +1,31 @@
+{
+	"name": "Bluma",
+	"version": "2.3",
+	"release_date": "2018-03-23",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/anaggh/bluma/archive/master.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/anaggh/bluma",
+	"credits": "",
+	"credits_url": "",
+	"description": "Bludit + Bulma CSS = Bluma",
+	"features": {
+		"0": "Bulma CSS Framework",
+		"1": "Uses default system fonts",
+		"2": "Clean theme for Bloggers"
+	},
+	"description_de": "",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_es": "",
+	"features_es": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"author_username": "anaggh"
+}
