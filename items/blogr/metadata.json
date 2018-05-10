@@ -1,0 +1,31 @@
+{
+	"name": "Blogr",
+	"version": "",
+	"release_date": "2018-05-03",
+	"license": "",
+	"price_usd": "Fair price",
+	"download_url": "https://gumroad.com/l/blogr",
+	"demo_url": "http://wanted.buzz",
+	"information_url": "https://gumroad.com/l/blogr",
+	"credits": "",
+	"credits_url": "",
+	"description": "Theme for bloggers.",
+	"features": {
+		"0": "3 different layouts depending on \"Items per page\" setting.",
+		"1": "Different layouts for published, sticky and static pages.",
+		"2": "Category and tag listing with custom layout."
+	},
+	"description_de": "Theme für Blogs.",
+	"features_de": {
+		"0": "Drei verschiedene Layouts",
+		"1": "Verschiedene Layouts für veröffentlichte, fixierte und statische Inhalte.",
+		"2": "Eigenes Layout für Kategorien- und Schlagwörter-Seiten."
+	},
+	"description_es": "Tema para crear blog personales.",
+	"features_es": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"author_username": "cajzer"
+}
