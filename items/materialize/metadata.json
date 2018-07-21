@@ -1,0 +1,31 @@
+{
+	"name": "Materialize",
+	"version": "",
+	"release_date": "2018-07-21",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/Prime404/Materialize-for-Bludit/archive/master.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/Prime404/Materialize-for-Bludit",
+	"credits": "",
+	"credits_url": "",
+	"description": "Fork of the thema Bluma incorporating the Materialize CSS framework.",
+	"features": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_de": "",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_es": "",
+	"features_es": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"author_username": "Prime404"
+}
