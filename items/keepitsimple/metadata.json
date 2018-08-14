@@ -1,0 +1,33 @@
+{
+	"name": "Keep It Simple",
+	"version": "1",
+	"release_date": "2018-8-14",
+	"license": "CC BY 3.0",
+	"price_usd": "",
+	"download_url": "https://github.com/bludit-themes/keep-it-simple/archive/1.0.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/bludit-themes/keep-it-simple",
+	"credits": "Styleshout",
+	"credits_url": "http://www.styleshout.com",
+	"description": "Theme especially for blogs designed by Styleshout, adapted for Bludit by Clickwork.",
+	"features": {
+		"0": "Sidebar Plugins support.",
+		"1": "Responsive.",
+		"2": "Cover images support.",
+		"3": "Free for personal and commercial use under the CC BY 3.0 license."
+	},
+	"description_de": "Theme, das sich vor allem für Blogs eignet.",
+	"features_de": {
+		"0": "Unterstützt Seitenleiste.",
+		"1": "Responsiv.",
+		"2": "Unterstützt Hauptbilder.",
+    "3": "Kistenlos für den privaten und kommerziellen gebrauch unter der Lizenz CC BY 3.0."
+	},
+	"description_es": "Tema ideal para crear blog personales.",
+	"features_es": {
+		"0": "Soporte para imagen de portada.",
+		"1": "Gratis.",
+		"2": "Soporte para plugins en la barra lateral."
+	},
+	"author_username": "clickwork"
+}
