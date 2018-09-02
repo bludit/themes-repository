@@ -1,0 +1,33 @@
+{
+	"name": "PMFWS",
+	"version": "1.1",
+	"release_date": "2018-09-02",
+	"license": "MIT",
+	"price_usd": "",
+	"download_url": "https://github.com/bludit-themes/keep-it-simple/archive/v1.0.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/bludit-themes/keep-it-simple",
+	"credits": "",
+	"credits_url": "",
+	"description": "A theme for bloggers in favour of the website <a href=\"https://perfectmotherfuckingwebsite.com\" target=\"_blank\">perfectmotherfuckingwebsite.com</a>.",
+	"features": {
+		"0": "",
+		"1": "",
+		"2": "",
+		"3": ""
+	},
+	"description_de": "Blog-Theme auf der Basis der Website <a href=\"https://perfectmotherfuckingwebsite.com\" target=\"_blank\">perfectmotherfuckingwebsite.com</a>.",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": "",
+    "3": ""
+	},
+	"description_es": "",
+	"features_es": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"author_username": "cbte"
+}
