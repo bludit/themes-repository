@@ -4,19 +4,19 @@
 	"release_date": "2018-09-02",
 	"license": "MIT",
 	"price_usd": "",
-	"download_url": "https://github.com/bludit-themes/keep-it-simple/archive/v1.0.zip",
+	"download_url": "https://github.com/cblte/pmfws/archive/master.zip",
 	"demo_url": "",
-	"information_url": "https://github.com/bludit-themes/keep-it-simple",
+	"information_url": "https://github.com/cblte/pmfws",
 	"credits": "",
 	"credits_url": "",
-	"description": "A theme for bloggers in favour of the website <a href=\"https://perfectmotherfuckingwebsite.com\" target=\"_blank\">perfectmotherfuckingwebsite.com</a>.",
+	"description": "A theme for bloggers in favour of the website <a href=\"https:\/\/perfectmotherfuckingwebsite.com\" target=\"_blank\">perfectmotherfuckingwebsite.com<\/a>.",
 	"features": {
 		"0": "",
 		"1": "",
 		"2": "",
 		"3": ""
 	},
-	"description_de": "Blog-Theme auf der Basis der Website <a href=\"https://perfectmotherfuckingwebsite.com\" target=\"_blank\">perfectmotherfuckingwebsite.com</a>.",
+	"description_de": "Blog-Theme auf der Basis der Website <a href=\"https:\/\/perfectmotherfuckingwebsite.com\" target=\"_blank\">perfectmotherfuckingwebsite.com<\/a>.",
 	"features_de": {
 		"0": "",
 		"1": "",
@@ -29,5 +29,5 @@
 		"1": "",
 		"2": ""
 	},
-	"author_username": "cbte"
+	"author_username": "cblte"
 }
