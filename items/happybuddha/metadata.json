@@ -1,0 +1,33 @@
+{
+	"name": "HappyBuddha",
+	"version": "1",
+	"release_date": "2018-09-01",
+	"license": "MIT",
+	"price_usd": "",
+	"download_url": "https://github.com/cblte/happybuddha/archive/master.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/cblte/happybuddha",
+	"credits": "",
+	"credits_url": "",
+	"description": "A theme specially for a happy Buddha!",
+	"features": {
+		"0": "",
+		"1": "",
+		"2": "",
+		"3": ""
+	},
+	"description_de": "Ein Theme besonders für einen glücklichen Buddha!",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": "",
+    "3": ""
+	},
+	"description_es": "",
+	"features_es": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"author_username": "cblte"
+}
