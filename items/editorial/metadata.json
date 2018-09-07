@@ -3,8 +3,10 @@
 	"version": "1.0",
 	"release_date": "2018-01-11",
 	"license": "CCA 3.0",
+	"author_username": "diego",
 	"price_usd": "0",
 	"download_url": "https://github.com/bludit-themes/editorial/archive/master.zip",
+	"download_url_v2": "https://github.com/bludit-themes/editorial/archive/master.zip",
 	"demo_url": "https://demo.bludit.com/magazine/",
 	"information_url": "https://github.com/bludit-themes/editorial",
 	"credits": "HTML5UP",
@@ -26,6 +28,5 @@
 		"0": "Fully responsive.",
 		"1": "Full support of sidebar plugins.",
 		"2": "Free for personal and commercial use under the CCA 3.0 license."
-	},
-	"author_username": "diego"
+	}
 }
