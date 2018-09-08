@@ -1,15 +1,17 @@
 {
 	"name": "Micro",
-	"version": "1.0",
-	"release_date": "2018-01-10",
+	"version": "2.0",
+	"release_date": "2018-09-09",
+	"author_username": "diego",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://github.com/bludit-themes/micro/archive/master.zip",
+	"download_url": "https://github.com/bludit-themes/micro/archive/micro-v2.0.zip",
+	"download_url_v2": "https://github.com/bludit-themes/micro/archive/micro-v1.0.zip",
 	"demo_url": "https://demo.bludit.com/microblog/",
 	"information_url": "https://github.com/bludit-themes/micro",
 	"credits": "",
 	"credits_url": "",
-	"description": "",
+	"description": "Micro is the smallest theme for Bludit. It is ideal for create microblogging.",
 	"features": {
 		"0": "",
 		"1": "",
@@ -21,11 +23,10 @@
 		"1": "",
 		"2": ""
 	},
-	"description_es": "",
+	"description_es": "Micro es el tema más pequeño para Bludit. Es ideal para crear microblogging.",
 	"features_es": {
 		"0": "",
 		"1": "",
 		"2": ""
-	},
-	"author_username": "diego"
+	}
 }
