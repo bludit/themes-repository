@@ -1,0 +1,31 @@
+{
+  "name": "Blue",
+  "version": "1.0",
+  "release_date": "2018-09-08",
+  "license": "MIT",
+  "price_usd": "0",
+  "download_url": "https://bitbucket.org/Blackneron/blue/downloads/blue_theme.zip",
+  "demo_url": "https://pb-soft.com/bludit/",
+  "information_url": "https://bitbucket.org/Blackneron/blue",
+  "credits": "",
+  "credits_url": "",
+  "description": "A blue, fast and responsive theme for the Bludit CMS.",
+  "features": {
+    "0": "",
+    "1": "",
+    "2": ""
+  },
+  "description_de": "Eine blaue, schnelle und responsive Vorlage für das Bludit CMS.",
+  "features_de": {
+    "0": "",
+    "1": "",
+    "2": ""
+  },
+  "description_es": "Un tema azul, rápido y receptivo para el Bludit CMS.",
+  "features_es": {
+    "0": "",
+    "1": "",
+    "2": ""
+  },
+  "author_username": "blackneron"
+}
