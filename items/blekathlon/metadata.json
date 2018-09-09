@@ -1,0 +1,31 @@
+{
+  "name": "Blekathlon",
+  "version": "3.0",
+  "release_date": "2018-08-20",
+  "license": "MIT",
+  "price_usd": "0",
+  "download_url": "https://github.com/blthemes/Themes/archive/master.zip",
+  "demo_url": "https://minimal.ooo",
+  "information_url": "https://github.com/blthemes/Themes",
+  "credits": "",
+  "credits_url": "",
+  "description": "Modern, elegant and fast Bludit theme for your blog, portfolio or showcase site.",
+  "features": {
+    "0": "",
+    "1": "",
+    "2": ""
+  },
+  "description_de": "Modernes, elegeantes und schnelles Theme für Blogs und Portfolios.",
+  "features_de": {
+    "0": "",
+    "1": "",
+    "2": ""
+  },
+  "description_es": "",
+  "features_es": {
+    "0": "",
+    "1": "",
+    "2": ""
+  },
+  "author_username": "blthemes"
+}
