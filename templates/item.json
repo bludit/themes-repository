@@ -1,10 +1,12 @@
 {
 	"name": "_NAME_",
 	"version": "_VERSION_",
+	"author_username": "_AUTHOR_USERNAME_",
 	"release_date": "_RELEASE_DATE_",
 	"license": "_LICENSE_",
 	"price_usd": "_PRICE_",
-	"download_url": "_DOWNLOAD_URL_",
+	"download_url": "_DOWNLOAD_URL_FOR_BLUDIT_V3_",
+	"download_url_v2": "_DOWNLOAD_URL_FOR_BLUDIT_V2_",
 	"demo_url": "_DEMO_URL_",
 	"information_url": "_INFORMATION_URL_",
 	"credits": "",
@@ -26,6 +28,5 @@
 		"0": "",
 		"1": "",
 		"2": ""
-	},
-	"author_username": "_AUTHOR_USERNAME_"
+	}
 }
