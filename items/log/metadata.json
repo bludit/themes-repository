@@ -1,10 +1,11 @@
 {
 	"name": "Log",
-	"version": "1.1",
-	"release_date": "2018-03-09",
+	"version": "2.0",
+	"release_date": "2018-09-21",
 	"license": "CCA 3.0",
 	"price_usd": "",
 	"download_url": "https://github.com/bludit-themes/log/archive/log-v1.1.zip",
+	"download_url_v3": "https://github.com/bludit-themes/log/archive/log-v2.0.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/bludit-themes/log",
 	"credits": "HTML5UP",
