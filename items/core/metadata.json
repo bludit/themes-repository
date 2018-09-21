@@ -13,7 +13,7 @@
 	"credits_url": "",
 	"description": "Another minimal theme for Bludit - Not based on any framework.",
 	"features": {
-		"0": "Lightweight",
+		"0": "Lightweight.",
 		"1": "Uses default system fonts.",
 		"2": "Optional automatic Code Syntax Highlighting."
 	},
@@ -23,10 +23,10 @@
 		"1": "",
 		"2": ""
 	},
-	"description_es": "",
+	"description_es": "Otro tema minimalista para Bludit - No esta basado en ningún framework.",
 	"features_es": {
-		"0": "",
-		"1": "",
-		"2": ""
-	}
+		"0": "Liviano.",
+		"1": "Utiliza fuentes de sistema predeterminadas.",
+		"2": "Resaltado de sintaxis de código automático."
+	},
 }
