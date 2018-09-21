@@ -13,9 +13,9 @@
 	"credits_url": "",
 	"description": "Bludit + Bulma CSS = Bluma",
 	"features": {
-		"0": "Bulma CSS Framework",
-		"1": "Uses default system fonts",
-		"2": "Clean theme for Bloggers"
+		"0": "Bulma CSS Framework.",
+		"1": "Uses default system fonts.",
+		"2": "Clean theme for Bloggers."
 	},
 	"description_de": "",
 	"features_de": {
@@ -23,10 +23,10 @@
 		"1": "",
 		"2": ""
 	},
-	"description_es": "",
+	"description_es": "Bludit + Bulma CSS = Bluma",
 	"features_es": {
-		"0": "",
-		"1": "",
-		"2": ""
+		"0": "Bulma CSS Framework.",
+		"1": "Utiliza fuentes de sistema predeterminadas.",
+		"2": "Tema limpio para bloggers."
 	}
 }
