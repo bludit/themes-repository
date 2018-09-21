@@ -1,10 +1,12 @@
 {
 	"name": "Core",
-	"version": "1.0",
-	"release_date": "2018-01-02",
+	"version": "3.0",
+	"author_username": "anaggh",
+	"release_date": "2018-08-22",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://github.com/anaggh/core/archive/master.zip",
+	"download_url": "https://github.com/anaggh/core/archive/v3.0.zip",
+	"download_url_v2": "https://github.com/anaggh/core/archive/v2.3.4.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/anaggh/core",
 	"credits": "",
@@ -13,7 +15,7 @@
 	"features": {
 		"0": "Lightweight",
 		"1": "Uses default system fonts.",
-		"2": "Automatic Code Syntax Highlighting."
+		"2": "Optional automatic Code Syntax Highlighting."
 	},
 	"description_de": "",
 	"features_de": {
@@ -26,6 +28,5 @@
 		"0": "",
 		"1": "",
 		"2": ""
-	},
-	"author_username": "anaggh"
+	}
 }

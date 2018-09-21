@@ -1,10 +1,12 @@
 {
 	"name": "Bluma",
-	"version": "2.3",
-	"release_date": "2018-03-23",
+	"version": "3.0",
+	"author_username": "anaggh",
+	"release_date": "2018-09-21",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://github.com/anaggh/bluma/archive/master.zip",
+	"download_url": "https://github.com/anaggh/bluma/archive/3.0.zip",
+	"download_url_v2": "https://github.com/anaggh/bluma/archive/2.3.4.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/anaggh/bluma",
 	"credits": "",
@@ -26,6 +28,5 @@
 		"0": "",
 		"1": "",
 		"2": ""
-	},
-	"author_username": "anaggh"
+	}
 }
