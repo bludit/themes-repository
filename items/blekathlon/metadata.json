@@ -15,8 +15,8 @@
     "0": "Search functionality (require activated BlThemes Plugin )",
     "1": "Categories appear automatically in the menu if they have pages",
     "2": "Static pages are automatically added to the footer",
-	"3": "Related pages support (need 4 or more pages in Category)",
-	"4": "Social media integration (Facebook, Twitter, Google+, etc.) and share buttons for Facebook and Twitter"
+    "3": "Related pages support (need 4 or more pages in Category)",
+    "4": "Social media integration (Facebook, Twitter, Google+, etc.) and share buttons for Facebook and Twitter"
   },
   "description_de": "Modernes, elegantes und schnelles Theme für Blogs und Portfolios.",
   "features_de": {
