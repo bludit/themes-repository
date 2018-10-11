@@ -1,0 +1,32 @@
+{
+	"name": "simplepf",
+	"version": "3.0",
+	"author_username": "CrimeS",
+	"release_date": "2018-10-11",
+	"license": "paid",
+	"price_usd": "10",
+	"download_url": "",
+	"download_url_v2": "",
+	"demo_url": "https://jellyio.com/bludit",
+	"information_url": "https://jellyio.com/shop/bludit/simplepf",
+	"credits": "",
+	"credits_url": "",
+	"description": "Simple theme for a portfolio or blog based on Bludit.",
+	"features": {
+		"0": "simple portfolio / blog / website theme",
+		"1": "bundled with a plugin to modify theme without changing any code (includes live preview on plugin page)",
+		"2": "layout with cover images"
+	},
+	"description_de": "_DESCRIPTION_GERMAN_",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_es": "_DESCRIPTION_SPANISH_",
+	"features_es": {
+		"0": "",
+		"1": "",
+		"2": ""
+	}
+}
