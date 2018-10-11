@@ -6,7 +6,7 @@
 	"license": "paid",
 	"price_usd": "10",
 	"download_url": "",
-	"download_url_v2": "",
+	"download_url_v3": "https://jellyio.com/shop/bludit/simplepf",
 	"demo_url": "https://jellyio.com/bludit",
 	"information_url": "https://jellyio.com/shop/bludit/simplepf",
 	"credits": "",
@@ -28,5 +28,6 @@
 		"0": "",
 		"1": "",
 		"2": ""
-	}
+	},
+       "author_username": "crimes"	
 }
