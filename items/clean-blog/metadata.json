@@ -1,10 +1,12 @@
 {
 	"name": "Clean Blog",
-	"version": "1.1",
-	"release_date": "2018-03-09",
+	"version": "2.0",
+	"author_username": "diego",
+	"release_date": "2018-10-12",
 	"license": "MIT",
 	"price_usd": "0",
 	"download_url": "https://github.com/bludit-themes/clean-blog/archive/clean-blog-v1.1.zip",
+	"download_url_v3": "https://github.com/bludit-themes/clean-blog/archive/2.0.zip",
 	"demo_url": "https://blackrockdigital.github.io/startbootstrap-clean-blog/",
 	"information_url": "https://github.com/bludit-themes/clean-blog",
 	"credits": "Start Bootstrap",
@@ -32,6 +34,5 @@
 		"2": "Diseño moderno con un sutiles toques de colores.",
 		"3": "Optimizado para la legibilidad con una interfaz de menús que aparece cuando se desplaza hacia arriba!",
 		"4": "Pie de pagina con enlaces sociales e información sobre derechos de autor."
-	},
-	"author_username": "diego"
+	}
 }
