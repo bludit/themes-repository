@@ -9,7 +9,7 @@ You can add your **free** or **paid** theme here!
 ## How to add a theme
 ### 1) Create your username
 - Create a new file inside the folder `/authors/`.
-- The filename is the username and the extension is `.json`. Please use lowercase without spaces. For example, username `max-power` the filename is going to be `max-power.json`.
+- The filename is the username and the extension is `.json`. Please use lowercase without spaces. For example, username `Max Power` the filename is going to be `max-power.json`.
 - You can copy a template from `/templates/authors.json` to generate the content of the file.
 
 ### 2) Create the theme metadata
