@@ -2,18 +2,18 @@
 	"name": "MEGA",
 	"version": "1.0",
 	"release_date": "2018-10-16",
-	"author_username": "Shaman",
+	"author_username": "shaman",
 	"license": "MIT",
 	"price_usd": "",
-	"download_url": "https://bludit.ru/themes/mega/download/mega.zip",
+	"download_url_v3": "https://bludit.ru/themes/mega/download/mega.zip",
 	"demo_url": "https://bludit.ru/themes/mega/demo/",
 	"information_url": "https://bludit.ru/themes/mega/",
 	"credits": "",
 	"credits_url": "",
 	"description": "Theme for Bludit CMS",
 	"features": {
-  "0": "Template for blog, information site",
-  "1": "Responsive design",
+        "0": "Template for blog, information site",
+        "1": "Responsive design",
 	"2": "Supported Plugins: About, Categories, Disqus, Links, Navigation, Search, Static Pages, Tags list",
 	"3": "Free"
 	}
