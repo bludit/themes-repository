@@ -1,15 +1,16 @@
 {
-	"name": "Diego",
+	"name": "",
 	"email": "",
-	"contact_url": "",
 	"website": "",
 	"twitter": "",
 	"facebook": "",
 	"github": "",
+	"gitlab": "",
 	"youtube": "",
 	"reddit": "",
 	"pinterest": "",
 	"flickr": "",
-	"google_plus": "",
-	"vk": ""
+	"vk": "",
+	"mastodon": "",
+	"linkedin": ""
 }
