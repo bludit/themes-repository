@@ -1,15 +1,17 @@
 {
 	"name": "Massively",
-	"version": "1.2",
-	"release_date": "2018-03-09",
+	"version": "2.0",
+	"author_username": "diego",
+	"release_date": "2018-10-28",
 	"license": "CCA 3.0",
 	"price_usd": "",
 	"download_url": "https://github.com/bludit-themes/massively/archive/massively-v1.2.zip",
+	"download_url_v3": "https://github.com/bludit-themes/massively/archive/2.0.zip",
 	"demo_url": "https://html5up.net/massively",
 	"information_url": "https://github.com/bludit-themes/massively",
 	"credits": "HTML5UP",
 	"credits_url": "https://html5up.net",
-	"description": "A Bludit version of the Massively theme by <a href=\"https://html5up.net\">HTML5 UP</a>.",
+	"description": "A Bludit version of the Massively theme by HTML5 UP.",
 	"features": {
 		"0": "Responsive design.",
 		"1": "Disqus comments plugin support.",
@@ -28,6 +30,5 @@
 		"1": "Soporte para el plugin Disqus.",
 		"2": "Soporte para el plugin Google Analytics.",
 		"3": "Libre para uso personal y comercial bajo la licencia de CCA 3.0."
-	},
-	"author_username": "diego"
+	}
 }
