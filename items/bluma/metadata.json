@@ -11,9 +11,9 @@
 	"information_url": "https://github.com/anaggh/bluma",
 	"credits": "",
 	"credits_url": "",
-	"description": "Bludit + Bulma CSS = Bluma",
+	"description": "Bludit + Bulma CSS = Bluma theme, especially for Bludit",
 	"features": {
-		"0": "Bulma CSS Framework.",
+		"0": "Bulma is an open source CSS framework based on Flexbox and used by more than 100,000 developers.",
 		"1": "Uses default system fonts.",
 		"2": "Clean theme for Bloggers."
 	},
@@ -23,10 +23,16 @@
 		"1": "",
 		"2": ""
 	},
-	"description_es": "Bludit + Bulma CSS = Bluma",
+	"description_es": "Bludit + Bulma CSS = Bluma tema, especialmente para Bludit",
 	"features_es": {
-		"0": "Bulma CSS Framework.",
+		"0": "Bulma es un marco CSS de código abierto basado en Flexbox y utilizado por más de 100,000 desarrolladores.",
 		"1": "Utiliza fuentes de sistema predeterminadas.",
 		"2": "Tema limpio para bloggers."
+	},
+	"description_ru": "Bludit + Bulma CSS = тема Bluma, специально для Bludit",
+	"features_ru": {
+		"0": "Bulma - это платформа CSS с открытым исходным кодом, основанная на Flexbox и используемая более чем 100 000 разработчиков.",
+		"1": "Использует системные шрифты по умолчанию.",
+		"2": "Простая и неперегруженная тема для блоггеров."
 	}
 }
