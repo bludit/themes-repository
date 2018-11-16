@@ -11,7 +11,7 @@
 	"credits_url": "",
 	"description": "Theme for bloggers.",
 	"features": {
-		"0": "3 different layouts depending on \"Items per page\" setting.",
+		"0": "Three different layouts depending on \"Items per page\" setting.",
 		"1": "Different layouts for published, sticky and static pages.",
 		"2": "Category and tag listing with custom layout."
 	},
@@ -26,6 +26,12 @@
 		"0": "",
 		"1": "",
 		"2": ""
+	},
+	"description_ru": "Отличная тема для блоггеров.",
+	"features_ru": {
+		"0": "Три разных макета темы в зависимости от параметра \"Элементов на странице\".",
+		"1": "Различное визуальное оформление для опубликованных, закреплённых и статических записей.",
+		"2": "Список категорий и тегов с настраиваемым оформлением."
 	},
 	"author_username": "cajzer"
 }
