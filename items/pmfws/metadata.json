@@ -11,7 +11,7 @@
 	"credits_url": "",
 	"description": "A theme for bloggers in favour of the website perfectmotherfuckingwebsite.com.",
 	"features": {
-		"0": "",
+		"0": "Simple and reliable as the Russian AK47 machine gun.",
 		"1": "",
 		"2": "",
 		"3": ""
@@ -21,13 +21,21 @@
 		"0": "",
 		"1": "",
 		"2": "",
-    "3": ""
+    		"3": ""
 	},
 	"description_es": "",
 	"features_es": {
 		"0": "",
 		"1": "",
-		"2": ""
+		"2": "",
+    		"3": ""
+	},
+	"description_ru": "Тема для блоггеров разработанная для сайта perfectmotherfuckingwebsite.com.",
+	"features_ru": {
+		"0": "Простая и надёжная, как русский автомат АК47.",
+		"1": "",
+		"2": "",
+    		"3": ""
 	},
 	"author_username": "cblte"
 }
