@@ -3,6 +3,7 @@ This repository keeps all the database for the sites:
 - (English) https://themes.bludit.com
 - (Deutsch) https://themes.bludit.com/de/
 - (Español) https://themes.bludit.com/es/
+- (Русский) https://themes.bludit.com/ru/
 
 You can add your **free** or **paid** theme here!
 

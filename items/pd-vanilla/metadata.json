@@ -1,5 +1,5 @@
 {
-	"name": "PD-Vanilla-Minimal",
+	"name": "PD-Vanilla",
 	"version": "1.0",
 	"author_username": "philippd",
 	"release_date": "2018-11-11",
@@ -17,7 +17,7 @@
 	"description_de": "Ein sehr einfaches, minimalistisches Design für Bludit 3.X",
 	"features_de": {
 	},
-	"description_es": "Un tema muy básico, minimalista para Bludit 3.X",
+	"description_es": "Tema básico y minimalista para Bludit 3.X",
 	"features_es": {
 	}
 }
