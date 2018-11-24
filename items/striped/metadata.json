@@ -1,0 +1,38 @@
+{
+	"name": "Striped",
+	"version": "2.0",
+	"release_date": "2018-11-24",
+	"license": "CCA 3.0",
+	"author_username": "diego",
+	"price_usd": "0",
+	"download_url": "",
+	"download_url_v3": "https://github.com/bludit-themes/striped/archive/striped-2.0.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/bludit-themes/striped",
+	"credits": "HTML5UP",
+	"credits_url": "https://html5up.net",
+	"description": "Striped designed by HTML5-UP is a perfect theme for blogs. Minimalistic design and responsive.",
+	"features": {
+		"0": "Fully responsive.",
+		"1": "Full support of sidebar plugins.",
+		"2": "Free for personal and commercial use under the CCA 3.0 license."
+	},
+	"description_de": "Striped designed by HTML5-UP is a perfect theme for blogs. Minimalistic design and responsive.",
+	"features_de": {
+		"0": "Fully responsive.",
+		"1": "Full support of sidebar plugins.",
+		"2": "Free for personal and commercial use under the CCA 3.0 license."
+	},
+	"description_es": "Striped diseñado por HTML5-UP es un tema perfecto para los blogs. Diseño minimalista y receptivo.",
+	"features_es": {
+		"0": "Totalmente receptivo.",
+		"1": "Soporte de plugins.",
+		"2": "Libre para uso personal y comercial bajo la licencia de CCA 3,0."
+	},
+	"description_ru": "Striped designed by HTML5-UP is a perfect theme for blogs. Minimalistic design and responsive.",
+	"features_ru": {
+		"0": "Fully responsive.",
+		"1": "Full support of sidebar plugins.",
+		"2": "Free for personal and commercial use under the CCA 3.0 license."
+	}
+}
