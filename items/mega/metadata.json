@@ -10,11 +10,18 @@
 	"information_url": "https://bludit.ru/themes/mega/",
 	"credits": "",
 	"credits_url": "",
-	"description": "Theme for Bludit CMS",
+	"description": "Theme for Bludit CMS with a huge site header. Supports many plugins. It looks quite interesting because of its appearance, like a news feed on social network.",
 	"features": {
         "0": "Template for blog, information site",
         "1": "Responsive design",
 	"2": "Supported Plugins: About, Categories, Disqus, Links, Navigation, Search, Static Pages, Tags list",
 	"3": "Free"
+	},
+	"description_ru": "Тема для Bludit CMS с огромной шапкой сайта. Поддерживает множество плагинов. Смотрится довольно интересно из-за своего внешнего вида, немного напоминающего ленту новостей в какой-нибудь социальной сети.",
+	"features_ru": {
+        "0": "Шаблон для блога, информационного сайта",
+        "1": "Адаптивный под разные разрешения экранов дизайн.",
+	"2": "Поддерживает плагины такие как: О нас, Категории, Disqus, Ссылки, Навигация, Поиск, Статические записи, Теги",
+	"3": "Бесплатна. (Да, тут почти всё бесплатно, я не знаю почему они это подают как Особенность с большой буквы)."
 	}
 }

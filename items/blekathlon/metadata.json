@@ -12,11 +12,11 @@
   "credits_url": "",
   "description": "Modern, elegant and fast Bludit theme for your blog, portfolio or showcase site.",
   "features": {
-    "0": "Search functionality (require activated BlThemes Plugin )",
-    "1": "Categories appear automatically in the menu if they have pages",
-    "2": "Static pages are automatically added to the footer",
-    "3": "Related pages support (need 4 or more pages in Category)",
-    "4": "Social media integration (Facebook, Twitter, Google+, etc.) and share buttons for Facebook and Twitter"
+    "0": "Search functionality (require activated BlThemes Plugin).",
+    "1": "Categories appear automatically in the menu if they have pages.",
+    "2": "Static pages are automatically added to the footer.",
+    "3": "Related pages support (need 4 or more pages in Category).",
+    "4": "Social media integration (Facebook, Twitter, Google+, etc.) and share buttons for Facebook and Twitter."
   },
   "description_de": "Modernes, elegantes und schnelles Theme für Blogs und Portfolios.",
   "features_de": {
@@ -29,6 +29,14 @@
     "0": "",
     "1": "",
     "2": ""
+  },
+  "description_ru": "Современная, элегантная и быстрая тема Bludit для вашего блога, портфолио или каталога решённых вами задач.",
+  "features_ru": {
+    "0": "Функция поиска (требуется активированный плагин от BlThemes).",
+    "1": "Категории автоматически отображаются в меню, если в них есть записи.",
+    "2": "Статические записи автоматически добавляются в нижний колонтитул (в подвал сайта).",
+    "3": "Поддержка связанных записей (требуется 4 или более записей в категории).",
+    "4": "Интеграция социальных сетей (Facebook, Twitter, Google+ и т. д.) и кнопки \"поделиться\" для Facebook и Twitter."
   },
   "author_username": "blthemes"
 }

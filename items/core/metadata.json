@@ -28,5 +28,10 @@
 		"0": "Liviano.",
 		"1": "Utiliza fuentes de sistema predeterminadas.",
 		"2": "Resaltado de sintaxis de código automático."
-	}
+	},
+	"description_ru": "Еще одна минималистичная тема для Bludit - Сделана без каких-либо фреймворков.",
+	"features_ru": {
+		"0": "Лёгкая.",
+		"1": "Использует системные шрифты по умолчанию.",
+		"2": "Имеет дополнительную автоматическую подсветку синтаксиса кода."
 }

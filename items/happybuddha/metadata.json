@@ -11,8 +11,8 @@
 	"credits_url": "",
 	"description": "A theme specially for a happy Buddha!",
 	"features": {
-		"0": "",
-		"1": "",
+		"0": "Has an image in the header of the site.",
+		"1": "Sidebar Plugins support.",
 		"2": "",
 		"3": ""
 	},
@@ -27,6 +27,12 @@
 	"features_es": {
 		"0": "",
 		"1": "",
+		"2": ""
+	},
+	"description_ru": "Тема специально для счастливого Будды! (кем бы он ни был).",
+	"features_ru": {
+		"0": "Имеет изображение в шапке сайта.",
+		"1": "Поддержка плагинов задействующих боковую панель.",
 		"2": ""
 	},
 	"author_username": "cblte"
