@@ -16,9 +16,9 @@
     "1": "Categories appear automatically in the menu if they have pages.",
     "2": "Static pages are automatically added to the footer.",
     "3": "Related pages support (need 3 or more pages in Category).",
-	"4": "Search functionality.",
-	"5": "Search engine optimized.",
-	"6": "Syntax highlighting for code blocks.",
+    "4": "Search functionality.",
+    "5": "Search engine optimized.",
+    "6": "Syntax highlighting for code blocks.",
     "4": "Social media integration (Facebook, Twitter, Google+, etc.) and share buttons for Facebook and Twitter."
   },
   "description_de": "Modernes, elegantes und schnelles Theme für Blogs und Portfolios.",
@@ -33,7 +33,7 @@
     "1": "",
     "2": ""
   },
-  "description_ru": "Современная, элегантная и быстрая тема Bludit для вашего блога, портфолио или каталога решённых вами задач.",
+  "description_ru": "",
   "features_ru": {
     "0": "",
     "1": "",
