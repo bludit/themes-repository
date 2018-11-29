@@ -1,0 +1,43 @@
+{
+  "name": "DevTheme",
+  "version": "3.0.0",
+  "release_date": "2018-11-29",
+  "license": "MIT",
+  "price_usd": "0",
+  "download_url": "",  
+  "download_url_v3": "https://blthemes.pp.ua/download/devtheme.zip",
+  "demo_url": "https://blthemes.pp.ua/devtheme/",
+  "information_url": "https://blthemes.pp.ua/devtheme/info",
+  "credits": "Diego Najar, anaggh",
+  "credits_url": "",
+  "description": "A simple, clean, minimalist theme, featuring content-focused design and single-column layout. Good for developers or authors who wants to share their code or opinion.",
+  "features": {
+    "0": "Fast, simple and responsive Bludit theme.",
+    "1": "Categories appear automatically in the menu if they have pages.",
+    "2": "Static pages are automatically added to the footer.",
+    "3": "Related pages support (need 3 or more pages in Category).",
+    "4": "Search functionality.",
+    "5": "Search engine optimized.",
+    "6": "Syntax highlighting for code blocks.",
+    "4": "Social media integration (Facebook, Twitter, Google+, etc.) and share buttons for Facebook and Twitter."
+  },
+  "description_de": "Modernes, elegantes und schnelles Theme für Blogs und Portfolios.",
+  "features_de": {
+    "0": "",
+    "1": "",
+    "2": ""
+  },
+  "description_es": "",
+  "features_es": {
+    "0": "",
+    "1": "",
+    "2": ""
+  },
+  "description_ru": "",
+  "features_ru": {
+    "0": "",
+    "1": "",
+    "2": ""
+  },
+  "author_username": "blthemes"
+}
