@@ -19,7 +19,7 @@
     "4": "Search functionality.",
     "5": "Search engine optimized.",
     "6": "Syntax highlighting for code blocks.",
-    "4": "Social media integration (Facebook, Twitter, Google+, etc.) and share buttons for Facebook and Twitter."
+    "7": "Social media integration (Facebook, Twitter, Google+, etc.) and share buttons for Facebook and Twitter."
   },
   "description_de": "Modernes, elegantes und schnelles Theme für Blogs und Portfolios.",
   "features_de": {
@@ -33,11 +33,16 @@
     "1": "",
     "2": ""
   },
-  "description_ru": "",
+  "description_ru": "Простая, чистая, минималистичная тема с дизайном ориентированным на контент, и макетом из одной колонки. Хорошо подойдёт для разработчиков или авторов, которые хотят поделиться своим кодом или мнением.",
   "features_ru": {
-    "0": "",
-    "1": "",
-    "2": ""
+    "0": "Быстрая, простая и отзывчивая тема Bludit.",
+    "1": "Категории появляются автоматически в меню, если в них есть записи.",
+    "2": "Статические записи автоматически добавляются в нижний колонтитул.",
+    "3": "Поддержка связанных страниц (нужно 3 или более страниц в категории).",
+    "4": "Функция поиска по сайту",
+    "5": "Поисковая система сайта оптимизирована.",
+    "6": "Подсветка синтаксиса для блоков кода.",
+    "7": "Интеграция с социальными сетями (Facebook, Twitter, Google+ и т. д.) И кнопки \"поделиться\" для Facebook и Twitter."
   },
   "author_username": "blthemes"
 }
