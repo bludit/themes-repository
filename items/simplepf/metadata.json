@@ -5,7 +5,7 @@
 	"release_date": "2018-10-11",
 	"license": "paid",
 	"price_usd": "10",
-	"download_url": "https://jellyio.com/shop/bludit/simplepf",
+	"download_url_v2": "https://jellyio.com/shop/bludit/simplepf",
 	"demo_url": "https://jellyio.com/bludit",
 	"information_url": "https://jellyio.com/shop/bludit/simplepf",
 	"credits": "",
@@ -37,5 +37,5 @@
 		"1": "В комплекте идёт плагин для изменения внешнего вида темы без непосредственной работы с кодом (включая предварительный просмотр в режиме реального времени на странице плагина).",
 		"2": "Поддержка изображений обложки.",
 		"3": "Адаптивный веб-дизайн."
-	}	
+	}
 }
