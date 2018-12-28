@@ -4,7 +4,7 @@
 	"release_date": "2018-05-03",
 	"license": "",
 	"price_usd": "-1",
-	"download_url_v2": "https://gumroad.com/l/blogr",
+	"download_url": "https://gumroad.com/l/blogr",
 	"demo_url": "http://wanted.buzz",
 	"information_url": "https://gumroad.com/l/blogr",
 	"credits": "",
@@ -23,9 +23,9 @@
 	},
 	"description_es": "Tema para bloggers.",
 	"features_es": {
-		"0": "",
-		"1": "",
-		"2": ""
+		 "0 ": "Tres diseños diferentes.",
+		 "1 ": "Diferentes diseños para páginas, páginas sticky y páginas estáticas.",
+		 "2 ": "Categoría y lista de etiquetas con diseño personalizado."
 	},
 	"description_ru": "Отличная тема для блоггеров.",
 	"features_ru": {
