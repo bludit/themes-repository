@@ -1,27 +1,28 @@
 {
 	"name": "Echo",
-	"version": "1.0",
-	"release_date": "2018-01-02",
+	"version": "3.5",
+	"release_date": "2018-12-19",
 	"license": "GPL-3.0",
 	"price_usd": "0",
-	"download_url_v2": "https://github.com/marekrost/echo/archive/master.zip",
+	"download_url": "https://github.com/marekrost/echo/archive/master.zip",
+	"download_url_v2": "https://github.com/marekrost/echo/archive/v2.3.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/marekrost/echo",
 	"credits": "",
 	"credits_url": "",
-	"description": "Bludit and Bootstrap 3 version of original Echo theme for Nibbleblog by Diego Najar.",
+	"description": "Bludit and Bootstrap 4 version of original Echo theme for Nibbleblog by Diego Najar.",
 	"features": {
 		"0": "Lightweight.",
 		"1": "Responsive design.",
 		"2": ""
 	},
-	"description_de": "",
+	"description_de": "Bludit und Bootstrap 4-Version des ursprünglichen Echo-Theme für Nibbleblog von Diego Najar.",
 	"features_de": {
-		"0": "",
-		"1": "",
+		"0": "Leicht.",
+		"1": "Sich anpassendes Design.",
 		"2": ""
 	},
-	"description_es": "",
+	"description_es": "Bludit y Bootstrap 4 versión del tema original de Echo para Nibbleblog por Diego Najar.",
 	"features_es": {
 		"0": "",
 		"1": "",
