@@ -17,11 +17,11 @@
 		"1": "Uses default system fonts.",
 		"2": "Optional automatic Code Syntax Highlighting."
 	},
-	"description_de": "",
+	"description_de": "Ein weiteres minimales Template für Bludit - Basiert auf keinem Framework",
 	"features_de": {
-		"0": "",
-		"1": "",
-		"2": ""
+		"0": "Leichtgewichtig",
+		"1": "verwendet Standard System Schriften ",
+		"2": "Optionales Code Syntax Highlighting"
 	},
 	"description_es": "Otro tema minimalista para Bludit - No esta basado en ningún framework.",
 	"features_es": {
