@@ -17,7 +17,7 @@
 		"2": "Footer with social links.",
 		"3": "Static pages are automatically added to the navbar."
 	},
-	"description_de": "Einfaches, minimalistisches Thema.",
+	"description_de": "",
 	"features_de": {
 		"0": "",
 		"1": "",
@@ -37,5 +37,5 @@
 		"1": "Полностью адаптируемая",
 		"2": "Нижний колонтитул (подвал сайта) с ссылками на социальные сети",
 		"3": "Статические страницы автоматически добавляются в навигационную панель."
-	},
+	}
 }
