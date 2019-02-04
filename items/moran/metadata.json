@@ -1,0 +1,41 @@
+{
+	"name": "Moran",
+	"version": "3.7",
+	"author_username": "vikgor",
+	"release_date": "2019-02-04",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/vikgor/moran/archive/master.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/vikgor/moran",
+	"credits": "",
+	"credits_url": "https://github.com/vikgor/moran",
+	"description": "Moran is a simple and minimalistic theme for Bludit.",
+	"features": {
+		"0": "Cover image support.",
+		"1": "Fully responsive.",
+		"2": "Footer with social links.",
+		"3": "Static pages are automatically added to the navbar."
+	},
+	"description_de": "Einfaches, minimalistisches Thema.",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": "",
+		"3": ""
+	},
+	"description_es": "Moran es un tema minimalista y sencillo para Bludit.",
+	"features_es": {
+		"0": "Soporte de imagen de portada.",
+		"1": "Responsive.",
+		"2": "Pie de pagina con enlaces a las redes sociales.",
+		"3": "Las páginas estáticas se agregan automáticamente a la barra de navegación."
+	},
+	"description_ru": "Простая, минималистичная тема для Bludit.",
+	"features_ru": {
+		"0": "Поддержка обложки",
+		"1": "Полностью адаптируемая",
+		"2": "Нижний колонтитул (подвал сайта) с ссылками на социальные сети",
+		"3": "Статические страницы автоматически добавляются в навигационную панель."
+	},
+}
