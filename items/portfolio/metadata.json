@@ -1,36 +1,35 @@
 {
 	"name": "Portfolio",
 	"version": "3.7",
-	"author_username": "Viktor G.",
+	"author_username": "vikgor",
 	"release_date": "2019-02-04",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url_v2": "",
 	"download_url": "https://github.com/vikgor/portfolio/archive/master.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/vikgor/portfolio",
 	"credits": "",
 	"credits_url": "https://github.com/vikgor/portfolio",
-	"description": "Portfolio is a simple and minimalistic theme, displays cover images and is great for a personal portfolio.",
+	"description": "Portfolio is a simple and minimalist theme, displays cover images and is great for a personal portfolio.",
 	"features": {
 		"0": "Cover image as thumbnail",
 		"1": "Random pastel colors used instead if cover image is not set",
 		"2": "Jetpack gallery with carousel feature",
 		"3": "Navbar with social links and static pages"    
 	},
-	"description_de": "Einfaches, minimalistisches Thema.",
+	"description_de": "",
 	"features_de": {
 		"0": "",
 		"1": "",
 		"2": "",
 		"3": ""
 	},
-	"description_es": "Tema simple, minimalista.",
+	"description_es": "Portfolio es un tema sencillo y minimalista, muestra imágenes de portada y es ideal para una cartera personal.",
 	"features_es": {
-		"0": "",
-		"1": "",
-		"2": "",
-		"3": ""
+		 "0": "imagen de portada como miniatura.",
+		 "1": "Colores pastel aleatorios utilizados en su lugar si la imagen de portada no está configurada.",
+		 "2": "Galería Jetpack con función de carrusel.",
+		 "3": "Barra de navegación con enlaces sociales y páginas estáticas."
 	},
 	"description_ru": "Простая, минималистичная тема для Bludit.",
 	"features_ru": {
