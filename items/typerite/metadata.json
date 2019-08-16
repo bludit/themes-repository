@@ -1,0 +1,37 @@
+{
+	"name": "Typerite",
+	"version": "1.0",
+	"release_date": "2019-08-16",
+	"license": "Styleshout",
+	"author_username": "diego",
+	"price_usd": "0",
+	"download_url": "https://github.com/bludit-themes/typerite/archive/1.0.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/bludit-themes/typerite",
+	"credits": "Styleshout",
+	"credits_url": "https://www.styleshout.com",
+	"description": "Clean and modern masonry blog theme. It features a clean minimalist contemporary design and puts emphasis on your content. It is versatile and flexible and can be used with different niches like travel, personal, tutorial, and lifestyle just to name a few.",
+	"features": {
+		"0": "Responsive.",
+		"1": "Support breakpage.",
+		"2": "Support cover images.",
+		"3": "Support categories.",
+		"4": "Support search plugin.",
+		"5": "Support static pages."
+	},
+	"description_de": "",
+	"features_de": {
+	},
+	"description_es": "Tema ordenado por cuadros, limpio y moderno. Cuenta con un diseño minimalista y limpio y pone énfasis en su contenido. Es versátil y flexible y se puede utilizar en diferentes sitios web o blogs como viajes, personal, tutorial, estilo de vida, etc.",
+	"features_es": {
+		"0": "Responsive.",
+		"1": "Soporta breakpage.",
+		"2": "Soporta imágenes de portada.",
+		"3": "Soporta categorías.",
+		"4": "Soporta buscador integrado.",
+		"5": "Soporta páginas estáticas."
+	},
+	"description_ru": "",
+	"features_ru": {
+	}
+}
