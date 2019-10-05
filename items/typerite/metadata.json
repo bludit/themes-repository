@@ -19,8 +19,14 @@
 		"4": "Support search plugin.",
 		"5": "Support static pages."
 	},
-	"description_de": "",
+	"description_de": "Simples und modernes Blog Theme. Es bietet ein minimalistisches, zeitgemäßes Design und legt Wert auf den Inhalt. Es ist flexibel und vielseitig und kann mit unterschiedlichen Themengebieten wie Reise, Privatem, Anleitungen oder Lifestyle genutzt werden. Das Design wurde erstellt von <a href=\"https://www.styleshout.com/\">StyleShout</a>",
 	"features_de": {
+		"0": "Responsives Design.",
+		"1": "Unterstützt Seitenumbrüche.",
+		"2": "Unterstützt Titelbilder.",
+		"3": "Unterstützt Kategorien.",
+		"4": "Unterstützt Such-Plugins.",
+		"5": "Unterstützt statische Seiten."
 	},
 	"description_es": "Tema ordenado por cuadros, limpio y moderno. Cuenta con un diseño minimalista y limpio y pone énfasis en su contenido. Es versátil y flexible y se puede utilizar en diferentes sitios web o blogs como viajes, personal, tutorial, estilo de vida, etc. Diseñado por <a href=\"https://www.styleshout.com/\">StyleShout</a>",
 	"features_es": {
