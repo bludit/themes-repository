@@ -1,0 +1,33 @@
+{
+	"name": "Tagg",
+	"version": "1.1",
+	"release_date": "2019-10-20",
+	"license": "MIT",
+	"author_username": "diego",
+	"price_usd": "0",
+	"download_url": "https://github.com/bludit-themes/tagg/archive/1.1.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/bludit-themes/tagg",
+	"credits": "",
+	"credits_url": "",
+	"description": "Minimalist theme. The left sidebar shows only the tags in the system and are highlighted when a user is browsing a page with that tags.",
+	"features": {
+		"0": "Responsive.",
+		"1": "Tags on sidebar."
+	},
+	"description_de": "",
+	"features_de": {
+		"0": "",
+		"1": ""
+	},
+	"description_es": "Tema minimalista. La barra lateral izquierda muestra solo las etiquetas del sistema y se resaltan cuando un usuario navega por una página con esas etiquetas.",
+	"features_es": {
+		"0": "Responsive.",
+		"1": "Tags en la barra lateral."
+	},
+	"description_ru": "",
+	"features_ru": {
+		"0": "",
+		"1": ""
+	}
+}
