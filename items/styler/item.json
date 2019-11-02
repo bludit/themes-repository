@@ -14,24 +14,24 @@
 	"features": {
 		"0": "Full-screen image slider",
 		"1": "Fade in animation (AOS)",
-		"2": ""
+		"2": "SASS"
 	},
 	"description_de": "Styler ist ein leichtes und ansprechendes Thema, das einen Vollbild-Schieberegler enthält.",
 	"features_de": {
 		"0": "Vollbild-Schieberegler",
 		"1": "Animation einblenden (AOS)",
-		"2": ""
+		"2": "SASS"
 	},
 	"description_es": "Styler es un tema ligero y receptivo que incluye un control deslizante de pantalla completa.",
 	"features_es": {
 		"0": "Control deslizante de imagen a pantalla completa",
 		"1": "Fundido en animación (AOS)",
-		"2": ""
+		"2": "SASS"
 	},
 	"description_ru": "Styler - это легкая и отзывчивая тема, включающая полноэкранный слайдер.",
 	"features_ru": {
 		"0": "Полноэкранный слайдер изображений",
 		"1": "Исчезать в анимации (AOS)",
-		"2": ""
+		"2": "SASS"
 	}
 }
