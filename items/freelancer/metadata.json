@@ -1,0 +1,37 @@
+{
+  "name": "Freelancer",
+  "version": "3.0",
+  "release_date": "2019-07-06",
+  "license": "MIT",
+  "price_usd": "0",
+  "download_url": "https://bitbucket.org/Blackneron/freelancer/downloads/freelancer_theme_3.zip",
+  "demo_url": "https://pb-soft.com/freelancer_theme_3/",
+  "information_url": "https://bitbucket.org/Blackneron/freelancer",
+  "credits": "",
+  "credits_url": "",
+  "description": "A fast and responsive theme for the Bludit CMS.",
+  "features": {
+    "0": "",
+    "1": "",
+    "2": ""
+  },
+  "description_de": "Eine schnelle und responsive Vorlage für das Bludit CMS.",
+  "features_de": {
+    "0": "",
+    "1": "",
+    "2": ""
+  },
+  "description_es": "Un tema rápido y receptivo para el Bludit CMS.",
+  "features_es": {
+    "0": "",
+    "1": "",
+    "2": ""
+  },
+  "description_ru": "Быстрая и отзывчивая тема для Bludit CMS.",
+  "features_ru": {
+    "0": "",
+    "1": "",
+    "2": ""
+  },
+  "author_username": "blackneron"
+}

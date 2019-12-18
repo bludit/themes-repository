@@ -1,10 +1,11 @@
 {
 	"name": "Lingoberry",
-	"version": "1.0",
-	"release_date": "2018-01-10",
+	"version": "2.1",
+	"author_username": "acrox999",
+	"release_date": "2019-10-19",
 	"license": "GPL 2.0",
 	"price_usd": "",
-	"download_url_v2": "https://github.com/bludit-themes/lingonberry/archive/master.zip",
+	"download_url": "https://github.com/bludit-themes/lingonberry/archive/2.1.zip",
 	"demo_url": "",
 	"information_url": "https://github.com/bludit-themes/lingonberry",
 	"credits": "",
@@ -21,10 +22,10 @@
 		"1": "",
 		"2": ""
 	},
-	"description_es": "",
+	"description_es": "Lingonberry es un tema especial para blogs con una linda interfaz lograda, portado a Bludit por Hakim Zulkufli.",
 	"features_es": {
-		"0": "",
-		"1": "",
+		"0": "Hermoso diseño.",
+		"1": "Responsive.",
 		"2": ""
 	},
 	"description_ru": "Lingonberry - это светлая и простая тема для блоггеров, с отзывчивым дизайном и красивой типографикой. Создана на основе темы Lingoberry для Wordpress шведского дизайнера Андерса Норена.",
@@ -32,6 +33,5 @@
 		"0": "Красивый дизайн.",
 		"1": "Адаптивность и отличная адаптированность под Ретина дисплеи.",
 		"2": ""
-	},
-	"author_username": ""
+	}
 }
