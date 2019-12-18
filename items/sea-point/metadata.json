@@ -1,8 +1,8 @@
 {
 	"name": "Sea Point",
-	"version": "3.7",
+	"version": "3.10.0",
 	"author_username": "vikgor",
-	"release_date": "2019-02-04",
+	"release_date": "2019-12-18",
 	"license": "MIT",
 	"price_usd": "0",
 	"download_url": "https://github.com/vikgor/sea-point/archive/master.zip",
@@ -15,7 +15,8 @@
 		"0": "Cover image support",
 		"1": "Fully responsive",
 		"2": "Footer with social links",
-		"3": "Static pages are automatically added to the navbar"
+		"3": "Static pages are automatically added to the navbar",
+        "4": "System-based dark mode"
 	},
 	"description_de": "",
 	"features_de": {
@@ -36,6 +37,7 @@
 		"0": "Поддержка обложки",
 		"1": "Полностью адаптируемая",
 		"2": "Нижний колонтитул (подвал сайта) с ссылками на социальные сети",
-		"3": "Статические страницы автоматически добавляются в навигационную панель."
+		"3": "Статические страницы автоматически добавляются в навигационную панель.",
+        "4": "Тёмная тема, зависящая от настроек системы."
 	}
 }
