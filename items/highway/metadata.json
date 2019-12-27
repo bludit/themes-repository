@@ -1,0 +1,41 @@
+{
+	"name": "Highway",
+	"version": "",
+	"author_username": "crimes",
+	"release_date": "2019-12-25",
+	"license": "paid",
+	"price_usd": "19",
+	"download_url": "https://jellyio.com/shop/bludit/highway",
+	"demo_url": "https://jellyio.com/bludit/highway",
+	"information_url": "https://jellyio.com/shop/bludit/highway",
+	"credits": "",
+	"credits_url": "",
+	"description": "Theme for blogs and portfolios.",
+	"features": {
+		"0": "Plugin that allows to customise the layout and grid of the theme.",
+		"1": "Additional plugin to display Instagram news feed.",
+		"2": "Comprehensive user guide.",
+		"3": ""
+	},
+	"description_de": "Theme für Blogs und Portfolios",
+	"features_de": {
+		"0": "Plugin zur Anpassung des Layouts und des Gitters des Themes.",
+		"1": "Zusätzliches Plugin zur Anzeige eines Instagram-Feeds.",
+		"2": "Umfassende Anleitung.",
+		"3": ""
+	},
+	"description_es": "",
+	"features_es": {
+		"0": "",
+		"1": "",
+		"2": "",
+		"3": ""
+	},
+	"description_ru": "",
+	"features_ru": {
+		"0": "",
+		"1": "",
+		"2": "",
+		"3": ""
+	}
+}
