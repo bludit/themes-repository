@@ -1,26 +1,26 @@
 {
 	"name": "PMFWS",
-	"version": "1.1",
-	"release_date": "2018-09-09",
-	"license": "MIT",
-	"price_usd": "",
-	"download_url": "https://git.tchncs.de/cblte/bludit-theme-pmfws/-/archive/v1.1/bludit-theme-pmfws-v1.1.zip",
-	"demo_url": "",
-	"information_url": "https://git.tchncs.de/cblte/bludit-theme-pmfws",
+	"version": "3.0",
+	"release_date": "2020-02-16",
+	"license": "WTFPL",
+	"price_usd": "0",
+	"download_url": "https://github.com/cblte/bludit-theme-pmfws",
+	"demo_url": "https://blthemes.zn80.net/pmfws/",
+	"information_url": "https://github.com/cblte/bludit-theme-pmfws",
 	"credits": "",
 	"credits_url": "",
-	"description": "A theme for bloggers in favour of the website perfectmotherfuckingwebsite.com.",
+	"description": "This theme is a simple blogging theme without much styling. Just use, what the browser offers to you.",
 	"features": {
-		"0": "Simple and reliable as the Russian AK47 machine gun.",
-		"1": "",
-		"2": "",
+		"0": "simple but responsive",
+		"1": "just blogging",
+		"2": "header image",
 		"3": ""
 	},
-	"description_de": "Blog-Theme auf der Basis der Website perfectmotherfuckingwebsite.com.",
+	"description_de": "Ein einfaches und simples Blogging-Theme ohne viel CSS. Nutze das, was dein Browser hergibt.",
 	"features_de": {
-		"0": "",
-		"1": "",
-		"2": "",
+		"0": "einfach aber responsive",
+		"1": "einfach nur bloggen",
+		"2": "header image",
     		"3": ""
 	},
 	"description_es": "",
@@ -30,11 +30,11 @@
 		"2": "",
     		"3": ""
 	},
-	"description_ru": "Тема для блоггеров разработанная для сайта perfectmotherfuckingwebsite.com.",
+	"description_ru": "Простая и простая тема блогов без большого количества CSS. Используйте то, что ваш браузер может предложить.",
 	"features_ru": {
-		"0": "Простая и надёжная, как русский автомат АК47.",
-		"1": "",
-		"2": "",
+		"0": "simple but responsive",
+		"1": "just blogging",
+		"2": "header image",
     		"3": ""
 	},
 	"author_username": "cblte"
