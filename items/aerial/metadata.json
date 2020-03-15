@@ -1,0 +1,37 @@
+{
+	"name": "Aerial",
+	"version": "1.0",
+	"author_username": "SimonK",
+	"release_date": "2020-03-14",
+	"license": "CCA 3.0",
+	"price_usd": "0",
+	"download_url": "https://github.com/crydotsnake/bludit-aerial/archive/1.0.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/crydotsnake/bludit-aerial",
+	"credits": "HTML5up.net",
+	"credits_url": "https://html5up.net",
+	"description": "Aerial is a simple template by html5up.net",
+	"features": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_de": "Aerial ist ein einfaches template von HTML5up.net",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_es": "",
+	"features_es": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_ru": "",
+	"features_ru": {
+		"0": "",
+		"1": "",
+		"2": ""
+	}
+}
