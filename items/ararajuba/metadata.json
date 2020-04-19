@@ -1,0 +1,43 @@
+{
+	"name": "Ararajuba",
+	"version": "0.1",
+	"author_username": "fabianosantosnet",
+	"release_date": "2020-04-19",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/fabianosantosnet/rep-bludit/themes/ararajuba/ararajuba-theme-bludit.zip",
+	"demo_url": "",
+	"information_url": "https://fabianosantosnet.github.io/bluditCMS/",
+	"credits": "@fabianosantosnet",
+	"credits_url": "https://www.fabianosantos.net/",
+	"description": "Simple theme ...",
+	"features": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_pt": "Tema simples ...",
+	"features_pt": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},	
+	"description_de": "",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_es": "",
+	"features_es": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_ru": "",
+	"features_ru": {
+		"0": "",
+		"1": "",
+		"2": ""
+	}
+}
