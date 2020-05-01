@@ -1,0 +1,49 @@
+{
+	"name": "Ararajuba",
+	"version": "1.0",
+	"author_username": "fabianosantosnet",
+	"release_date": "2020-05-01",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://raw.githubusercontent.com/fabianosantosnet/rep-bludit/master/themes/ararajuba/ararajuba-theme-bludit.zip",
+	"demo_url": "https://fabianosantosnet.github.io/bluditCMS/",
+	"information_url": "https://github.com/fabianosantosnet/rep-bludit/tree/master/themes/ararajuba/",
+	"credits": "@fabianosantosnet",
+	"credits_url": "https://www.fabianosantos.net/",
+	"description": "Its Portuguese and indigenous name, Ararajúba, means small yellow macaw. Native to the Amazon Basin of interior northern Brazil is threatened by deforestation and flooding, and also by the now-illegal trapping of wild individuals for the pet trade. / White and gray simple theme with 2 columns (sidebar and main) responsive, featured content, pagination by name and number. ",
+	"features": {
+		"0": "Support all default plugins already installed on Bludit 3.x, also links to parent and child pages.",
+		"1": "Sticky pages appear on top of home page (one or more pages from that type is required to show it).",
+		"2": " Logo uploaded by Administration Panel - sizes required: 200x100",
+		"3":"Article show cover image if it is set, otherwise image from page content will show, if none is defined it show default image.",
+		"4":"Recommended image size 717x300 - cover.",
+		"5":"Some config in init.php."
+	},
+	"description_pt": "Seu nome português e indígena, Ararajúba, significa pequena arara amarela. Nativo da Bacia Amazônica do interior do norte do Brasil está ameaçado pelo desmatamento e inundações, e também pela agora ilegal captura de indivíduos selvagens para o comércio de animais. / Tema simples em branco e cinza com 2 colunas (barra lateral e principal), conteúdo em destaque, paginação por nome e número.",
+	"features_pt": {
+		"0": "Suporte todos os plug-ins padrão já instalados no Bludit 3.x, também links para páginas pai e filho.",
+		"1": "As páginas adesivas aparecem na parte superior da página inicial (é necessária uma ou mais páginas desse tipo para mostrá-la).",
+		"2": "Logotipo enviado pelo Painel de Administração - tamanhos necessários: 200x100.",
+		"3": "O artigo mostra a imagem de capa, se estiver definido, caso contrário, a imagem do conteúdo da página será exibida; se nenhum estiver definido, será exibida a imagem padrão.",
+		"4": "Tamanho de imagem recomendado 717x300 - capa.",
+		"5": "Alguma configuração no arquivo init.php."
+	},	
+	"description_de": "",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_es": "",
+	"features_es": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_ru": "",
+	"features_ru": {
+		"0": "",
+		"1": "",
+		"2": ""
+	}
+}
