@@ -1,0 +1,41 @@
+{
+	"name": "Perfect Bludit Theme",
+	"version": "3.0",
+	"release_date": "2020-05-16",
+	"license": "WTFPL",
+	"price_usd": "0",
+	"download_url": "https://github.com/MrCyjaneK/Perfect-Bludit-Theme",
+	"demo_url": "https://oldpc.mrcyjanek.net/blog/why-does-this-website-look-like-this",
+	"information_url": "https://oldpc.mrcyjanek.net/blog/why-does-this-website-look-like-this",
+	"credits": "",
+	"credits_url": "",
+	"description": "It couldn't be more minimal",
+	"features": {
+		"0": "",
+		"1": "",
+		"2": "",
+		"3": ""
+	},
+	"description_de": "Es könnte nicht minimaler sein",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": "",
+    		"3": ""
+	},
+	"description_es": "No podría ser más mínimo",
+	"features_es": {
+		"0": "",
+		"1": "",
+		"2": "",
+    		"3": ""
+	},
+	"description_ru": "Это не может быть более минимальным",
+	"features_ru": {
+		"0": "",
+		"1": "",
+		"2": "",
+    		"3": ""
+	},
+	"author_username": "czarek-nakamoto"
+}
