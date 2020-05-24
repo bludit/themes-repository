@@ -1,0 +1,49 @@
+{
+	"name": "Dark Green Code",
+	"version": "1.0",
+	"author_username": "fabianosantosnet",
+	"release_date": "2020-05-24",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://raw.githubusercontent.com/fabianosantosnet/rep-bludit/master/themes/darkgreencode/dark-green-code-bludit.zip",
+	"demo_url": "https://fabianosantosnet.github.io/bluditCMS/",
+	"information_url": "https://github.com/fabianosantosnet/rep-bludit/tree/master/themes/darkgreencode/",
+	"credits": "@fabianosantosnet",
+	"credits_url": "https://www.fabianosantos.net/",
+	"description": "Responsive black and green site template with one column, featured content (stick pages), search, static pages (navigation top links), support up to 3 plugins at the bottom page and some configuration in init.php.",
+	"features": {
+		"0": "Languages: english and portuguese.",
+		"1": "Default cover image size 200x100.",
+		"2": "Some CSS classes are available to use in your Bludit source code editor: left, right, center, w25, w50, w75, border, bg, opacity and grayscale.",
+		"3":"Logo image 228x204 (background header color #555555 - use that color when you create your logo to center image).",
+		"4":"File init.php - Set number of sticky pages on home page (variable $NUMBER_STICKY_PAGES_HOME_PAGE ); Set the name of author (variable $$authorName - meta tag info [default site footer info] ); Switch between 2 paginator types (bool $IS_PAGINATOR_BY_NUMBERS [default false]); Allow default image (bool $IS_COVER_IMAGE_FALLBACK_SET [default true / false don't show image]) and set image location ($_DEFAULT_COVER_IMAGE [default image generated from placeholder.com]).",
+		"5":""
+	},
+	"description_pt": "Modelo de site responsível preto e verde com uma coluna, suporte a páginas destacadas (sticky), estática e normais, 3 plugins no rodapé, além de customização via init.php.",
+	"features_pt": {
+		"0": "Disponibilizado em dois idiomas: portugues e inglẽs.",
+		"1": "Tamanho de imagem recomendada 200x100 - capa.",
+		"2": "Algumas classes CSS prontas para serem usadas no editor de código do Bludit como: left, right, center, w25, w50, w75, border, bg, opacity e grayscale.",
+		"3": "Imagem do logotipo 228x204 (envolva a imagem na cor #555555 para centralizá-la).",
+		"4": "Algumas customizações no arquivo init.php: Defina o número de páginas destacadas na página inicial (variável $ NUMBER_STICKY_PAGES_HOME_PAGE);Defina o nome do autor (variável $ authorName - informações da metatag [padrão: informações do rodapé do site]); Alterne entre dois tipos de paginadores (bool $ IS_PAGINATOR_BY_NUMBERS [padrão false]); Permitir imagem padrão (booleano $ IS_COVER_IMAGE_FALLBACK_SET [padrão verdadeiro / falso não mostra imagem]) e defina o local da imagem ($ _DEFAULT_COVER_IMAGE [imagem padrão gerada a partir de placeholder.com]).",
+		"5": ""
+	},	
+	"description_de": "",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_es": "",
+	"features_es": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_ru": "",
+	"features_ru": {
+		"0": "",
+		"1": "",
+		"2": ""
+	}
+}
