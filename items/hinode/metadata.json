@@ -1,5 +1,5 @@
 {
-	"name": "日の出 Hinode",
+	"name": "日の出 - Hinode",
 	"version": "1.0",
 	"release_date": "2020-05-30",
 	"license": "GPLv3",
@@ -9,7 +9,7 @@
 	"information_url": "https://github.com/hxii/hinode",
 	"credits": "",
 	"credits_url": "",
-	"description": " Clean, minimal and bright theme for Bludit. If you decide to use it and like it, please consider [donating/tipping](https://ko-fi.com/hxii_).",
+	"description": " Clean, minimal and bright theme for Bludit. If you decide to use it and like it, please consider <a href=\"https:\/\/ko-fi.com/hxii_\">donating/tipping<\/a>.
 	"features": {
 		"0": "",
 		"1": "",
