@@ -4,14 +4,14 @@
 	"release_date": "2020-06-03",
 	"license": "MIT",
 	"price_usd": "",
-	"download_url": "https://yadi.sk/d/rjdL-uT7ZHa0hQ",
+	"download_url": "https://yadi.sk/d/Gkm_Dv76Bd6F1w",
 	"demo_url": "",
 	"information_url": "",
 	"credits": "",
 	"credits_url": "",
 	"description": "Theme for Bludit, based on the theme KOH Terminal by fuchs.",
 	"features": {
-		"0": "The theme is RTL, for LTR you have to modify the file style.css.",
+		"0": "RTL and LTR version included.",
 		"1": "",
 		"2": "",
 		"3": ""
