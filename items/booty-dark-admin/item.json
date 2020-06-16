@@ -1,0 +1,38 @@
+{
+	"name": "Booty Dark Admin",
+	"version": "1.0.2",
+	"author_username": "JT WebTools",
+	"release_date": "01.06.2020",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/JTWebTools/booty-dark-admin-theme/releases",
+	"demo_url": "https://github.com/JTWebTools/booty-dark-admin-theme/tree/master/images",
+	"information_url": "https://github.com/JTWebTools/booty-dark-admin-theme",
+	"credits": "",
+	"credits_url": "",
+	"description": "Booty Dark Admin Theme",
+	"features": {
+		"0": "fixed and colored sidebar",
+		"1": "the appearance of the sidebar menu items",
+		"2": "display the main area on the right in a panel",
+		"3": "some menu item putting into icons"
+	},
+	"description_de": "_DESCRIPTION_GERMAN_",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_es": "_DESCRIPTION_SPANISH_",
+	"features_es": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_ru": "_DESCRIPTION_RUSSIAN_",
+	"features_ru": {
+		"0": "",
+		"1": "",
+		"2": ""
+	}
+}
