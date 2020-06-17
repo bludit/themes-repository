@@ -1,0 +1,42 @@
+{
+	"name": "μ",
+	"version": "1.0",
+	"release_date": "2020-05-03",
+	"license": "GPLv3",
+	"price_usd": "",
+	"download_url": "https://github.com/hxii/u/archive/master.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/hxii/u",
+	"credits": "",
+	"credits_url": "",
+	"description": "Minimalistic, clean theme.",
+	"features": {
+		"0": "Single PHP file for entry listing and entry page. Categories are only mentioned but not used. Tags are unused.",
+		"1": "666 bytes of CSS. 539 minified.",
+		"2": "Don't want 666 bytes of CSS? Add textonly to your request to serve HTML alone.",
+		"3": "Responsive.",
+    "4": "Dark mode as well."
+	},
+	"description_de": "",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": "",
+    "3": ""
+	},
+	"description_es": "",
+	"features_es": {
+		"0": "",
+		"1": "",
+		"2": "",
+		"3": ""
+	},
+	"description_ru": "",
+	"features_ru": {
+		"0": "",
+		"1": "",
+		"2": "",
+		"3": ""
+	},
+	"author_username": "hxii"
+}

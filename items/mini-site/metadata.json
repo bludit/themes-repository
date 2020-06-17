@@ -1,0 +1,43 @@
+{
+	"name": "Mini Site",
+	"version": "1.0",
+	"author_username": "fabianosantosnet",
+	"release_date": "2020-05-09",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://raw.githubusercontent.com/fabianosantosnet/rep-bludit/master/themes/mini-site/mini-site.zip",
+	"demo_url": "https://fabianosantosnet.github.io/bluditCMS/",
+	"information_url": "https://github.com/fabianosantosnet/rep-bludit/tree/master/themes/mini-site/",
+	"credits": "@fabianosantosnet",
+	"credits_url": "https://www.fabianosantos.net/",
+	"description": "Clean white and gray site with one column, featured content (stick pages), search, static pages (home top links), and some configuration in <code>init.php</code>.",
+	"features": {
+		"0": "Default cover image size 744x160.",
+		"1": "Some useful config in <code>init.php</code>.",
+		"2": ""
+	},
+	"description_pt": "Template cinza e branco com uma coluna, suporte a páginas destacadas (sticky), estática, normais e customização via init.php. Também suporte a paginação por nome e número.",
+	"features_pt": {
+		"0": "Tamanho de imagem recomendado 717x160 - capa.",
+		"1": "Algumas customizações no arquivo <code>init.php</code>.",
+		"2": ""
+	},	
+	"description_de": "",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_es": "",
+	"features_es": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_ru": "Просторный бело-серый дизайн с одним столбцом, избранным контентом (прикреплённые страницы), поиском, статическими страницами (главная, ссылки сверху) и некоторыми дополнительными настройками в <code>init.php</code>.",
+	"features_ru": {
+		"0": "Размер изображения обложки по умолчанию 744x160.",
+		"1": "Несколько полезных настроек в файле <code>init.php</code>.",
+		"2": ""
+	}
+}

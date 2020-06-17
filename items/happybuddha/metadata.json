@@ -1,12 +1,12 @@
 {
 	"name": "HappyBuddha",
-	"version": "1",
-	"release_date": "2018-09-01",
+	"version": "3.1",
+	"release_date": "2020-02-16",
 	"license": "MIT",
 	"price_usd": "",
-	"download_url": "https://git.tchncs.de/cblte/bludit-theme-happybuddha",
-	"demo_url": "",
-	"information_url": "https://git.tchncs.de/cblte/bludit-theme-happybuddha/-/archive/master/bludit-theme-happybuddha-master.zip",
+	"download_url": "https://github.com/cblte/bludit-theme-happybuddha/archive/3.1.zip",
+	"demo_url": "https://blthemes.zn80.net/happybuddha1975/",
+	"information_url": "https://github.com/cblte/bludit-theme-happybuddha",
 	"credits": "",
 	"credits_url": "",
 	"description": "A theme specially for a happy Buddha!",
@@ -18,8 +18,8 @@
 	},
 	"description_de": "Ein Theme besonders für einen glücklichen Buddha!",
 	"features_de": {
-		"0": "",
-		"1": "",
+		"0": "Header Image.",
+		"1": "Sidebar support.",
 		"2": "",
     "3": ""
 	},

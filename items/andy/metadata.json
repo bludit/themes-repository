@@ -1,0 +1,41 @@
+{
+  "name": "Andy",
+  "version": "0.1.0",
+  "release_date": "2020-05-27",
+  "license": "MIT",
+  "price_usd": "0",
+  "download_url": "https://themes.blog7.org/download/andy.zip",
+  "demo_url": "https://themes.blog7.org/andy/",
+  "information_url": "https://themes.blog7.org/info/",
+  "credits": "Diego Najar, Edi Goetschel",
+  "credits_url": "",
+  "description": "Welcome to Andy theme for Bludit CMS. Secure & stable, less than 35 kb, top-tier speeds, SEO optimized.",
+  "features": {
+    "0": "Working Contact form (require activated BlThemes Plugin - Contact3).",
+    "1": "Social media integration (Github, Twitter, Facebook).",
+    "2": "",
+    "3": "",
+    "4": ""
+  },
+  "description_de": "Willkommen beim Andy-Thema für Bludit CMS. Sicher und stabil, weniger als 35 KB, Spitzengeschwindigkeit, SEO-optimiert.",
+  "features_de": {
+    "0": "Arbeitskontaktformular (aktiviertes BlThemes Plugin - Contact3 erforderlich)",
+    "1": "Social Media Integration (Github, Twitter, Facebook)",
+    "2": ""
+  },
+  "description_es": "Bienvenido al tema de Andy para Bludit CMS. Seguro y estable, menos de 35 kb, velocidades de primer nivel, SEO optimizado.",
+  "features_es": {
+    "0": "Formulario de contacto de trabajo (requiere el complemento BlThemes activado - Contact3)",
+    "1": "Integración de redes sociales (Github, Twitter, Facebook)",
+    "2": ""
+  },
+  "description_ru": "Добро пожаловать в тему Энди для Bludit CMS. Безопасный и стабильный, менее 35 КБ, скорость на высшем уровне, SEO оптимизирован.",
+  "features_ru": {
+    "0": "Рабочая контактная форма (требуется активированный плагин от BlThemes - Contact3).",
+    "1": "Интеграция социальных сетей для Github, Facebook и Twitter.",
+    "2": "",
+    "3": "",
+    "4": ""
+  },
+  "author_username": "elpak"
+}
