@@ -10,7 +10,7 @@
 	"information_url": "https://git.koh.cloud/fuchs/koh_terminal",
 	"credits": "",
 	"credits_url": "",
-	"description": "Terminal style",
+	"description": "The theme with Terminal style.",
 	"features": {
 	},
 	"description_de": "",
@@ -19,7 +19,7 @@
 	"description_es": "",
 	"features_es": {
 	},
-	"description_ru": "",
+	"description_ru": "Тема в стиле Терминала.",
 	"features_ru": {
 	}
 }
