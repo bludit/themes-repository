@@ -9,33 +9,25 @@
 	"information_url": "https://github.com/hxii/hinode",
 	"credits": "",
 	"credits_url": "",
-	"description": " Clean, minimal and bright theme for Bludit. If you decide to use it and like it, please consider <a href=\"https:\/\/ko-fi.com/hxii_\">donating/tipping<\/a>.",
+	"description": "Clean, minimal and bright theme for Bludit. If you decide to use it and like it, please consider <a href=\"https:\/\/ko-fi.com/hxii_\">donating/tipping<\/a>.",
 	"features": {
 		"0": "",
-		"1": "",
-		"2": "",
-		"3": ""
+		"1": ""
 	},
 	"description_de": "",
 	"features_de": {
 		"0": "",
-		"1": "",
-		"2": "",
-    "3": ""
+		"1": ""
 	},
 	"description_es": "",
 	"features_es": {
 		"0": "",
-		"1": "",
-		"2": "",
-		"3": ""
+		"1": ""
 	},
-	"description_ru": "",
+	"description_ru": "Чистая, минималистичная и яркая тема для Bludit. Если Вы решили использовать её, и она Вам понравилась, рассмотрите возможность <a href=\"https:\/\/ko-fi.com/hxii_\">сделать пожертвование<\/a>.",
 	"features_ru": {
 		"0": "",
-		"1": "",
-		"2": "",
-		"3": ""
+		"1": ""
 	},
 	"author_username": "hxii"
 }
