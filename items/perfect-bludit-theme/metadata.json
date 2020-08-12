@@ -9,33 +9,25 @@
 	"information_url": "https://oldpc.mrcyjanek.net/blog/why-does-this-website-look-like-this",
 	"credits": "",
 	"credits_url": "",
-	"description": "It couldn't be more minimal",
+	"description": "It couldn't be more minimal.",
 	"features": {
 		"0": "",
-		"1": "",
-		"2": "",
-		"3": ""
+		"1": ""
 	},
-	"description_de": "Es könnte nicht minimaler sein",
+	"description_de": "Es könnte nicht minimaler sein.",
 	"features_de": {
 		"0": "",
-		"1": "",
-		"2": "",
-    		"3": ""
+		"1": ""
 	},
-	"description_es": "No podría ser más mínimo",
+	"description_es": "No podría ser más mínimo.",
 	"features_es": {
 		"0": "",
-		"1": "",
-		"2": "",
-    		"3": ""
+		"1": ""
 	},
-	"description_ru": "Это не может быть более минимальным",
+	"description_ru": "Ни одна тема не может быть более минималистичной.",
 	"features_ru": {
 		"0": "",
-		"1": "",
-		"2": "",
-    		"3": ""
+		"1": ""
 	},
 	"author_username": "czarek-nakamoto"
 }
