@@ -15,28 +15,31 @@
 		"1": "666 bytes of CSS. 539 minified.",
 		"2": "Don't want 666 bytes of CSS? Add textonly to your request to serve HTML alone.",
 		"3": "Responsive.",
-    "4": "Dark mode as well."
+		"4": "Dark mode as well."
 	},
 	"description_de": "",
 	"features_de": {
 		"0": "",
 		"1": "",
 		"2": "",
-    "3": ""
+		"3": "",
+		"4": ""
 	},
 	"description_es": "",
 	"features_es": {
 		"0": "",
 		"1": "",
 		"2": "",
-		"3": ""
+		"3": "",
+		"4": ""
 	},
-	"description_ru": "",
+	"description_ru": "Минималистичная, простая тема.",
 	"features_ru": {
-		"0": "",
-		"1": "",
-		"2": "",
-		"3": ""
+		"0": "Единый файл PHP для всего. Категории только упоминаются, но не используются. Теги не используются.",
+		"1": "666 байт в CSS. 539 байт в минифицированом виде.",
+		"2": "Не хотите 666 байт CSS? Добавьте в свой запрос textonly, чтобы отображать только HTML.",
+		"3": "Отзывчивый дизайн.",
+		"4": "Есть и тёмный режим."
 	},
 	"author_username": "hxii"
 }
