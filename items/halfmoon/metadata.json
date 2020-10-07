@@ -10,16 +10,16 @@
 	"information_url": "https://github.com/anaggh/halfmoon",
 	"credits": "",
 	"credits_url": "",
-	"description": "Based on Halfmoon UI framework.",
+	"description": "Theme based on Halfmoon UI framework.",
 	"features": {
-		"0": "Based on Halfmoon UI framework.",
-		"1": "Dark and light mode",
-		"2": "Collapsible Sidebar"
+		"0": "Dark and light mode.",
+		"1": "Collapsible Sidebar.",
+		"2": ""
 	},
-	"description_de": "",
+	"description_de": "Theme basierend auf dem Framework Halfmoon UI.",
 	"features_de": {
-		"0": "",
-		"1": "",
+		"0": "Umschaltbar zwischen Schwarzweiss- und Weissschwarz-Modus.",
+		"1": "Auf- und zuklappbare Seitenleiste.",
 		"2": ""
 	},
 	"description_es": "",
