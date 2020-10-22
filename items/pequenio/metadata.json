@@ -6,7 +6,7 @@
 	"license": "GPLv3",
 	"price_usd": "0",
 	"download_url": "https://gitea.sergiotarxz.freemyip.com/sergiotarxz/Pequenio/archive/v0.0.1.zip",
-	"demo_url": "",
+	"demo_url": "https://end-surveillance-capitalism.sergiotarxz.freemyip.com/",
 	"information_url": "https://gitea.sergiotarxz.freemyip.com/sergiotarxz/Pequenio/",
 	"credits": "dignajar",
 	"credits_url": "https://github.com/bludit-themes/micro",
@@ -14,6 +14,8 @@
 	"features": {
         "0": "Pagination in both articles and main page.",
         "1": "Read this article feature to be able to share specific articles without sharing all the blog.",
-        "2": "Minimal javascript"
+        "2": "Minimal javascript",
+        "3": "Minimal css"
+        "4": "Privacy friendly"
 	}
 }
