@@ -12,7 +12,7 @@
 	"credits_url": "https://github.com/bludit-themes/micro",
 	"description": "Fork of Micro providing new features and simpler css without external resources.",
 	"features": {
-		"0": "Pagination in both articles and main page.",
+        "0": "Pagination in both articles and main page.",
         "1": "Read this article feature to be able to share specific articles without sharing all the blog.",
         "2": "Minimal javascript"
 	}
