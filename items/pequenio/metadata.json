@@ -1,0 +1,21 @@
+{
+	"name": "Pequenio",
+	"version": "v0.0.11",
+	"author_username": "sergiotarxz",
+	"release_date": "2020-10-22",
+	"license": "GPLv3 (New changes.) MIT (Changes from Micro.)",
+	"price_usd": "0",
+	"download_url": "https://gitea.sergiotarxz.freemyip.com/sergiotarxz/Pequenio/releases/tag/v0.0.11",
+	"demo_url": "https://end-surveillance-capitalism.sergiotarxz.freemyip.com/",
+	"information_url": "https://gitea.sergiotarxz.freemyip.com/sergiotarxz/Pequenio/",
+	"credits": "dignajar",
+	"credits_url": "https://github.com/bludit-themes/micro",
+	"description": "Fork of Micro providing new features and simpler css without external resources.",
+	"features": {
+        "0": "Pagination in both articles and main page.",
+        "1": "Read this article feature to be able to share specific articles without sharing all the blog.",
+        "2": "Minimal javascript",
+        "3": "Minimal css",
+        "4": "Privacy friendly"
+	}
+}
