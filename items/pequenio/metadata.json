@@ -12,10 +12,18 @@
 	"credits_url": "https://github.com/bludit-themes/micro",
 	"description": "Fork of Micro providing new features and simpler css without external resources.",
 	"features": {
-        "0": "Pagination in both articles and main page.",
-        "1": "Read this article feature to be able to share specific articles without sharing all the blog.",
-        "2": "Minimal javascript",
-        "3": "Minimal css",
-        "4": "Privacy friendly"
+		"0": "Pagination in both articles and main page.",
+		"1": "Read this article feature to be able to share specific articles without sharing all the blog.",
+		"2": "Minimal javascript.",
+		"3": "Minimal CSS.",
+		"4": "Privacy friendly."
+	},
+	"description_ru": "Форк от Micro предоставляет новые функции для темы и более простой CSS без внешних зависимостей.",
+	"features_ru": {
+		"0": "Пагинация как в записях, так и на главной странице.",
+		"1": "Октройте станицу с какой-либо записью, чтобы иметь возможность делиться отдельными записями, не расшаривая весь блог.",
+		"2": "Минимум javascript.",
+		"3": "Минимум CSS.",
+		"4": "Тема дружественна к конфиденциальной информации."
 	}
 }
