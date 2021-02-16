@@ -1,0 +1,38 @@
+{
+	"name": "FS Blog X",
+	"version": "1.0.0",
+	"author_username": "fabianosantosnet",
+	"release_date": "2021-02-16",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://git.fabianosantos.net/download/bludit/temas/fs-blog-x/1.0.0/",
+	"demo_url": "",
+	"information_url": "https://git.fabianosantos.net/bludit-cms-tema-fsblogx",
+	"credits": "@fabianosantosnet",
+	"credits_url": "https://www.fabianosantos.net/",
+	"description": "Dark red, pastel and brown theme with two columns (content and sidebar). Made based on the standard version of Bludit 'Blog X' with several improvements.",
+	"features": {
+		"0": "Many settings in the 'init.php' file.",
+		"1": ""		
+	},
+	"description_pt": "Tema vermelho escuro, pastel e marrom com duas colunas (conteúdo e barra lateral). Feito com base na versão padrão do Bludit 'Blog X' com várias melhorias.",
+	"features_pt": {
+		"0": "Disponível em portugues e ingles.",
+		"1": "Diversas configurações de customizações do tema no arquivo 'init.php'."
+	},	
+	"description_de": "",
+	"features_de": {
+		"0": "",
+		"1": ""
+	},
+	"description_es": "",
+	"features_es": {
+		"0": "",
+		"1": ""
+	},
+	"description_ru": "",
+	"features_ru": {
+		"0": "",
+		"1": ""
+	}
+}
