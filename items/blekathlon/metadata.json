@@ -1,10 +1,10 @@
 {
   "name": "Blekathlon",
-  "version": "3.8.0",
-  "release_date": "2019-02-27",
+  "version": "3.9.0",
+  "release_date": "2019-07-31",
   "license": "MIT",
   "price_usd": "0",
-  "download_url": "https://blthemes.pp.ua/download/blekathlon.zip",
+  "download_url": "https://gumroad.com/l/OUfcoI",
   "demo_url": "https://blthemes.pp.ua/blekathlon/",
   "information_url": "https://blthemes.pp.ua/blekathlon/blekathlon-info",
   "credits": "Diego Najar, Edi Goetschel",
@@ -15,7 +15,7 @@
     "1": "Categories appear automatically in the menu if they have pages.",
     "2": "Static pages are automatically added to the footer.",
     "3": "Related pages support (need 4 or more pages in Category).",
-    "4": "Social media integration (Facebook, Twitter, Google+, etc.) and share buttons for Facebook and Twitter."
+    "4": "Social media integration (Facebook, Twitter, etc.) and share buttons for Facebook and Twitter."
   },
   "description_de": "Modernes, elegantes und schnelles Theme für Blogs und Portfolios.",
   "features_de": {
@@ -35,7 +35,7 @@
     "1": "Категории автоматически отображаются в меню, если в них есть записи.",
     "2": "Статические записи автоматически добавляются в нижний колонтитул (в подвал сайта).",
     "3": "Поддержка связанных записей (требуется 4 или более записей в категории).",
-    "4": "Интеграция социальных сетей (Facebook, Twitter, Google+ и т. д.) и кнопки \"поделиться\" для Facebook и Twitter."
+    "4": "Интеграция социальных сетей (Facebook, Twitter и т. д.) и кнопки \"поделиться\" для Facebook и Twitter."
   },
   "author_username": "blthemes"
 }
