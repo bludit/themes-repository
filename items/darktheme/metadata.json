@@ -1,0 +1,41 @@
+{
+	"name": "Henry",
+	"version": "0.1.0",
+	"author_username": "bl-themes",
+	"release_date": "2021-04-04",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://blthemes.com/darktheme.zip",
+	"demo_url": "https://blthemes.com/darktheme/",
+	"information_url": "https://blthemes.com/beautiful-dark-theme",
+	"credits": "Start Bootstrap",
+	"credits_url": "",
+	"description": "The beautiful Dark Theme brings a simple yet powerful feel to your website. This theme is suitable for building your personal blog or portfolio.",
+	"features": {
+		"0": "Fast, simple and responsive theme.",
+		"1": "Categories appear automatically in the main menu. ",
+		"2": "Search functionality (require activated).",
+		"3": "SEO Friendly.",
+		"4": "All major browsers fully supported (IE 9+).",
+		"5": "Feature image with an optional caption (figure).",
+		"6": "User photo profile in sidebar."
+	},
+	"description_de": "_DESCRIPTION_GERMAN_",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_es": "_DESCRIPTION_SPANISH_",
+	"features_es": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_ru": "_DESCRIPTION_RUSSIAN_",
+	"features_ru": {
+		"0": "",
+		"1": "",
+		"2": ""
+	}
+}
