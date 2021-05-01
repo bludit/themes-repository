@@ -2,7 +2,7 @@
 	"name": "Kolika",
 	"version": "2.0.0",
 	"author_username": "bl-themes",
-	"release_date": "April 17, 2021",
+	"release_date": "2021-04-17",
 	"license": "MIT",
 	"price_usd": "_PRICE_",
 	"download_url": "https://blthemes.com/kolika.zip",
@@ -18,7 +18,7 @@
     "3": "Search functionality (require activated). ",
     "4": "SEO Friendly.",
     "5": "All major browsers fully supported (IE 9+).",
-    "6": "Feature image with an optional caption (figure)."
+    "6": "Feature image with an optional caption (figure).",
     "7": "Your profile photo is on the article card."
 	},
 	"description_de": "_DESCRIPTION_GERMAN_",
