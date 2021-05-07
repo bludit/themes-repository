@@ -1,0 +1,37 @@
+{
+	"name": "Jellypress",
+	"version": "",
+	"author_username": "crimes",
+	"release_date": "2021-04-05",
+	"license": "paid",
+	"price_usd": "19",
+	"download_url": "https://jellyio.com/shop/bludit/jellypress",
+	"demo_url": "https://jellyio.com/bludit/jellypress",
+	"information_url": "https://jellyio.com/shop/bludit/jellypress",
+	"credits": "",
+	"credits_url": "",
+	"description": "Theme for blogs and portfolios.",
+	"features": {
+		"0": "Plugin that allows to customise the layout of the theme. Hide unwanted sections.",
+		"1": "Dark version included.",
+		"2": "Comprehensive user guide."
+	},
+	"description_de": "",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_es": "",
+	"features_es": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_ru": "",
+	"features_ru": {
+		"0": "",
+		"1": "",
+		"2": ""
+	}
+}
