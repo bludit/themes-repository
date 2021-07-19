@@ -13,7 +13,7 @@
 	"description": "The beautiful Dark Theme brings a simple yet powerful feel to your website. This theme is suitable for building your personal blog or portfolio.",
 	"features": {
 		"0": "Fast, simple and responsive theme.",
-		"1": "Categories appear automatically in the main menu. ",
+		"1": "Categories appear automatically in the main menu.",
 		"2": "Search functionality (require activated).",
 		"3": "SEO Friendly.",
 		"4": "All major browsers fully supported (IE 9+).",
@@ -32,10 +32,14 @@
 		"1": "",
 		"2": ""
 	},
-	"description_ru": "_DESCRIPTION_RUSSIAN_",
+	"description_ru": "Красивая тёмная тема облачает Ваш сайт в простой, но мощный вид. Как и многие прочие эта тема подходит для создания личного блога или портфолио.",
 	"features_ru": {
-		"0": "",
-		"1": "",
-		"2": ""
+		"0": "Быстрая, простая и отзывчивая тема.",
+		"1": "Категории автоматически появляются в главном меню.",
+		"2": "Поддерживается поиск по сайту (требуется активировать).",
+		"3": "Дружелюбная для SEO.",
+		"4": "Полностью поддерживаются все основные браузеры (включая IE 9+).",
+		"5": "Функции публикации изображений с необязательной подписью (как рисунок).",
+		"6": "Фотография вашего профиля отображается на боковой панели."
 	}
 }
