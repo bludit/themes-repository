@@ -15,10 +15,10 @@
 		"0": "Responsive.",
 		"1": "Tags on sidebar."
 	},
-	"description_de": "",
+	"description_de": "Minimalistisches Theme. Die linke Seitenliste zeigt nur Tags im System an und hebt hervor, wen ein Benutzer eine Seite mit diesen Tags durchsucht.",
 	"features_de": {
-		"0": "",
-		"1": ""
+		"0": "Responsive.",
+		"1": "Tags in der Seitenleiste."
 	},
 	"description_es": "Tema minimalista. La barra lateral izquierda muestra solo las etiquetas del sistema y se resaltan cuando un usuario navega por una página con esas etiquetas.",
 	"features_es": {
