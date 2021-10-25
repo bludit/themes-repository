@@ -1,0 +1,41 @@
+{
+	"name": "Multiverse",
+	"version": "1.1",
+	"release_date": "2020-09-07",
+	"license": "CCA 3.0",
+	"price_usd": "",
+	"download_url": "https://github.com/bludit-themes/multiverse/releases/download/v1.0/multiverse.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/bludit-themes/multiverse",
+	"credits": "HTML5 UP",
+	"credits_url": "https://html5up.net",
+	"description": "Multiverse is a one-page gallery by <a href=\"https://html5up.net\">HTML5 UP</a>, adapted for Bludit by Clickwork.",
+	"features": {
+		"0": "Lightbox",
+		"1": "\"Panel\" system.",
+		"2": "Free for personal and commercial use under the CCA 3.0 license.",
+		"3": ""
+	},
+	"description_de": "Multiverse ist eine One-Page-Gallerie von <a href=\"https://html5up.net\">HTML5 UP</a>, für Bludit angepasst von Clickwork.",
+	"features_de": {
+		"0": "Lightbox.",
+		"1": "\"Panel\"-System.",
+		"2": "Kostenlos für den privaten und kommerziellen Gebrauch unter der Lizenz CCA 3.0.",
+    "3": ""
+	},
+	"description_es": "",
+	"features_es": {
+		"0": "",
+		"1": "",
+		"2": "",
+		"3": ""
+	},
+	"description_ru": "Тема в виде одностраничной галереи от <a href=\"https://html5up.net\">HTML5 UP</a>, адаптированная для Bludit силами Clickwork.",
+	"features_ru": {
+		"0": "Наличие лайтбоксов.",
+		"1": "Система \"Панелей\".",
+		"2": "Бесплатна для личного да и коммерческого использования тоже по лицензии CCA 3.0.",
+		"3": ""
+	},
+	"author_username": "clickwork"
+}

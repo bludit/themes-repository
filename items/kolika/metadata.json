@@ -1,0 +1,47 @@
+{
+	"name": "Kolika",
+	"version": "2.0.0",
+	"author_username": "bl-themes",
+	"release_date": "2021-04-17",
+	"license": "MIT",
+	"price_usd": "_PRICE_",
+	"download_url": "https://blthemes.com/kolika.zip",
+	"demo_url": "https://blthemes.com/kolika/",
+	"information_url": "https://blthemes.com/kolika-free-theme-for-bludit",
+	"credits": "",
+	"credits_url": "",
+	"description": "Kolika theme to build a personal blog, company blog or culinary blog. If you want a clean and simple theme, Kolika can be your choice. If you are looking for a clean and cool theme Kolika is the best choice for your Bludit CMS.",
+	"features": {
+		"0": "Fast, simple and responsive theme.",
+		"1": "Categories appear automatically in the main menu.",
+		"2": "Latest Post list in Sidebar with image.",
+		"3": "Search functionality (require activated).",
+		"4": "SEO Friendly.",
+		"5": "All major browsers fully supported (including IE 9+).",
+		"6": "Feature image with an optional caption (figure).",
+		"7": "Your profile photo is on the article card."
+	},
+	"description_de": "_DESCRIPTION_GERMAN_",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_es": "_DESCRIPTION_SPANISH_",
+	"features_es": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_ru": "Тема Kolika хороша для создания личного блога, блога компании или кулинарного блога. Если Вам нужна чистая и простая тема, Kolika может быть Вашим выбором. Если Вы ищете светлую и неперегруженную тему, Kolika - лучший выбор для Вашей Bludit CMS.",
+	"features_ru": {
+		"0": "Быстрая, простая и отзывчивая тема.",
+		"1": "Категории автоматически появляются в главном меню.",
+		"2": "Список последних записей на боковой панели с миниатурным изображением записи.",
+		"3": "Поддерживается поиск по сайту (требуется активировать).",
+		"4": "Дружелюбная для SEO.",
+		"5": "Полностью поддерживаются все основные браузеры (включая IE 9+).",
+		"6": "Функции публикации изображений с необязательной подписью (как рисунок).",
+		"7": "Фотография вашего профиля отображается на странице записи."
+	}
+}

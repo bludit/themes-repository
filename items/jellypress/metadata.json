@@ -1,0 +1,37 @@
+{
+	"name": "Jellypress",
+	"version": "",
+	"author_username": "crimes",
+	"release_date": "2021-04-05",
+	"license": "paid",
+	"price_usd": "19",
+	"download_url": "https://jellyio.com/shop/bludit/jellypress",
+	"demo_url": "https://jellyio.com/bludit/jellypress",
+	"information_url": "https://jellyio.com/shop/bludit/jellypress",
+	"credits": "",
+	"credits_url": "",
+	"description": "Theme for blogs and portfolios.",
+	"features": {
+		"0": "Plugin that allows to customise the layout of the theme. Hide unwanted sections.",
+		"1": "Dark version included.",
+		"2": "Comprehensive user guide."
+	},
+	"description_de": "",
+	"features_de": {
+		"0": "Das Plugin bietet Möglichkeiten zum Anpassen des Themes. Und zum Ausblenden bestimmter Sektionen.",
+		"1": "Es gibt auch eine Dunkle Version.",
+		"2": "Ausführliches Benutzerhandbuch."
+	},
+	"description_es": "",
+	"features_es": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_ru": "Тема подходит для блогов и портфолио.",
+	"features_ru": {
+		"0": "Включает в себя плагин, позволяющий настроить макет темы. Чтобы скрывать ненужные разделы.",
+		"1": "Включает в себя также тёмный вариант темы.",
+		"2": "Имеет подробное руководство пользователя."
+	}
+}

@@ -12,30 +12,22 @@
 	"description": "Mojgan is a simple and elegant theme for websites or blogs.",
 	"features": {
 		"0": "",
-		"1": "",
-		"2": "",
-		"3": ""
+		"1": ""
 	},
-	"description_de": "mojgan ist ein einfaches und elegantes Theme für Websites oder Blogs.",
+	"description_de": "Mojgan ist ein einfaches und elegantes Theme für Websites oder Blogs.",
 	"features_de": {
 		"0": "",
-		"1": "",
-		"2": "",
-    "3": ""
+		"1": ""
 	},
 	"description_es": "",
 	"features_es": {
 		"0": "",
-		"1": "",
-		"2": "",
-		"3": ""
+		"1": ""
 	},
-	"description_ru": "",
+	"description_ru": "Mojgan - это простая и элегантная тема для небольших сайтов или блогов.",
 	"features_ru": {
 		"0": "",
-		"1": "",
-		"2": "",
-		"3": ""
+		"1": ""
 	},
 	"author_username": "abdulhalim"
 }

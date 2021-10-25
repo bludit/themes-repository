@@ -1,11 +1,11 @@
 {
 	"name": "Docs X",
-	"version": "2.1",
+	"version": "3.2",
 	"author_username": "diego",
-	"release_date": "2019-06-02",
+	"release_date": "2020-08-23",
 	"license": "MIT",
 	"price_usd": "",
-	"download_url": "https://github.com/bludit-themes/docs-x/archive/2.1.zip",
+	"download_url": "https://github.com/bludit-themes/docs-x/archive/3.2.zip",
 	"demo_url": "https://docs.bludit.com",
 	"information_url": "https://github.com/bludit-themes/docs-x",
 	"credits": "",
@@ -13,7 +13,7 @@
 	"description": "Docs X is a theme to create documentation sites, with highlight syntax and based on Bootstrap.",
 	"features": {
 	},
-	"description_de": "Docs X ist ein Thema, um Dokumentationsseiten zu erstellen, mit Highlight-Syntax und basierend auf Bootstrap.",
+	"description_de": "Docs X ist ein Theme, um Dokumentationen zu erstellen mit Highlight-Syntax basierend auf Bootstrap.",
 	"features_de": {
 	},
 	"description_es": "Tema para crear sitios tipo de documentación, además incluye resaltado de código, basado en Bootstrap.",

@@ -1,0 +1,33 @@
+{
+	"name": "Duality",
+	"version": "1.0",
+	"release_date": "2020-09-21",
+	"license": "CC BY 3.0",
+	"price_usd": "0",
+	"download_url": "https://github.com/colapiombo/duality/archive/master.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/colapiombo/duality",
+	"credits": "Paolo Combi",
+	"credits_url": "https://combi.li/",
+	"description": "Theme for Bludit designed by Colapiombo.",
+	"features": {
+		"0": "Responsive.",
+    		"1": "Free for personal and commercial use under the CC BY 3.0 license."
+	},
+	"description_de": "Theme für Bludit von Colapiombo.",
+	"features_de": {
+		"0": "Responsiv.",
+    		"1": "Kostenlos für den persönlichen und kommerziellen Gebrauch unter der CC BY 3.0-Lizenz."
+	},
+	"description_es": "Tema para Bludit diseñado por Colapiombo.",
+	"features_es": {
+		"0": "Sensible.",
+    		"1": "Gratis para uso personal y comercial bajo la licencia CC BY 3.0."
+	},
+	"description_ru": "Тема для Bludit, разработанная Colapiombo.",
+	"features_ru": {
+		"0": "Отзывчивая тема.",
+    		"1": "Бесплатная для личного и коммерческого использования по лицензии CC BY 3.0."
+	},
+	"author_username": "colapiombo"
+}

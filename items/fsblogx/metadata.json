@@ -1,0 +1,37 @@
+{
+	"name": "FS Blog X",
+	"version": "1.0.0",
+	"author_username": "fabianosantosnet",
+	"release_date": "2021-02-16",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://git.fabianosantos.net/download/bludit/temas/fs-blog-x/1.0.0/",
+	"demo_url": "https://youtu.be/SHHaPjm1eIc",
+	"information_url": "https://git.fabianosantos.net/bludit-cms-tema-fsblogx",
+	"credits": "@fabianosantosnet",
+	"credits_url": "https://www.fabianosantos.net/",
+	"description": "Dark red, pastel and brown theme with two columns (content and sidebar). Made based on the standard version of Bludit 'Blog X' with several improvements.",
+	"features": {
+		"0": "Various theme customization settings in the 'init.php' file such as limiting the number of characters in the abstract, type of pagination, standard image ..."		
+	},
+	"description_pt": "Tema vermelho escuro, pastel e marrom com duas colunas (conteúdo e barra lateral). Feito com base na versão padrão do Bludit 'Blog X' com várias melhorias.",
+	"features_pt": {
+		"0": "Disponível em portugues e ingles.",
+		"1": "Diversas configurações de customizações do tema no arquivo 'init.php' como limitar numero de caracteres do resumo, tipo de paginação, imagem padrão..."		
+	},	
+	"description_de": "Dunkelrotes, pastellfarbenes und braunes Thema mit zwei Spalten (Inhalt und Seitenleiste). Basierend auf der Standardversion von Bludit 'Blog X' mit mehreren Verbesserungen.",
+	"features_de": {
+		"0": "",
+		"1": ""
+	},
+	"description_es": "Tema rojo oscuro, pastel y marrón con dos columnas (contenido y barra lateral). Realizado en base a la versión estándar de Bludit 'Blog X' con varias mejoras.",
+	"features_es": {
+		"0": "",
+		"1": ""
+	},
+	"description_ru": "Темно-красная, пастельная и коричневая тема с двумя столбцами (контент и боковая панель). Сделано на основе стандартной версии Bludit 'Blog X' с некоторыми улучшениями.",
+	"features_ru": {
+		"0": "",
+		"1": ""
+	}
+}

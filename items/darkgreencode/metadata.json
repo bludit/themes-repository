@@ -1,31 +1,31 @@
 {
 	"name": "Dark Green Code",
-	"version": "1.0",
+	"version": "1.0.3",
 	"author_username": "fabianosantosnet",
-	"release_date": "2020-05-24",
+	"release_date": "2021-02-12",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://raw.githubusercontent.com/fabianosantosnet/rep-bludit/master/themes/darkgreencode/dark-green-code-bludit.zip",
-	"demo_url": "https://fabianosantosnet.github.io/bluditCMS/",
+	"download_url": "https://git.fabianosantos.net/download/bludit/temas/dark-green-code/1.0.3/",
+	"demo_url": "",
 	"information_url": "https://github.com/fabianosantosnet/rep-bludit/tree/master/themes/darkgreencode/",
 	"credits": "@fabianosantosnet",
 	"credits_url": "https://www.fabianosantos.net/",
-	"description": "Responsive black and green site template with one column, featured content (stick pages), search, static pages (navigation top links), support up to 3 plugins at the bottom page and some configuration in init.php.",
+	"description": "Responsive black and green site template with one column, featured content (stick pages), search, static pages (navigation top links), support up to 3 plugins at the bottom page, and some configuration in <code>init.php</code>.",
 	"features": {
-		"0": "Languages: english and portuguese.",
+		"0": "Languages: English and Portuguese.",
 		"1": "Default cover image size 200x100.",
-		"2": "Some CSS classes are available to use in your Bludit source code editor: left, right, center, w25, w50, w75, border, bg, opacity and grayscale.",
-		"3":"Logo image 228x204 (background header color #555555 - use that color when you create your logo to center image).",
-		"4":"File init.php - Set number of sticky pages on home page (variable $NUMBER_STICKY_PAGES_HOME_PAGE ); Set the name of author (variable $$authorName - meta tag info [default site footer info] ); Switch between 2 paginator types (bool $IS_PAGINATOR_BY_NUMBERS [default false]); Allow default image (bool $IS_COVER_IMAGE_FALLBACK_SET [default true / false don't show image]) and set image location ($_DEFAULT_COVER_IMAGE [default image generated from placeholder.com]).",
-		"5":""
+		"2": "Some CSS classes are available to use in your Bludit source code editor: <code>left, right, center, w25, w50, w75, border, bg, opacity</code> and <code>grayscale</code>.",
+		"3": "Logo image 228x204 (background header color <code>#555555</code> - use that color when you create your logo to center image).",
+		"4": "File <code>init.php</code> - Set number of sticky pages on home page (variable <code>$NUMBER_STICKY_PAGES_HOME_PAGE</code>); Set the name of author (variable <code>$authorName</code> - meta tag info [default site footer info] ); Switch between 2 paginator types (bool <code>$IS_PAGINATOR_BY_NUMBERS</code> [default false]); Allow default image (bool <code>$IS_COVER_IMAGE_FALLBACK_SET</code> [default true / false don't show image]) and set image location (<code>$_DEFAULT_COVER_IMAGE</code> [default image generated from placeholder.com]).",
+		"5": ""
 	},
-	"description_pt": "Modelo de site responsível preto e verde com uma coluna, suporte a páginas destacadas (sticky), estática e normais, 3 plugins no rodapé, além de customização via init.php.",
+	"description_pt": "Modelo de site responsível preto e verde com uma coluna, suporte a páginas destacadas (sticky), estática e normais, 3 plugins no rodapé, além de customização via <code>init.php</code>.",
 	"features_pt": {
 		"0": "Disponibilizado em dois idiomas: portugues e inglẽs.",
 		"1": "Tamanho de imagem recomendada 200x100 - capa.",
-		"2": "Algumas classes CSS prontas para serem usadas no editor de código do Bludit como: left, right, center, w25, w50, w75, border, bg, opacity e grayscale.",
-		"3": "Imagem do logotipo 228x204 (envolva a imagem na cor #555555 para centralizá-la).",
-		"4": "Algumas customizações no arquivo init.php: Defina o número de páginas destacadas na página inicial (variável $ NUMBER_STICKY_PAGES_HOME_PAGE);Defina o nome do autor (variável $ authorName - informações da metatag [padrão: informações do rodapé do site]); Alterne entre dois tipos de paginadores (bool $ IS_PAGINATOR_BY_NUMBERS [padrão false]); Permitir imagem padrão (booleano $ IS_COVER_IMAGE_FALLBACK_SET [padrão verdadeiro / falso não mostra imagem]) e defina o local da imagem ($ _DEFAULT_COVER_IMAGE [imagem padrão gerada a partir de placeholder.com]).",
+		"2": "Algumas classes CSS prontas para serem usadas no editor de código do Bludit como: <code>left, right, center, w25, w50, w75, border, bg, opacity</code> e <code>grayscale</code>.",
+		"3": "Imagem do logotipo 228x204 (envolva a imagem na cor <code>#555555</code> para centralizá-la).",
+		"4": "Algumas customizações no arquivo <code>init.php</code>: Defina o número de páginas destacadas na página inicial (variável <code>$NUMBER_STICKY_PAGES_HOME_PAGE</code>); Defina o nome do autor (variável <code>$authorName</code> - informações da metatag [padrão: informações do rodapé do site]); Alterne entre dois tipos de paginadores (bool <code>$IS_PAGINATOR_BY_NUMBERS</code> [padrão false]); Permitir imagem padrão (booleano <code>$IS_COVER_IMAGE_FALLBACK_SET</code> [padrão verdadeiro / falso não mostra imagem]) e defina o local da imagem (<code>$_DEFAULT_COVER_IMAGE</code> [imagem padrão gerada a partir de placeholder.com]).",
 		"5": ""
 	},	
 	"description_de": "",
@@ -40,10 +40,13 @@
 		"1": "",
 		"2": ""
 	},
-	"description_ru": "",
+	"description_ru": "Адаптивная черно-зеленая тема для сайта с одним столбцом контента, избранным контентом (закреплённые страницы), поиском, статическими страницами (верхние ссылки панели навигации), поддержкой до 3 плагинов на нижней части страниц и некоторымы дополнительными настройками в файле <code>init.php</code>.",
 	"features_ru": {
-		"0": "",
-		"1": "",
-		"2": ""
+		"0": "Языки: Английский и Португальский.",
+		"1": "Размер обложки для записи по умолчанию 200x100.",
+		"2": "Некоторые CSS классы доступны для использования в редакторе исходного кода Bludit: <code>left, right, center, w25, w50, w75, border, bg, opacity</code> и <code>grayscale</code>.",
+		"3": "Изображение логотипа 228x204 (цвет фона заголовка <code>#555555</code> - используйте этот цвет при создании логотипа для центрирования изображения).",
+		"4": "Файл <code>init.php</code> - Установка количества закреплённых страниц на домашней странице (переменная <code>$NUMBER_STICKY_PAGES_HOME_PAGE</code>); Установка имени автора (переменная <code>$authorName</code> - информация о метатеге [информация о нижнем колонтитуле сайта по умолчанию]); Переключает между двумя типами пагинатора (булева переменная <code>$IS_PAGINATOR_BY_NUMBERS</code> [по умолчанию false]); Разрешает использовать изображение по умолчанию (булева переменная <code>$IS_COVER_IMAGE_FALLBACK_SET</code> [по умолчанию - true / false - не показывать изображение]) и установливает местоположение изображения (<code>$_DEFAULT_COVER_IMAGE</code> [изображение по умолчанию, созданное из placeholder.com]).",
+		"5": ""
 	}
 }

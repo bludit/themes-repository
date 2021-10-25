@@ -10,7 +10,7 @@
 	"information_url": "https://tompidev.com/booty-dark-admin-theme",
 	"credits": "",
 	"credits_url": "",
-	"description": "Modified version of the Bludit CMS Booty admin template.",
+	"description": "The modified version of the Bludit CMS Booty admin template.",
 	"features": {
 		"0": "fixed and colored sidebar",
 		"1": "the appearance of the sidebar menu items",
@@ -30,10 +30,11 @@
 		"1": "",
 		"2": ""
 	},
-	"description_ru": "_DESCRIPTION_RUSSIAN_",
+	"description_ru": "Модифицированная версия шаблона для панели администратора в Bludit CMS - Booty.",
 	"features_ru": {
-		"0": "",
-		"1": "",
-		"2": ""
+		"0": "Фиксированная и цветная боковая панель.",
+		"1": "Аккуратный внешний вид пунктов меню боковой панели.",
+		"2": "Отображение основной рабочей области справа от боковой панели.",
+		"3": "Некоторые пункты меню сделаны в виде иконок."
 	}
 }

@@ -16,7 +16,7 @@
 		"1": "Additional plugin to display Instagram news feed.",
 		"2": "Comprehensive user guide."
 	},
-	"description_de": "Theme für Blogs und Portfolios",
+	"description_de": "Theme für Blogs und Portfolios.",
 	"features_de": {
 		"0": "Plugin zur Anpassung des Layouts und des Gitters des Themes.",
 		"1": "Zusätzliches Plugin zur Anzeige eines Instagram-Feeds.",
@@ -32,6 +32,6 @@
 	"features_ru": {
 		"0": "Включает плагин, позволяющий настроить макет и сетку темы.",
 		"1": "Дополнительный плагин для отображения постов из Instagram.",
-		"2": "Имеет комплексное руководство пользователя."
+		"2": "Имеет детальное руководство пользователя."
 	}
 }
