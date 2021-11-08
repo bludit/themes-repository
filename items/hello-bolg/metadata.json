@@ -1,0 +1,44 @@
+
+{
+	"name": "hello-blog",
+	"version": "1.0",
+	"author_username": "litong",
+	"release_date": "2021-11-06",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "http://demo.leton.top/bl-content/uploads/file/hello-blog.zip",
+	"demo_url": "http://demo.leton.top/",
+	"information_url": "http://demo.leton.top/themes-description",
+	"credits": "litong",
+	"credits_url": "https://www.leton.top/about",
+	"description": "Streamlined personal blog themes",
+	"features": {
+		"0": "about",
+		"1": "search",
+		"2": "reactions"
+	},
+	"description_de": "Optimierte persönliche Blog-Themen",
+	"features_de": {
+		"0": "about",
+		"1": "search",
+		"2": "reactions"
+	},
+	"description_es": "Racionalización de los temas de los blogs personales",
+	"features_es": {
+		"0": "about",
+		"1": "search",
+		"2": "reactions"
+	},
+	"description_ru": "упрощать тему личного блога",
+	"features_ru": {
+		"0": "about",
+		"1": "search",
+		"2": "reactions"
+	}
+	"description_cn": "极简的个人博客主题",
+	"features_ru": {
+		"0": "about",
+		"1": "search",
+		"2": "reactions"
+	}
+}
