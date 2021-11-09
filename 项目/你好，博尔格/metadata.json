@@ -13,32 +13,32 @@
 	"credits_url": "https://www.leton.top/about",
 	"description": "Streamlined personal blog themes",
 	"features": {
-		"0": "about",
-		"1": "search",
-		"2": "reactions"
+		"0": "Simple",
+		"1": "Beautiful",
+		"2": ""
 	},
 	"description_de": "Optimierte persönliche Blog-Themen",
 	"features_de": {
-		"0": "about",
-		"1": "search",
-		"2": "reactions"
+		"0": "Simple",
+		"1": "Beautiful",
+		"2": ""
 	},
 	"description_es": "Racionalización de los temas de los blogs personales",
 	"features_es": {
-		"0": "about",
-		"1": "search",
-		"2": "reactions"
+		"0": "Simple",
+		"1": "Beautiful",
+		"2": ""
 	},
 	"description_ru": "упрощать тему личного блога",
 	"features_ru": {
-		"0": "about",
-		"1": "search",
-		"2": "reactions"
+		"0": "Simple",
+		"1": "Beautiful",
+		"2": ""
 	}
 	"description_cn": "极简的个人博客主题",
 	"features_ru": {
-		"0": "about",
-		"1": "search",
-		"2": "reactions"
+		"0": "简单",
+		"1": "好看",
+		"2": ""
 	}
 }
