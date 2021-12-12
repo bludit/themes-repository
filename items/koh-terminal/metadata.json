@@ -1,0 +1,25 @@
+{
+	"name": "KOH Terminal Theme",
+	"version": "0.1",
+	"release_date": "2020-05-25",
+	"author_username": "fuchs",
+	"license": "",
+	"price_usd": "0",
+	"download_url": "https://github.com/kohfuchs/koh_terminal/archive/refs/heads/main.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/kohfuchs/koh_terminal",
+	"credits": "",
+	"credits_url": "",
+	"description": "The theme with Terminal style.",
+	"features": {
+	},
+	"description_de": "Das Theme mit Terminal Style.",
+	"features_de": {
+	},
+	"description_es": "",
+	"features_es": {
+	},
+	"description_ru": "Тема в стиле Терминала.",
+	"features_ru": {
+	}
+}
