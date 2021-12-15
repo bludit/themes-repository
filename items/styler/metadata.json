@@ -1,37 +1,45 @@
 {
 	"name": "styler",
-	"version": "1.2.0",
+	"version": "1.3.0",
 	"author_username": "ronaldaug",
-	"release_date": "2020-06-17",
+	"release_date": "2021-12-15",
 	"license": "MIT",
 	"price_usd": "0",
 	"download_url": "https://github.com/ronaldaug/styler/archive/master.zip",
-	"demo_url": "http://staging.mipropia.com",
+	"demo_url": "https://apicenter.epizy.com",
 	"information_url": "https://github.com/ronaldaug/styler",
 	"credits": "pexel",
 	"credits_url": "https://www.pexels.com",
-	"description": "Styler is a lightweight and responsive theme that includes a full-screen image slider.",
+	"description": "Styler is a lightweight and responsive Bootstrap-5 theme that includes a full-screen image slider.",
 	"features": {
-		"0": "Full-screen image slider.",
-		"1": "Fade in animation (AOS).",
-		"2": "With SASS-file style."
+		"0": "Full-width image slider.",
+		"1": "Bootstrap 5",
+		"2": "No JQuery",
+		"3": "Laravel mix",
+		"4": "SASS"
 	},
-	"description_de": "Styler ist ein leichtes und ansprechendes Thema, das einen Vollbild-Schieberegler enthält.",
+	"description_de": "Styler ist ein leichtes und ansprechendes Bootstrap-5 Thema, das einen Vollbild-Schieberegler enthält.",
 	"features_de": {
-		"0": "Vollbild-Schieberegler.",
-		"1": "Animation einblenden (AOS).",
-		"2": "SASS."
+		"0": "Bildschieberegler in voller Breite.",
+		"1": "Bootstrap 5",
+		"2": "No JQuery",
+		"3": "Laravel-Mix",
+		"4": "SASS"
 	},
 	"description_es": "Styler es un tema ligero y receptivo que incluye un control deslizante de pantalla completa.",
 	"features_es": {
-		"0": "Control deslizante de imagen a pantalla completa.",
-		"1": "Fundido en animación (AOS).",
-		"2": "SASS."
+		"0": "Control deslizante de imagen de ancho completo.",
+		"1": "Bootstrap 5",
+		"2": "Sin jquery",
+		"3": "Laravel-Mix",
+		"4": "SASS"
 	},
 	"description_ru": "Styler - это легкая и отзывчивая тема, включающая полноэкранный слайдер.",
 	"features_ru": {
 		"0": "Полноэкранный слайдер изображений.",
-		"1": "Плавная анимация прокрутки (AOS).",
-		"2": "С SASS файлами."
+		"1": "Bootstrap 5",
+		"2": "No JQuery",
+		"3": "Laravel mix",
+		"4": "SASS"
 	}
 }
