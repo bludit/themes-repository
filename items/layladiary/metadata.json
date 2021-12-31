@@ -1,0 +1,38 @@
+{
+	"name": "Layla's Diary",
+	"version": "1.0",
+	"author_username": "shiasi",
+	"release_date": "2020-12-29",
+	"license": "GPLv3",
+	"price_usd": "0",
+	"download_url": "https://github.com/shiasi/layladiary/archive/main.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/shiasi/layladiary",
+	"credits": "Shevina Shiasi",
+	"credits_url": "https://shevina.ir",
+	"description": "Layla's Diary is a minimal & clean theme featuring Numbered Pagination and Static Front Page (Optional). I started it as a fun project when I was exploring Bludit cms for fun:)",
+	"features": {
+		"0": "Numbered Pagination",
+		"1": "Pagination",
+		"2": "Static Front Page",
+		"3": "Bulma css"
+	},
+	"description_de": "",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_es": "",
+	"features_es": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_ru": "",
+	"features_ru": {
+		"0": "",
+		"1": "",
+		"2": ""
+	}
+}
