@@ -1,0 +1,37 @@
+{
+    "name": "Minimal",
+    "version": "1.0",
+    "author_username": "0xffd700",
+    "release_date": "2022-01-09",
+    "license": "MIT",
+    "price_usd": "0",
+    "download_url": "https://github.com/0xFFD700/Minimal-Bludit-Blog/releases",
+    "demo_url": "www.0xffd700.com",
+    "information_url": "https://github.com/0xFFD700/Minimal-Bludit-Blog",
+    "credits": "",
+    "credits_url": "",
+    "description": "Minimal theme for Bludit.",
+    "features": {
+        "0": "Search (requires activation)",
+        "1": "Bootstrap 4",
+        "2": "Fully responsive"
+    },
+    "description_de": "Minimales Thema für Bludit.",
+    "features_de": {
+        "0": "Suche (benötigt aktivierung)",
+        "1": "Bootstrap 4",
+        "2": "Voll responsive"
+    },
+    "description_es": "Tema mínimo para Bludit.",
+    "features_es": {
+        "0": "Buscar (requiere activación)",
+        "1": "Bootstrap 4",
+        "2": "Totalmente receptivo"
+    },
+    "description_ru": "Минимальная тема для Bludit.",
+    "features_ru": {
+        "0": "Искать (требуется активация)",
+        "1": "Bootstrap 4",
+        "2": "Полная адаптивность"
+    }
+}
