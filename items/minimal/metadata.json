@@ -6,7 +6,7 @@
     "license": "MIT",
     "price_usd": "0",
     "download_url": "https://github.com/0xFFD700/Minimal-Bludit-Blog/releases",
-    "demo_url": "www.0xffd700.com",
+    "demo_url": "https://0xffd700.com",
     "information_url": "https://github.com/0xFFD700/Minimal-Bludit-Blog",
     "credits": "",
     "credits_url": "",
@@ -16,9 +16,9 @@
         "1": "Bootstrap 4",
         "2": "Fully responsive"
     },
-    "description_de": "Minimales Thema für Bludit.",
+    "description_de": "Minimales Theme für Bludit.",
     "features_de": {
-        "0": "Suche (benötigt aktivierung)",
+        "0": "Suche (benötigt Aktivierung)",
         "1": "Bootstrap 4",
         "2": "Voll responsive"
     },
