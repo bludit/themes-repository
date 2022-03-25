@@ -13,33 +13,33 @@
 	"description": "Styler is a lightweight and responsive Bootstrap-5 theme that includes a full-screen image slider.",
 	"features": {
 		"0": "Full-width image slider.",
-		"1": "Bootstrap 5",
-		"2": "No JQuery",
-		"3": "Laravel mix",
-		"4": "SASS"
+		"1": "Bootstrap 5.",
+		"2": "No jQuery.",
+		"3": "Laravel Mix.",
+		"4": "SASS (Syntactically Awesome Style Sheets)."
 	},
 	"description_de": "Styler ist ein leichtes und ansprechendes Bootstrap-5 Thema, das einen Vollbild-Schieberegler enthält.",
 	"features_de": {
 		"0": "Bildschieberegler in voller Breite.",
-		"1": "Bootstrap 5",
-		"2": "No JQuery",
-		"3": "Laravel-Mix",
-		"4": "SASS"
+		"1": "Bootstrap 5.",
+		"2": "Keine jQuery.",
+		"3": "Laravel Mix.",
+		"4": "SASS (Syntactically Awesome Style Sheets)."
 	},
 	"description_es": "Styler es un tema ligero y receptivo que incluye un control deslizante de pantalla completa.",
 	"features_es": {
 		"0": "Control deslizante de imagen de ancho completo.",
-		"1": "Bootstrap 5",
-		"2": "Sin jquery",
-		"3": "Laravel-Mix",
-		"4": "SASS"
+		"1": "Bootstrap 5.",
+		"2": "Sin jQuery.",
+		"3": "Laravel Mix.",
+		"4": "SASS (Syntactically Awesome Style Sheets)."
 	},
-	"description_ru": "Styler - это легкая и отзывчивая тема, включающая полноэкранный слайдер.",
+	"description_ru": "Styler - это лёгкая и отзывчивая тема, включающая полноэкранный слайдер.",
 	"features_ru": {
 		"0": "Полноэкранный слайдер изображений.",
-		"1": "Bootstrap 5",
-		"2": "No JQuery",
-		"3": "Laravel mix",
-		"4": "SASS"
+		"1": "Bootstrap 5.",
+		"2": "Без jQuery.",
+		"3": "Laravel Mix.",
+		"4": "SASS (Syntactically Awesome Style Sheets)."
 	}
 }
