@@ -1,0 +1,39 @@
+{
+	"name": "Marble",
+	"version": "2.0",
+	"author_username": "nogajun",
+	"release_date": "2022-03-16",
+	"license": "CC BY 3.0",
+	"price_usd": "0",
+	"download_url": "https://github.com/nogajun/bludit-theme-marble/archive/refs/tags/v2.0.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/nogajun/bludit-theme-marble/blob/main/README.md",
+	"credits": "FreeHTML5.co",
+	"credits_url": "https://freehtml5.co/marble-free-html5-bootstrap-template-for-portfolio-or-multi-purpose-websites/",
+	"description": "Ported Marble template (original designed by FREEHTML5.CO) to Bludit.",
+	"features": {
+		"0": "Support for responsive and other original features as much as possible.",
+		"1": "Top page can be added (see README.md for how to add).",
+		"2": "Contact page compatible with contact3 can be added.",
+		"3": "Japanese language support."
+	},
+	"description_de": "",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_es": "",
+	"features_es": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_ru": "Портированная тема для Bludit (оригинал, разработанн для FREEHTML5.CO ).",
+	"features_ru": {
+		"0": "Полная поддержка адаптивных и других оригинальных функций темы.",
+		"1": "Можно добавить главную страницу (см. README.md о том, как её добавить).",
+		"2": "Может быть добавлена страница обратной связи, совместимая с contact3.",
+		"3": "Поддержка японского языка (ничего себе!)."
+	}
+}

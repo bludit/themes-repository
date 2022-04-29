@@ -12,26 +12,26 @@
     "credits_url": "",
     "description": "Minimal theme for Bludit.",
     "features": {
-        "0": "Search (requires activation)",
-        "1": "Bootstrap 4",
-        "2": "Fully responsive"
+        "0": "Search (requires activation in settings).",
+        "1": "Bootstrap 4.",
+        "2": "Fully responsive."
     },
     "description_de": "Minimales Theme für Bludit.",
     "features_de": {
-        "0": "Suche (benötigt Aktivierung)",
-        "1": "Bootstrap 4",
-        "2": "Voll responsive"
+        "0": "Suche (benötigt Aktivierung).",
+        "1": "Bootstrap 4.",
+        "2": "Voll responsive."
     },
     "description_es": "Tema mínimo para Bludit.",
     "features_es": {
-        "0": "Buscar (requiere activación)",
-        "1": "Bootstrap 4",
-        "2": "Totalmente receptivo"
+        "0": "Buscar (requiere activación).",
+        "1": "Bootstrap 4.",
+        "2": "Totalmente receptivo."
     },
-    "description_ru": "Минимальная тема для Bludit.",
+    "description_ru": "Минималистичная тема для Bludit.",
     "features_ru": {
-        "0": "Искать (требуется активация)",
-        "1": "Bootstrap 4",
-        "2": "Полная адаптивность"
+        "0": "Включает в себя функцию поиска (требуется активать её в настройках).",
+        "1": "Bootstrap 4.",
+        "2": "Полностью адаптивная."
     }
 }

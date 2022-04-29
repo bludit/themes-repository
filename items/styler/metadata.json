@@ -1,45 +1,45 @@
 {
 	"name": "styler",
-	"version": "1.3.0",
+	"version": "1.3.1",
 	"author_username": "ronaldaug",
-	"release_date": "2021-12-15",
+	"release_date": "2022-03-05",
 	"license": "MIT",
 	"price_usd": "0",
 	"download_url": "https://github.com/ronaldaug/styler/archive/master.zip",
-	"demo_url": "https://apicenter.epizy.com",
+	"demo_url": "https://styler.augusthost.com",
 	"information_url": "https://github.com/ronaldaug/styler",
 	"credits": "pexel",
 	"credits_url": "https://www.pexels.com",
 	"description": "Styler is a lightweight and responsive Bootstrap-5 theme that includes a full-screen image slider.",
 	"features": {
 		"0": "Full-width image slider.",
-		"1": "Bootstrap 5",
-		"2": "No JQuery",
-		"3": "Laravel mix",
-		"4": "SASS"
+		"1": "Bootstrap 5.",
+		"2": "No jQuery.",
+		"3": "Laravel Mix.",
+		"4": "SASS (Syntactically Awesome Style Sheets)."
 	},
 	"description_de": "Styler ist ein leichtes und ansprechendes Bootstrap-5 Thema, das einen Vollbild-Schieberegler enthält.",
 	"features_de": {
 		"0": "Bildschieberegler in voller Breite.",
-		"1": "Bootstrap 5",
-		"2": "No JQuery",
-		"3": "Laravel-Mix",
-		"4": "SASS"
+		"1": "Bootstrap 5.",
+		"2": "Keine jQuery.",
+		"3": "Laravel Mix.",
+		"4": "SASS (Syntactically Awesome Style Sheets)."
 	},
 	"description_es": "Styler es un tema ligero y receptivo que incluye un control deslizante de pantalla completa.",
 	"features_es": {
 		"0": "Control deslizante de imagen de ancho completo.",
-		"1": "Bootstrap 5",
-		"2": "Sin jquery",
-		"3": "Laravel-Mix",
-		"4": "SASS"
+		"1": "Bootstrap 5.",
+		"2": "Sin jQuery.",
+		"3": "Laravel Mix.",
+		"4": "SASS (Syntactically Awesome Style Sheets)."
 	},
-	"description_ru": "Styler - это легкая и отзывчивая тема, включающая полноэкранный слайдер.",
+	"description_ru": "Styler - это лёгкая и отзывчивая тема, включающая полноэкранный слайдер.",
 	"features_ru": {
 		"0": "Полноэкранный слайдер изображений.",
-		"1": "Bootstrap 5",
-		"2": "No JQuery",
-		"3": "Laravel mix",
-		"4": "SASS"
+		"1": "Bootstrap 5.",
+		"2": "Без jQuery.",
+		"3": "Laravel Mix.",
+		"4": "SASS (Syntactically Awesome Style Sheets)."
 	}
 }
