@@ -9,7 +9,7 @@
 	"information_url": "",
 	"credits": "",
 	"credits_url": "",
-	"description": "Polina is the simple blogging theme",
+	"description": "Polina is the simple blogging theme.",
 	"features": {
 		"0": "",
 		"1": ""
@@ -20,6 +20,11 @@
 		"1": ""
 	},
 	"description_es": "",
+	"features_es": {
+		"0": "",
+		"1": ""
+	},
+	"description_ru": "Полина - это простая тема для ведения блога.",
 	"features_es": {
 		"0": "",
 		"1": ""
