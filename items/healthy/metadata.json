@@ -1,0 +1,19 @@
+{
+    "name": "Healthy",
+    "version": "0.1.0",
+    "release_date": "26-08-2022",
+    "license": "MIT",
+    "price_usd": "0",
+    "download_url": "https://github.com/craigs-stuff/healthy/archive/refs/heads/main.zip",
+    "demo_url": "",
+    "information_url": "https://github.com/craigs-stuff/healthy",
+    "credits": "",
+    "credits_url": "",
+    "description": "Welcome to the Health theme for Bludit CMS. Based on css grid, healthy theme is a stylish, fun theme that can be used on a variety of sites",
+    "features": {
+      "0": "",
+      "1": "",
+      "2": ""
+    },
+    "author_username": "codecobber"
+  }
