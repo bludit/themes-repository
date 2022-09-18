@@ -9,11 +9,15 @@
     "information_url": "https://github.com/craigs-stuff/healthy",
     "credits": "",
     "credits_url": "",
-    "description": "Welcome to the Health theme for Bludit CMS. Based on css grid, healthy theme is a stylish, fun theme that can be used on a variety of sites",
+    "description": "Welcome to the Health theme for Bludit CMS. Based on CSS grid, healthy theme is a stylish, fun theme that can be used on a variety of sites.",
     "features": {
       "0": "",
-      "1": "",
-      "2": ""
+      "1": ""
+    },
+    "description_ru": "Представляем вам тему Health для Bludit CMS. Основанная на CSS grid, тема здорового человека (а не курильщика) - это стильная, веселая тема, которую можно использовать для самых разных сайтов.",
+    "features_ru": {
+      "0": "",
+      "1": ""
     },
     "author_username": "codecobber"
   }
