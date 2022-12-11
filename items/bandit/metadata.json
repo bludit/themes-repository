@@ -1,0 +1,41 @@
+{
+	"name": "Bandit",
+	"version": "3.14.1",
+	"author_username": "creativitas",
+	"release_date": "2022-11-29",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/mesinkasir/the-bandit/archive/refs/heads/main.zip",
+	"demo_url": "https://axcora.my.id/bludit",
+	"information_url": "https://axcora.my.id/bludit/how-to-work",
+	"credits": "",
+	"credits_url": "https://axcora.my.id/bludit",
+	"description": "The Bandit - a clean design - simple starer bludit",
+	"features": {
+		"0": "Cover image ready",
+		"1": "Navbar static page",
+		"2": "Social Link on footer",
+		"3": "SideBar Support"
+	},
+	"description_de": "Der Bandit - ein klares Design - einfacher Starer Bludit",
+	"features_de": {
+		"0": "Titelbild fertig",
+		"1": "Navbar statische Seite",
+		"2": "Social Link in der Fußzeile",
+		"3": "SideBar-Unterstützung"
+	},
+	"description_es": "The Bandit - un diseño limpio - simple starer bludit",
+	"features_es": {
+		"0": "Imagen de portada lista",
+		"1": "Página estática de la barra de navegación",
+		"2": "Enlace social en el pie de página",
+		"3": "Compatibilidad con la barra lateral"
+	},
+	"description_ru": "The Bandit - чистый дизайн - простой старер блудит",
+	"features_ru": {
+		"0": "Обложка готова",
+		"1": "Статическая страница панели навигации",
+		"2": "Социальная ссылка в нижнем колонтитуле",
+		"3": "Поддержка боковой панели"
+	}
+}
