@@ -19,9 +19,9 @@
 	},
 	"description_de": "",
 	"features_de": {
-		"0": "",
-		"1": "",
-		"2": ""
+		"0": "Möglichst weitgehende Unterstützung von responsive und anderen Funktionen des Originals",
+		"1": "Startseite kann hinzugefügt werden (in der Datei README.md stehen die Anweisungen, wie sie ergänzt werden kann)",
+		"2": "Eine zu contact3 kompatible Kontaktseite kann hinzugefügt werden"
 	},
 	"description_es": "",
 	"features_es": {
