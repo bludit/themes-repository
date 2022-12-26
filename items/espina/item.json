@@ -1,0 +1,39 @@
+{
+	"name": "Espina",
+	"version": "1.0.0",
+	"author_username": "Graziano",
+	"release_date": "26/12/2022",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/grazianobolla/espina/releases/latest/download/espina.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/grazianobolla/espina",
+	"credits": "@grazianobolla",
+	"credits_url": "grazianobolla.com",
+	"description": "Simple and minimal theme for bloggers",
+	"features": {
+		"0": "Syntax highlighting",
+		"1": "Filter by tag / category",
+		"2": "Responsive design",
+		"3": "Archive posts and hide them from homepage",
+		"4": "Fully plugin compatible"
+	},
+	"description_de": "",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_es": "",
+	"features_es": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_ru": "",
+	"features_ru": {
+		"0": "",
+		"1": "",
+		"2": ""
+	}
+}
