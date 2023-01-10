@@ -10,13 +10,13 @@
 	"information_url": "https://github.com/grazianobolla/espina",
 	"credits": "@grazianobolla",
 	"credits_url": "grazianobolla.com",
-	"description": "Simple and minimal theme for bloggers",
+	"description": "Simple and minimal theme for bloggers.",
 	"features": {
-		"0": "Syntax highlighting",
-		"1": "Filter by tag / category",
-		"2": "Responsive design",
-		"3": "Archive posts and hide them from homepage",
-		"4": "Fully plugin compatible"
+		"0": "Syntax highlighting.",
+		"1": "Filter by tag / category.",
+		"2": "Responsive design.",
+		"3": "Archive posts and hide them from homepage.",
+		"4": "Fully plugin compatible."
 	},
 	"description_de": "",
 	"features_de": {
@@ -30,10 +30,12 @@
 		"1": "",
 		"2": ""
 	},
-	"description_ru": "",
+	"description_ru": "Простая и минималистичная тема для блоггеров с приглшёнными тёмными тонами.",
 	"features_ru": {
-		"0": "",
-		"1": "",
-		"2": ""
+		"0": "Подсветка синтаксиса.",
+		"1": "Наличие фильтра по тегам / категориям.",
+		"2": "Адаптивный приятный тёмный дизайн.",
+		"3": "Можно архивировать записи и скрывать их с главной страницы.",
+		"4": "Полная совместимость с различными плагинами."
 	}
 }
