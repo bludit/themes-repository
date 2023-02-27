@@ -1,0 +1,41 @@
+{
+	"name": "Bluger",
+	"version": "3.14.1",
+	"author_username": "creativitas",
+	"release_date": "2023-02-25",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/mesinkasir/bluger/archive/refs/heads/main.zip",
+	"demo_url": "https://axcora.my.id/bludit/bluger",
+	"information_url": "https://axcora.my.id/bludit/bluger/how-to-install",
+	"credits": "Bluger",
+	"credits_url": "https://axcora.my.id/bludit/bluger",
+	"description": "Bluger Bludit Burger for restaurant cafe food and drink shop website",
+	"features": {
+		"0": "Cover image ready",
+		"1": "Navbar static page",
+		"2": "Social Link on footer",
+		"3": "SideBar Support"
+	},
+	"description_de": "Bluger Bludit Burger für die Website des Restaurant-Café-Shops für Speisen und Getränke",
+	"features_de": {
+		"0": "Titelbild fertig",
+		"1": "Navbar statische Seite",
+		"2": "Social Link in der Fußzeile",
+		"3": "SideBar-Unterstützung"
+	},
+	"description_es": "Bluger Bludit Burger para el sitio web de la tienda de alimentos y bebidas de la cafetería del restaurante",
+	"features_es": {
+		"0": "Imagen de portada lista",
+		"1": "Página estática de la barra de navegación",
+		"2": "Enlace social en el pie de página",
+		"3": "Compatibilidad con la barra lateral"
+	},
+	"description_ru": "Bluger Bludit Burger для ресторана, кафе, магазина еды и напитков",
+	"features_ru": {
+		"0": "Обложка готова",
+		"1": "Статическая страница панели навигации",
+		"2": "Социальная ссылка в нижнем колонтитуле",
+		"3": "Поддержка боковой панели"
+	}
+}
