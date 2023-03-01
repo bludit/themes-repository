@@ -1,0 +1,41 @@
+{
+	"name": "Space",
+	"version": "3.14.1",
+	"author_username": "creativitas",
+	"release_date": "2023-03-01",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/mesinkasir/bl-space/archive/refs/heads/main.zip",
+	"demo_url": "https://axcora.my.id/bludit/space",
+	"information_url": "https://axcora.my.id/bludit/space/installation",
+	"credits": "Creativitas",
+	"credits_url": "https://axcora.my.id/bludit/space",
+	"description": "Clean with black white concept fast and powerfull bludit flatfile cms",
+	"features": {
+		"0": "Cover image ready",
+		"1": "Navbar static page",
+		"2": "Social Link on footer",
+		"3": "SideBar Support"
+	},
+	"description_de": "Clean with black white concept fast and powerfull bludit flatfile cms",
+	"features_de": {
+		"0": "Cover image ready",
+		"1": "Navbar static page",
+		"2": "Social Link on footer",
+		"3": "SideBar Support"
+	},
+	"description_es": "Clean with black white concept fast and powerfull bludit flatfile cms",
+	"features_es": {
+		"0": "Cover image ready",
+		"1": "Navbar static page",
+		"2": "Social Link on footer",
+		"3": "SideBar Support"
+	},
+	"description_ru": "Clean with black white concept fast and powerfull bludit flatfile cms",
+	"features_ru": {
+		"0": "Cover image ready",
+		"1": "Navbar static page",
+		"2": "Social Link on footer",
+		"3": "SideBar Support"
+	}
+}
