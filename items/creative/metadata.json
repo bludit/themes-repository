@@ -1,0 +1,41 @@
+{
+	"name": "Creative",
+	"version": "3.14.1",
+	"author_username": "creativitas",
+	"release_date": "2023-03-07",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/mesinkasir/bl-creativeart/archive/refs/heads/main.zip",
+	"demo_url": "https://axcora.my.id/bludit/creativeart/",
+	"information_url": "https://axcora.my.id/bludit/creativeart/installation",
+	"credits": "Creativitas",
+	"credits_url": "https://www.fiverr.com/creativitas/design-your-website-with-phyton-django",
+	"description": "Portfolio for art worker and photographer for bludit flatfile cms,beautiful and attractive theme ",
+	"features": {
+		"0": "Cover image ready",
+		"1": "Navbar static page",
+		"2": "Social Link on footer",
+		"3": "SideBar Support"
+	},
+	"description_de": "Portfolio for art worker and photographer for bludit flatfile cms,beautiful and attractive theme",
+	"features_de": {
+		"0": "Cover image ready",
+		"1": "Navbar static page",
+		"2": "Social Link on footer",
+		"3": "SideBar Support"
+	},
+	"description_es": "Portfolio for art worker and photographer for bludit flatfile cms,beautiful and attractive theme",
+	"features_es": {
+		"0": "Cover image ready",
+		"1": "Navbar static page",
+		"2": "Social Link on footer",
+		"3": "SideBar Support"
+	},
+	"description_ru": "Portfolio for art worker and photographer for bludit flatfile cms,beautiful and attractive theme",
+	"features_ru": {
+		"0": "Cover image ready",
+		"1": "Navbar static page",
+		"2": "Social Link on footer",
+		"3": "SideBar Support"
+	}
+}
