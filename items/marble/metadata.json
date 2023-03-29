@@ -17,11 +17,11 @@
 		"2": "Contact page compatible with contact3 can be added.",
 		"3": "Japanese language support."
 	},
-	"description_de": "",
+	"description_de": "Portierte Marmorvorlage (Original entworfen von FREEHTML5.CO) zu Bludit.",
 	"features_de": {
-		"0": "Möglichst weitgehende Unterstützung von responsive und anderen Funktionen des Originals",
-		"1": "Startseite kann hinzugefügt werden (in der Datei README.md stehen die Anweisungen, wie sie ergänzt werden kann)",
-		"2": "Eine zu contact3 kompatible Kontaktseite kann hinzugefügt werden"
+		"0": "Möglichst weitgehende Unterstützung von responsive und anderen Funktionen des Originals.",
+		"1": "Startseite kann hinzugefügt werden (in der Datei README.md stehen die Anweisungen, wie sie ergänzt werden kann).",
+		"2": "Eine zu contact3 kompatible Kontaktseite kann hinzugefügt werden."
 	},
 	"description_es": "",
 	"features_es": {
@@ -29,11 +29,11 @@
 		"1": "",
 		"2": ""
 	},
-	"description_ru": "Портированная тема для Bludit (оригинал, разработанн для FREEHTML5.CO ).",
+	"description_ru": "Портированная тема для Bludit (оригинал, разработанн для FREEHTML5.CO).",
 	"features_ru": {
-		"0": "Полная поддержка адаптивных и других оригинальных функций темы.",
+		"0": "Полная поддержка адаптивных элементов и других оригинальных функций темы.",
 		"1": "Можно добавить главную страницу (см. README.md о том, как её добавить).",
-		"2": "Может быть добавлена страница обратной связи, совместимая с contact3.",
-		"3": "Поддержка японского языка (ничего себе!)."
+		"2": "Может быть добавлена страница обратной связи, совместимая с плагином Contact3.",
+		"3": "Поддержка японского языка (ничего себе, моё почтение за такую редкую фичу 🤗)."
 	}
 }
