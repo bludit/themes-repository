@@ -12,29 +12,30 @@
 	"credits_url": "",
 	"description": "The modified version of the Bludit CMS Booty admin template.",
 	"features": {
-		"0": "fixed and colored sidebar",
-		"1": "the appearance of the sidebar menu items",
-		"2": "display the main area on the right in a panel",
-		"3": "some menu item putting into icons",
-		"4": "integrated theme upgrade system"
+		"0": "Fixed and colored sidebar.",
+		"1": "The appearance of the sidebar menu items.",
+		"2": "Display the main area on the right in a panel.",
+		"3": "Some menu item putting into icons.",
+		"4": "Integrated theme upgrade system."
 	},
-	"description_de": "_DESCRIPTION_GERMAN_",
+	"description_de": "The modified version of the Bludit CMS Booty admin template.",
 	"features_de": {
 		"0": "",
 		"1": "",
 		"2": ""
 	},
-	"description_es": "_DESCRIPTION_SPANISH_",
+	"description_es": "The modified version of the Bludit CMS Booty admin template.",
 	"features_es": {
 		"0": "",
 		"1": "",
 		"2": ""
 	},
-	"description_ru": "Модифицированная версия шаблона для панели администратора в Bludit CMS - Booty.",
+	"description_ru": "Модифицированная версия темы оформления для Панели администратора в Bludit CMS — Booty.",
 	"features_ru": {
 		"0": "Фиксированная и цветная боковая панель.",
-		"1": "Аккуратный внешний вид пунктов меню боковой панели.",
+		"1": "Аккуратный внешний вид пунктов в меню боковой панели.",
 		"2": "Отображение основной рабочей области справа от боковой панели.",
-		"3": "Некоторые пункты меню сделаны в виде иконок."
+		"3": "Некоторые пункты меню сделаны в виде иконок.",
+		"4": "Интегрированная система обновления темы."
 	}
 }
