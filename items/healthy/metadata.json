@@ -11,13 +11,9 @@
     "credits_url": "",
     "description": "Welcome to the Health theme for Bludit CMS. Based on CSS grid, healthy theme is a stylish, fun theme that can be used on a variety of sites.",
     "features": {
-      "0": "",
-      "1": ""
     },
-    "description_ru": "Представляем вам тему Health для Bludit CMS. Тема здорового человека (а не курильщика), дизайн которой основан на CSS grid — стильная, веселая тема, которую можно использовать для самых разных сайтов.",
+    "description_ru": "Представляем тему Health для Bludit CMS. Тема здорового человека (а не курильщика), дизайн которой основан на CSS grid — стильная, весёлая тема, которую можно использовать для самых разных сайтов.",
     "features_ru": {
-      "0": "",
-      "1": ""
     },
     "author_username": "codecobber"
   }
