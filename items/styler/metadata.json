@@ -34,12 +34,12 @@
 		"3": "Laravel Mix.",
 		"4": "SASS (Syntactically Awesome Style Sheets)."
 	},
-	"description_ru": "Styler - это лёгкая и отзывчивая тема, включающая полноэкранный слайдер.",
+	"description_ru": "Styler — лёгкая и отзывчивая тема, включающая полноэкранный слайдер.",
 	"features_ru": {
 		"0": "Полноэкранный слайдер изображений.",
-		"1": "Bootstrap 5.",
+		"1": "Разработана на Bootstrap 5.",
 		"2": "Без jQuery.",
-		"3": "Laravel Mix.",
-		"4": "SASS (Syntactically Awesome Style Sheets)."
+		"3": "Включает в себя Laravel Mix.",
+		"4": "Разработанас использованием SASS (Syntactically Awesome Style Sheets)."
 	}
 }
