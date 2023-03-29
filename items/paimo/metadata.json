@@ -10,32 +10,32 @@
 	"information_url": "https://axcora.my.id/bludit/paimo/installation",
 	"credits": "Creativitas",
 	"credits_url": "https://axcora.my.id/bludit/paimo",
-	"description": "Clean with black white concept fast and powerfull bludit flatfile cms",
+	"description": "Clean with black white concept fast and powerfull Bludit flatfile CMS.",
 	"features": {
-		"0": "Cover image ready",
-		"1": "Navbar static page",
-		"2": "Social Link on footer",
-		"3": "SideBar Support"
+		"0": "Cover image ready.",
+		"1": "Navbar static page.",
+		"2": "Social Link on footer.",
+		"3": "SideBar Support."
 	},
-	"description_de": "Bluger Bludit Burger für die Website des Restaurant-Café-Shops für Speisen und Getränke",
+	"description_de": "Reinigen Sie mit dem Schwarz-Weiß-Konzept schnelles und leistungsstarkes Bludit Flat File CMS (Automatisch übersetzt von einem Online-Übersetzer).",
 	"features_de": {
-		"0": "Titelbild fertig",
-		"1": "Navbar statische Seite",
-		"2": "Social Link in der Fußzeile",
-		"3": "SideBar-Unterstützung"
+		"0": "Titelbild fertig.",
+		"1": "Navbar statische Seite.",
+		"2": "Social Link in der Fußzeile.",
+		"3": "SideBar-Unterstützung."
 	},
-	"description_es": "Bluger Bludit Burger para el sitio web de la tienda de alimentos y bebidas de la cafetería del restaurante",
+	"description_es": "Limpie con black white concept CMS de archivo plano Bludit rápido y potente (traducido automáticamente por un traductor en línea).",
 	"features_es": {
-		"0": "Imagen de portada lista",
-		"1": "Página estática de la barra de navegación",
-		"2": "Enlace social en el pie de página",
-		"3": "Compatibilidad con la barra lateral"
+		"0": "Imagen de portada lista.",
+		"1": "Página estática de la barra de navegación.",
+		"2": "Enlace social en el pie de página.",
+		"3": "Compatibilidad con la barra lateral."
 	},
-	"description_ru": "Bluger Bludit Burger для ресторана, кафе, магазина еды и напитков",
+	"description_ru": "Простая и лёгкая, основанная на концепции чёрно-белых тонов, быстрая и в то же время мощная тема для Bludit CMS.",
 	"features_ru": {
-		"0": "Обложка готова",
-		"1": "Статическая страница панели навигации",
-		"2": "Социальная ссылка в нижнем колонтитуле",
-		"3": "Поддержка боковой панели"
+		"0": "Поддерживаются изображения для обложки записи/страницы.",
+		"1": "Статическая страница навигационной панели.",
+		"2": "Социальные ссылки в подвале сайта (нижнем колонтитуле).",
+		"3": "Поддерживается боковая панель."
 	}
 }
