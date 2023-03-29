@@ -10,36 +10,36 @@
 	"information_url": "https://axcora.my.id/bludit/blug/install",
 	"credits": "Creativitas",
 	"credits_url": "https://www.fiverr.com/creativitas/design-your-website-with-phyton-django",
-	"description": "Let's build modern blog with bludit feat tailwind - BLUG is a BLUdit bloG",
+	"description": "Let's build modern blog with Bludit feat Tailwind CSS — BLUG is a BLUdit bloG.",
 	"features": {
-		"0": "Clean Design",
-		"1": "Navbar static page",
-		"2": "Social Link on footer",
-		"3": "SideBar Support",
-		"4": "Lazy Image"
+		"0": "Clean Design.",
+		"1": "Navbar static page.",
+		"2": "Social Link on footer.",
+		"3": "SideBar Support.",
+		"4": "Lazy Image."
 	},
-	"description_de": "Let's build modern blog with bludit feat tailwind - BLUG is a BLUdit bloG",
+	"description_de": "Let's build modern blog with Bludit feat Tailwind CSS — BLUG is a BLUdit bloG.",
 	"features_de": {
-		"0": "Clean Design",
-		"1": "Navbar static page",
-		"2": "Social Link on footer",
-		"3": "SideBar Support",
-		"4": "Lazy Image"
+		"0": "Clean Design.",
+		"1": "Navbar static page.",
+		"2": "Social Link on footer.",
+		"3": "SideBar Support.",
+		"4": "Lazy Image."
 	},
-	"description_es": "Let's build modern blog with bludit feat tailwind - BLUG is a BLUdit bloG",
+	"description_es": "Let's build modern blog with Bludit feat Tailwind CSS — BLUG is a BLUdit bloG.",
 	"features_es": {
-		"0": "Clean Design",
-		"1": "Navbar static page",
-		"2": "Social Link on footer",
-		"3": "SideBar Support",
-		"4": "Lazy Image"
+		"0": "Clean Design.",
+		"1": "Navbar static page.",
+		"2": "Social Link on footer.",
+		"3": "SideBar Support.",
+		"4": "Lazy Image."
 	},
-	"description_ru": "Let's build modern blog with bludit feat tailwind - BLUG is a BLUdit bloG",
+	"description_ru": "Давайте создадим современный блог с помощью Bludit и Tailwind CSS — BLUG это BLUdit bloG.",
 	"features_ru": {
-		"0": "Clean Design",
-		"1": "Navbar static page",
-		"2": "Social Link on footer",
-		"3": "SideBar Support",
-		"4": "Lazy Image"
+		"0": "Приятный дизайн.",
+		"1": "Статическая страница навигационной панели.",
+		"2": "Социальные ссылки в подвале сайта (нижнем колонтитуле).",
+		"3": "Поддерживается боковая панель.",
+		"4": "Отложенная загрузка изображений."
 	}
 }
