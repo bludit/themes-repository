@@ -19,17 +19,17 @@
 	},
 	"description_de": "Der Bandit — ein klares Design — einfacher Starer Bludit.",
 	"features_de": {
-		"0": "Titelbild fertig",
-		"1": "Navbar statische Seite",
-		"2": "Social Links in der Fußzeile",
-		"3": "SideBar-Unterstützung"
+		"0": "Titelbild fertig.",
+		"1": "Navbar statische Seite.",
+		"2": "Social Links in der Fußzeile.",
+		"3": "SideBar-Unterstützung."
 	},
 	"description_es": "The Bandit — un diseño limpio — simple starer Bludit.",
 	"features_es": {
-		"0": "Imagen de portada lista",
-		"1": "Página estática de la barra de navegación",
-		"2": "Enlace social en el pie de página",
-		"3": "Compatibilidad con la barra lateral"
+		"0": "Imagen de portada lista.",
+		"1": "Página estática de la barra de navegación.",
+		"2": "Enlace social en el pie de página.",
+		"3": "Compatibilidad con la barra lateral."
 	},
 	"description_ru": "Bandit — это чистый дизайн — и хороший выбор, чтобы начать работу с Bludit.",
 	"features_ru": {
