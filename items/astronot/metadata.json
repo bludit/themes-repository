@@ -10,32 +10,32 @@
 	"information_url": "https://axcora.my.id/bludit/astronot",
 	"credits": "Creativitas",
 	"credits_url": "https://www.fiverr.com/creativitas/",
-	"description": "Unique design with astronot css for bludit blog",
+	"description": "Unique design with astronot CSS for Bludit blog.",
 	"features": {
-		"0": "Cover image ready",
-		"1": "Navbar static page",
-		"2": "Social Link on footer",
-		"3": "SideBar Support"
+		"0": "Cover image ready.",
+		"1": "Navbar static page.",
+		"2": "Social Links on footer.",
+		"3": "SideBar Support."
 	},
-	"description_de": "Unique design with astronot css for bludit blog",
+	"description_de": "Unique design with astronot CSS for Bludit blog.",
 	"features_de": {
-		"0": "Cover image ready",
-		"1": "Navbar static page",
-		"2": "Social Link on footer",
-		"3": "SideBar Support"
+		"0": "Cover image ready.",
+		"1": "Navbar static page.",
+		"2": "Social Links on footer.",
+		"3": "SideBar Support."
 	},
-	"description_es": "Unique design with astronot css for bludit blog",
+	"description_es": "Unique design with astronot CSS for Bludit blog.",
 	"features_es": {
-		"0": "Cover image ready",
-		"1": "Navbar static page",
-		"2": "Social Link on footer",
-		"3": "SideBar Support"
+		"0": "Cover image ready.",
+		"1": "Navbar static page.",
+		"2": "Social Links on footer.",
+		"3": "SideBar Support."
 	},
-	"description_ru": "Unique design with astronot css for bludit blog",
+	"description_ru": "Уникальный дизайн с использованием astronot CSS для блога на Bludit.",
 	"features_ru": {
-		"0": "Cover image ready",
-		"1": "Navbar static page",
-		"2": "Social Link on footer",
-		"3": "SideBar Support"
+		"0": "Поддерживаются изображения для обложки записи/страницы.",
+		"1": "Статическая страница навигационной панели.",
+		"2": "Социальные ссылки в подвале сайта (нижнем колонтитуле).",
+		"3": "Поддерживается боковая панель."
 	}
 }

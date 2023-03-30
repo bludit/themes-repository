@@ -10,32 +10,32 @@
 	"information_url": "https://axcora.my.id/bludit/space/installation",
 	"credits": "Creativitas",
 	"credits_url": "https://axcora.my.id/bludit/space",
-	"description": "Unique design space for bludit flatfile cms",
+	"description": "Unique design space for Bludit CMS.",
 	"features": {
-		"0": "Cover image ready",
-		"1": "Navbar static page",
-		"2": "Social Link on footer",
-		"3": "SideBar Support"
+		"0": "Cover image ready.",
+		"1": "Navbar static page.",
+		"2": "Social Link on footer.",
+		"3": "SideBar Support."
 	},
-	"description_de": "Unique design space for bludit flatfile cms",
+	"description_de": "Unique design space for Bludit CMS.",
 	"features_de": {
-		"0": "Cover image ready",
-		"1": "Navbar static page",
-		"2": "Social Link on footer",
-		"3": "SideBar Support"
+		"0": "Cover image ready.",
+		"1": "Navbar static page.",
+		"2": "Social Link on footer.",
+		"3": "SideBar Support."
 	},
-	"description_es": "Unique design space for bludit flatfile cms",
+	"description_es": "Unique design space for Bludit CMS.",
 	"features_es": {
 		"0": "Cover image ready",
 		"1": "Navbar static page",
 		"2": "Social Link on footer",
 		"3": "SideBar Support"
 	},
-	"description_ru": "Unique design space for bludit flatfile cms",
+	"description_ru": "Тема с уникальным дизайнерским решением, специально для Bludit CMS.",
 	"features_ru": {
-		"0": "Cover image ready",
-		"1": "Navbar static page",
-		"2": "Social Link on footer",
-		"3": "SideBar Support"
+		"0": "Поддерживаются изображения для обложки записи/страницы.",
+		"1": "Статическая страница навигационной панели.",
+		"2": "Социальные ссылки в подвале сайта (нижнем колонтитуле).",
+		"3": "Поддерживается боковая панель."
 	}
 }

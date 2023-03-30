@@ -10,13 +10,13 @@
 	"information_url": "https://github.com/vikgor/sea-point",
 	"credits": "",
 	"credits_url": "https://github.com/vikgor/sea-point",
-	"description": "Sea Point is a simple and minimalist theme. Upload your image as 'background-hero.jpg' to use as jumbotron hero image.",
+	"description": "Sea Point is a simple and minimalist theme. Upload your image as <code>background-hero.jpg</code> to use as jumbotron hero image.",
 	"features": {
 		"0": "Cover image support.",
 		"1": "Fully responsive.",
 		"2": "Footer with social links.",
 		"3": "Static pages are automatically added to the navbar.",
-        	"4": "System-based dark mode"
+        	"4": "System-based dark mode."
 	},
 	"description_de": "",
 	"features_de": {
@@ -25,19 +25,19 @@
 		"2": "",
 		"3": ""
 	},
-	"description_es": "Sea Point es un tema sencillo y minimalista. Cargue su imagen como 'background-Hero.jpg' para usarla como imagen de héroe de Jumbotron.",
+	"description_es": "Sea Point es un tema sencillo y minimalista. Cargue su imagen como <code>background-hero.jpg</code> para usarla como imagen de héroe de Jumbotron.",
 	"features_es": {
 		"0": "",
 		"1": "",
 		"2": "",
 		"3": ""
 	},
-	"description_ru": "Простая, минималистичная тема для Bludit.",
+	"description_ru": "Sea Point — простая и минималистичная тема. Загрузите своё изображение в виде <code>background-hero.jpg</code> для использования в качестве главного изображения в шапке сайта.",
 	"features_ru": {
-		"0": "Поддержка обложки.",
-		"1": "Полностью адаптируемая.",
+		"0": "Поддержка изображений обложки для записей/страниц.",
+		"1": "Полностью адаптивная.",
 		"2": "Нижний колонтитул (подвал сайта) с ссылками на социальные сети.",
-		"3": "Статические страницы автоматически добавляются в навигационную панель.",
+		"3": "Статические страницы автоматически добавляются в навигационную панель (меню).",
         	"4": "Тёмное оформление, зависящее от настроек системы."
 	}
 }

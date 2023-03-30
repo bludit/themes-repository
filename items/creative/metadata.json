@@ -10,32 +10,32 @@
 	"information_url": "https://axcora.my.id/bludit/creativeart/installation",
 	"credits": "Creativitas",
 	"credits_url": "https://www.fiverr.com/creativitas/design-your-website-with-phyton-django",
-	"description": "Portfolio for art worker and photographer for bludit flatfile cms,beautiful and attractive theme ",
+	"description": "Portfolio for art worker and photographer for Bludit CMS, beautiful and attractive theme.",
 	"features": {
-		"0": "Cover image ready",
-		"1": "Navbar static page",
-		"2": "Social Link on footer",
-		"3": "SideBar Support"
+		"0": "Cover image ready.",
+		"1": "Navbar static page.",
+		"2": "Social Link on footer.",
+		"3": "SideBar Support."
 	},
-	"description_de": "Portfolio for art worker and photographer for bludit flatfile cms,beautiful and attractive theme",
+	"description_de": "Portfolio for art worker and photographer for Bludit CMS, beautiful and attractive theme.",
 	"features_de": {
-		"0": "Cover image ready",
-		"1": "Navbar static page",
-		"2": "Social Link on footer",
-		"3": "SideBar Support"
+		"0": "Cover image ready.",
+		"1": "Navbar static page.",
+		"2": "Social Link on footer.",
+		"3": "SideBar Support."
 	},
-	"description_es": "Portfolio for art worker and photographer for bludit flatfile cms,beautiful and attractive theme",
+	"description_es": "Portfolio for art worker and photographer for Bludit CMS, beautiful and attractive theme.",
 	"features_es": {
-		"0": "Cover image ready",
-		"1": "Navbar static page",
-		"2": "Social Link on footer",
-		"3": "SideBar Support"
+		"0": "Cover image ready.",
+		"1": "Navbar static page.",
+		"2": "Social Link on footer.",
+		"3": "SideBar Support."
 	},
-	"description_ru": "Portfolio for art worker and photographer for bludit flatfile cms,beautiful and attractive theme",
+	"description_ru": "Портфолио для творческой личности или фотографа специально для Bludit CMS, красивая и привлекательная тема.",
 	"features_ru": {
-		"0": "Cover image ready",
-		"1": "Navbar static page",
-		"2": "Social Link on footer",
-		"3": "SideBar Support"
+		"0": "Поддерживаются изображения для обложки записи/страницы.",
+		"1": "Статическая страница навигационной панели.",
+		"2": "Социальные ссылки в подвале сайта (нижнем колонтитуле).",
+		"3": "Поддерживается боковая панель."
 	}
 }

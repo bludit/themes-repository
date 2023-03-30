@@ -10,27 +10,27 @@
 	"information_url": "https://github.com/anaggh/core",
 	"credits": "",
 	"credits_url": "",
-	"description": "Another minimal theme for Bludit - Not based on any framework.",
+	"description": "Another minimal theme for Bludit — Not based on any framework.",
 	"features": {
 		"0": "Lightweight.",
 		"1": "Uses default system fonts.",
 		"2": "Optional automatic Code Syntax Highlighting."
 	},
-	"description_de": "Ein weiteres minimales Template für Bludit - Basiert auf keinem Framework",
+	"description_de": "Ein weiteres minimales Template für Bludit — Basiert auf keinem Framework",
 	"features_de": {
 		"0": "Leichtgewichtig.",
 		"1": "verwendet Standard System Schriften.",
 		"2": "Optionales Code Syntax Highlighting."
 	},
-	"description_es": "Otro tema minimalista para Bludit - No esta basado en ningún framework.",
+	"description_es": "Otro tema minimalista para Bludit — No esta basado en ningún framework.",
 	"features_es": {
 		"0": "Liviano.",
 		"1": "Utiliza fuentes de sistema predeterminadas.",
 		"2": "Resaltado de sintaxis de código automático."
 	},
-	"description_ru": "Еще одна минималистичная тема для Bludit - Сделана без каких-либо фреймворков.",
+	"description_ru": "Ещё одна минималистичная тема для Bludit — сделана без каких-либо фреймворков.",
 	"features_ru": {
-		"0": "Лёгкая.",
+		"0": "Лёгкая и простая.",
 		"1": "Использует системные шрифты по умолчанию.",
 		"2": "Имеет дополнительную автоматическую подсветку синтаксиса кода."
 	}

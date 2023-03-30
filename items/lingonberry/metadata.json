@@ -13,25 +13,21 @@
 	"description": "Lingonberry is a clean and simple theme for bloggers, with responsive design and beautiful typography. Based on the theme Lingoberry for Wordpress by swedish designer Anders Norén.",
 	"features": {
 		"0": "Beautiful Design.",
-		"1": "Responsive & Retina Ready.",
-		"2": ""
+		"1": "Responsive & Retina Ready."
 	},
 	"description_de": "",
 	"features_de": {
 		"0": "",
-		"1": "",
-		"2": ""
+		"1": ""
 	},
 	"description_es": "Lingonberry es un tema especial para blogs con una linda interfaz lograda, portado a Bludit por Hakim Zulkufli.",
 	"features_es": {
 		"0": "Hermoso diseño.",
-		"1": "Responsive.",
-		"2": ""
+		"1": "Responsive."
 	},
-	"description_ru": "Lingonberry - это светлая и простая тема для блоггеров, с отзывчивым дизайном и красивой типографикой. Создана на основе темы Lingoberry для Wordpress шведского дизайнера Андерса Норена.",
+	"description_ru": "Lingonberry — светлая и простая тема для блогеров, с отзывчивым дизайном и красивой типографикой. Создана на основе темы Lingoberry для Wordpress шведского дизайнера Андерса Норена.",
 	"features_ru": {
-		"0": "Красивый дизайн.",
-		"1": "Адаптивность и отличная адаптированность под Ретина дисплеи.",
-		"2": ""
+		"0": "Красивый современный дизайн.",
+		"1": "Тема адаптивна и отлично оптимизирована под Ретина дисплеи."
 	}
 }

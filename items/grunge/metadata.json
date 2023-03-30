@@ -10,32 +10,32 @@
 	"information_url": "https://axcora.my.id/bludit/grunge/documentation",
 	"credits": "Creativitas",
 	"credits_url": "https://www.fiverr.com/creativitas/design-your-website-with-phyton-django",
-	"description": "Landing page grunge unique design with static or sticky content for bludit flatfile cms",
+	"description": "Landing page grunge unique design with static or sticky content for Bludit flatfile CMS.",
 	"features": {
-		"0": "Landing Page",
-		"1": "Navbar static page",
-		"2": "Social Link on footer",
-		"3": "SideBar About Support"
+		"0": "Landing Page.",
+		"1": "Navbar static page.",
+		"2": "Social Link on footer.",
+		"3": "SideBar About Support."
 	},
-	"description_de": "Landing page grunge unique design with static or sticky content for bludit flatfile cms",
+	"description_de": "Landing page grunge unique design with static or sticky content for Bludit flatfile CMS.",
 	"features_de": {
-		"0": "Landing Page",
-		"1": "Navbar static page",
-		"2": "Social Link on footer",
-		"3": "SideBar About Support"
+		"0": "Landing Page.",
+		"1": "Navbar static page.",
+		"2": "Social Link on footer.",
+		"3": "SideBar About Support."
 	},
-	"description_es": "Landing page grunge unique design with static or sticky content for bludit flatfile cms",
+	"description_es": "Landing page grunge unique design with static or sticky content for Bludit flatfile CMS.",
 	"features_es": {
-		"0": "Landing Page",
-		"1": "Navbar static page",
-		"2": "Social Link on footer",
-		"3": "SideBar About Support"
+		"0": "Landing Page.",
+		"1": "Navbar static page.",
+		"2": "Social Link on footer.",
+		"3": "SideBar About Support."
 	},
-	"description_ru": "Landing page grunge unique design with static or sticky content for bludit flatfile cms",
+	"description_ru": "Тема подходящая для создния одностраничника (лендинга) с уникальным дизайном в стиле гранж со статичным или закреплённым контентом, разработанная для CMS построенной только на файлах — Bludit.",
 	"features_ru": {
-		"0": "Landing Page",
-		"1": "Navbar static page",
-		"2": "Social Link on footer",
-		"3": "SideBar About Support"
+		"0": "Преимужества одностраничного сайта (лендинга).",
+		"1": "Статическая страница навигационной панели.",
+		"2": "Социальные ссылки в подвале сайта (нижнем колонтитуле).",
+		"3": "Поддерживается боковая панель с блокном краткой информации о сайте или о владельце сайта.."
 	}
 }

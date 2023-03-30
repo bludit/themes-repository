@@ -10,32 +10,32 @@
 	"information_url": "https://axcora.my.id/bludit/github/category/doc",
 	"credits": "Creativitas",
 	"credits_url": "https://www.fiverr.com/creativitas",
-	"description": "Github blog design template for bludit focus on SEO",
+	"description": "Github blog design template for Bludit focus on SEO.",
 	"features": {
-		"0": "Cover image ready",
-		"1": "Navbar static page",
-		"2": "Social Link on footer",
-		"3": "SideBar Support"
+		"0": "Cover image ready.",
+		"1": "Navbar static page.",
+		"2": "Social Link on footer.",
+		"3": "SideBar Support."
 	},
-	"description_de": "Github blog design template for bludit focus on SEO",
+	"description_de": "Github blog design template for Bludit focus on SEO.",
 	"features_de": {
-		"0": "Cover image ready",
-		"1": "Navbar static page",
-		"2": "Social Link on footer",
-		"3": "SideBar Support"
+		"0": "Cover image ready.",
+		"1": "Navbar static page.",
+		"2": "Social Link on footer.",
+		"3": "SideBar Support."
 	},
-	"description_es": "Github blog design template for bludit focus on SEO",
+	"description_es": "Github blog design template for Bludit focus on SEO.",
 	"features_es": {
-		"0": "Cover image ready",
-		"1": "Navbar static page",
-		"2": "Social Link on footer",
-		"3": "SideBar Support"
+		"0": "Cover image ready.",
+		"1": "Navbar static page.",
+		"2": "Social Link on footer.",
+		"3": "SideBar Support."
 	},
-	"description_ru": "Github blog design template for bludit focus on SEO",
+	"description_ru": "Шаблон дизайна Github для блога на Bludit с хорошей оптимизацией SEO.",
 	"features_ru": {
-		"0": "Cover image ready",
-		"1": "Navbar static page",
-		"2": "Social Link on footer",
-		"3": "SideBar Support"
+		"0": "Поддерживаются изображения для обложки записи/страницы.",
+		"1": "Статическая страница навигационной панели.",
+		"2": "Социальные ссылки в подвале сайта (нижнем колонтитуле).",
+		"3": "Поддерживается боковая панель."
 	}
 }
