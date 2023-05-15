@@ -9,4 +9,4 @@ Theme for microblogging or microsites, supports cover images, static pages. buil
 - dirman hana
 
 ## Screenshot
-![screenshot](https://raw.githubusercontent.com/bludit-themes/micro2/master/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/dirmanhana/themes-repository/master/items/micro-blog-2/screenshot%20-%20Copy.png)
