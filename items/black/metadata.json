@@ -1,0 +1,37 @@
+{
+	"name": "Black++",
+	"version": "1.0.0",
+	"author_username": "amerey",
+	"release_date": "2023-05-17",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "theme",
+	"demo_url": "https://blog.amerey.eu",
+	"information_url": "https://github.com/Amereyeu/bludit-theme",
+	"credits": "",
+	"credits_url": "",
+	"description": "Black responsive theme with big background image.",
+	"features": {
+		"0": "Responsive theme",
+		"1": "v3.x",
+		"2": ""
+	},
+	"description_de": "_DESCRIPTION_GERMAN_",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_es": "_DESCRIPTION_SPANISH_",
+	"features_es": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_ru": "_DESCRIPTION_RUSSIAN_",
+	"features_ru": {
+		"0": "",
+		"1": "",
+		"2": ""
+	}
+}
