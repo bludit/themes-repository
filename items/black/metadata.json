@@ -12,26 +12,22 @@
 	"credits_url": "",
 	"description": "Black responsive theme with big background image.",
 	"features": {
-		"0": "Responsive theme",
-		"1": "v3.x",
-		"2": ""
+		"0": "Responsive theme.",
+		"1": "For Bludit v3.X."
 	},
 	"description_de": "_DESCRIPTION_GERMAN_",
 	"features_de": {
 		"0": "",
-		"1": "",
-		"2": ""
+		"1": ""
 	},
 	"description_es": "_DESCRIPTION_SPANISH_",
 	"features_es": {
 		"0": "",
-		"1": "",
-		"2": ""
+		"1": ""
 	},
-	"description_ru": "_DESCRIPTION_RUSSIAN_",
+	"description_ru": "Тёмная, даже, пожалуй, чёрная адаптивная тема с большим фоновым изображением.",
 	"features_ru": {
-		"0": "",
-		"1": "",
-		"2": ""
+		"0": "Адаптивная тема.",
+		"1": "Для Bludit версий 3.X."
 	}
 }
