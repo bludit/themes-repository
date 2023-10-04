@@ -1,0 +1,39 @@
+{
+	"name": "Solen",
+	"version": "1.0",
+	"author_username": "angga",
+	"release_date": "2023-10-03",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/anggackt/solen-bludit/releases/latest/download/solen.zip",
+	"demo_url": "https://angga.win",
+	"information_url": "https://angga.win/tema-simpel-dan-cerah-untuk-bludit-solen#english",
+	"credits": "Angga",
+	"credits_url": "https://angga.win",
+	"description": "A bright and simple Bludit blogging theme made with Picnic CSS and Simple Line Icons with support for screen reader users.",
+	"features": {
+		"0": "Very light on various desktop and mobile browser with responsive design",
+        "1": "Best effort support for screen reader users",
+		"2": "Three languages support: Indonesian, English, and Japanese",
+		"3": "Good contrast ratio",
+        "4": "Critical inline CSS and asynchronous CSS load"
+	},
+	"description_de": "",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_es": "",
+	"features_es": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_ru": "",
+	"features_ru": {
+		"0": "",
+		"1": "",
+		"2": ""
+	}
+}
