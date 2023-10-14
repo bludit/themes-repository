@@ -1,0 +1,42 @@
+{
+	"name": "Celestia",
+	"version": "1.0.0",
+	"author_username": "indocreativemedia",
+	"release_date": "2023-10-10",
+	"license": "Internal Use Only",
+	"price_usd": "15",
+	"download_url": "https://www.indocreativemedia.com/bludit-themes/",
+	"demo_url": "https://www.indocreativemedia.com/bludit-themes-demo/celestia/",
+	"information_url": "https://www.indocreativemedia.com/bludit-themes/",
+	"credits": "IndoCreativeMedia",
+	"credits_url": "https://www.indocreativemedia.com/",
+	"description": "Simple and elegant Bludit theme based on Bootstrap 5",
+	"features": {
+		"0": "Responsive theme based on Bootstrap 5.3",
+		"1": "All Bootstrap 5.3 features fully functional",
+		"2": "Toggleable color modes: light, dark or auto",
+		"3": "Custom static homepage layouts: columned or fullwidth",
+		"4": "Automatic social icons on footer",
+		"5": "Good SEO (search engine optimization) support",
+		"6": "Good accessibility (screen reader) support",
+		"7": "Eye friendly color contrast ratio"
+	},
+	"description_de": "_DESCRIPTION_GERMAN_",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_es": "_DESCRIPTION_SPANISH_",
+	"features_es": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_ru": "_DESCRIPTION_RUSSIAN_",
+	"features_ru": {
+		"0": "",
+		"1": "",
+		"2": ""
+	}
+}
