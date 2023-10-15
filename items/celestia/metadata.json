@@ -21,22 +21,37 @@
 		"6": "Good accessibility (screen reader) support",
 		"7": "Eye friendly color contrast ratio"
 	},
-	"description_de": "_DESCRIPTION_GERMAN_",
+	"description_de": "Einfaches und elegantes Bludit-Theme basierend auf Bootstrap 5",
 	"features_de": {
-		"0": "",
-		"1": "",
-		"2": ""
+		"0": "Responsives Theme basierend auf Bootstrap 5.3",
+		"1": "Alle Funktionen von Bootstrap 5.3 sind voll funktionsfähig",
+		"2": "Umschaltbare Farbmodi: hell, dunkel oder automatisch",
+		"3": "Benutzerdefinierte statische Homepage-Layouts: spaltenweise oder in voller Breite",
+		"4": "Automatische soziale Symbole in der Fußzeile",
+		"5": "Gute SEO-Unterstützung (Suchmaschinenoptimierung)",
+		"6": "Gute Unterstützung für Barrierefreiheit (Screenreader)",
+		"7": "Augenfreundliches Farbkontrastverhältnis"
 	},
-	"description_es": "_DESCRIPTION_SPANISH_",
+	"description_es": "Tema Bludit simple y elegante basado en Bootstrap 5",
 	"features_es": {
-		"0": "",
-		"1": "",
-		"2": ""
+		"0": "Tema responsivo basado en Bootstrap 5.3",
+		"1": "Todas las características de Bootstrap 5.3 son completamente funcionales",
+		"2": "Modos de color alternables: claro, oscuro o automático",
+		"3": "Diseños de página de inicio estáticos personalizados: en columnas o de ancho completo",
+		"4": "Iconos sociales automáticos en el pie de página",
+		"5": "Buen soporte de SEO (optimización de motores de búsqueda)",
+		"6": "Buen soporte de accesibilidad (lector de pantalla)",
+		"7": "Relación de contraste de color agradable a la vista"
 	},
-	"description_ru": "_DESCRIPTION_RUSSIAN_",
+	"description_ru": "Простая и элегантная тема Bludit на основе Bootstrap 5",
 	"features_ru": {
-		"0": "",
-		"1": "",
-		"2": ""
+		"0": "Адаптивная тема на основе Bootstrap 5.3",
+		"1": "Все функции Bootstrap 5.3 полностью функциональны",
+		"2": "Переключаемые цветовые режимы: светлый, темный или автоматический",
+		"3": "Пользовательские статические макеты домашней страницы: по столбцам или во всю ширину",
+		"4": "Автоматические значки социальных сетей в нижнем колонтитуле",
+		"5": "Хорошая поддержка SEO (поисковая оптимизация)",
+		"6": "Хорошая поддержка специальных возможностей (чтение с экрана)",
+		"7": "Удобный для глаз коэффициент цветовой контрастности"
 	}
 }
