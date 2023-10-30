@@ -10,7 +10,7 @@
 	"information_url": "https://github.com/anggackt/solen-bludit",
 	"credits": "Angga",
 	"credits_url": "https://angga.win",
-	"description": "A bright and simple Bludit blogging theme made with Picnic CSS with support for screen reader users.",
+	"description": "A responsive bright and simple Bludit blogging theme made with Picnic CSS with support for screen reader users.",
 	"features": {
 		"0": "Very light on various desktop and mobile browser with responsive design",
         "1": "Best effort support for screen reader users",
