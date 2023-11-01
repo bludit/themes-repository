@@ -1,0 +1,39 @@
+{
+	"name": "Luana",
+	"version": "1.0",
+	"author_username": "angga",
+	"release_date": "2023-11-01",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/anggackt/luana-bludit/releases/latest/download/luana.zip",
+	"demo_url": "https://angga.win",
+	"information_url": "https://github.com/anggackt/luana-bludit",
+	"credits": "Angga",
+	"credits_url": "https://angga.win",
+	"description": "A blogging theme focusing on text and also following some WCAG recommendations in an effort to make the web more accessible, built using a small footprint CSS framework called Chota.",
+	"features": {
+		"0": "Include PrismJS for syntax highlighting with a11y-light syntax highlighting theme",
+        "1": "WCAG 2.1 AA & ADA Compliant (machine-tested, navigation is self-tested using NVDA)",
+		"2": "Three languages support: Indonesian, English, and Japanese",
+		"3": "With basic content markup microdata using Schema.org vocabulary for single blog posts",
+        "4": "Critical inline CSS and asynchronous CSS load"
+	},
+	"description_de": "",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_es": "",
+	"features_es": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_ru": "",
+	"features_ru": {
+		"0": "",
+		"1": "",
+		"2": ""
+	}
+}
