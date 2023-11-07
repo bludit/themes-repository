@@ -12,11 +12,11 @@
 	"credits_url": "https://angga.win",
 	"description": "A responsive, bright, and simple Bludit blogging theme made with Picnic CSS with support for screen reader users.",
 	"features": {
-		"0": "Very light on various desktop and mobile browser with responsive design",
-        "1": "Best effort support for screen reader users",
-		"2": "Three languages support: Indonesian, English, and Japanese",
-		"3": "Good contrast ratio",
-        "4": "Critical inline CSS and asynchronous CSS load"
+		"0": "Very light on various desktop and mobile browser with responsive design.",
+		"1": "Best effort support for screen reader users.",
+		"2": "Three languages support: Indonesian, English, and Japanese.",
+		"3": "Good contrast ratio.",
+		"4": "Critical inline CSS and asynchronous CSS load."
 	},
 	"description_de": "",
 	"features_de": {
@@ -30,10 +30,12 @@
 		"1": "",
 		"2": ""
 	},
-	"description_ru": "",
+	"description_ru": "Адаптивная, яркая и простая тема подходящая для блога на Bludit, созданная с помощью Picnic CSS с поддержкой пользователей программы чтения с экрана",
 	"features_ru": {
-		"0": "",
-		"1": "",
-		"2": ""
+		"0": "Работает в различных настольных и мобильных браузерах и имеет адаптивный дизайн.",
+		"1": "Наилучшая поддержка для пользователей с программой чтения с экрана.",
+		"2": "Поддержка трёх языков: индонезийского, английского и японского.",
+		"3": "Хорошая контрастность.",
+		"4": "Встроенная загрузка CSS и асинхронная загрузка CSS."
 	}
 }
