@@ -10,32 +10,32 @@
 	"information_url": "https://axcora.my.id/bludit/slis/doc",
 	"credits": "Creativitas",
 	"credits_url": "https://www.fiverr.com/creativitas",
-	"description": "A modern clean and simple slider website blog design with SLIS ",
+	"description": "A modern clean and simple slider website blog design with SLIS.",
 	"features": {
-		"0": "Cover image ready",
-		"1": "Slider page",
-		"2": "Social Link on footer",
-		"3": "SideBar Support"
+		"0": "Cover image ready.",
+		"1": "Slider page.",
+		"2": "Social Link on footer.",
+		"3": "SideBar Support."
 	},
-	"description_de": "A modern clean and simple slider website blog design with SLIS ",
+	"description_de": "A modern clean and simple slider website blog design with SLIS.",
 	"features_de": {
-		"0": "Cover image ready",
-		"1": "Slider page",
-		"2": "Social Link on footer",
-		"3": "SideBar Support"
+		"0": "Cover image ready.",
+		"1": "Slider page.",
+		"2": "Social Link on footer.",
+		"3": "SideBar Support."
 	},
-	"description_es": "A modern clean and simple slider website blog design with SLIS ",
+	"description_es": "A modern clean and simple slider website blog design with SLIS.",
 	"features_es": {
-		"0": "Cover image ready",
-		"1": "Slider page",
-		"2": "Social Link on footer",
-		"3": "SideBar Support"
+		"0": "Cover image ready.",
+		"1": "Slider page.",
+		"2": "Social Link on footer.",
+		"3": "SideBar Support."
 	},
-	"description_ru": "A modern clean and simple slider website blog design with SLIS ",
+	"description_ru": "Тема имеет современный, чистый и простой дизайн со слайдером и с использованием SLIS. Подходит для блога.",
 	"features_ru": {
-		"0": "Cover image ready",
-		"1": "Slider page",
-		"2": "Social Link on footer",
-		"3": "SideBar Support"
+		"0": "Поддержка изображений обложек.",
+		"1": "Страница слайдера.",
+		"2": "Блок с социальными ссылками в нижнем колонтитуле (подвале сайта).",
+		"3": "Поддержка боковой панели."
 	}
 }
