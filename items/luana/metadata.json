@@ -12,11 +12,11 @@
 	"credits_url": "https://angga.win",
 	"description": "A blogging theme focusing on text and also following some WCAG recommendations in an effort to make the web more accessible, built using a small footprint CSS framework called Chota.",
 	"features": {
-		"0": "Include PrismJS for syntax highlighting with a11y-light syntax highlighting theme",
-        "1": "WCAG 2.1 AA & ADA Compliant (machine-tested, navigation is self-tested using NVDA)",
-		"2": "Three languages support: Indonesian, English, and Japanese",
-		"3": "With basic content markup microdata using Schema.org vocabulary for single blog posts",
-        "4": "Critical inline CSS and asynchronous CSS load"
+		"0": "Include PrismJS for syntax highlighting with a11y-light syntax highlighting theme.",
+		"1": "WCAG 2.1 AA & ADA Compliant (machine-tested, navigation is self-tested using NVDA).",
+		"2": "Three languages support: Indonesian, English, and Japanese.",
+		"3": "With basic content markup microdata using Schema.org vocabulary for single blog posts.",
+		"4": "Critical inline CSS and asynchronous CSS load."
 	},
 	"description_de": "",
 	"features_de": {
@@ -30,10 +30,12 @@
 		"1": "",
 		"2": ""
 	},
-	"description_ru": "",
+	"description_ru": "Тема для ведения блога, ориентированная на текстовое содержание, а также следующая некоторым рекомендациям WCAG в попытке сделать Веб более доступным, созданная с использованием небольшого по размеру CSS-фреймворка под названием Chota.",
 	"features_ru": {
-		"0": "",
-		"1": "",
-		"2": ""
+		"0": "Включает PrismJS для подсветки синтаксиса с помощью темы подсветки синтаксиса a11y-light.",
+		"1": "Совместимость с WCAG 2.1 AA и ADA (машинное тестирование, навигация самотестируется с помощью NVDA).",
+		"2": "Поддержка трёх языков: индонезийского, английского и японского.",
+		"3": "Использует микроданные базовой разметки содержимого из словаря Schema.org для отдельных записей в блоге.",
+		"4": "Встроенная загрузка CSS и асинхронная загрузка CSS."
 	}
 }
