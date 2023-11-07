@@ -10,35 +10,35 @@
 	"information_url": "https://axcora.my.id/bludit/documentation",
 	"credits": "Creativitas",
 	"credits_url": "https://www.fiverr.com/creativitas/",
-	"description": "Bludit Mobile App - Built all in one website and mobile app UI with bludit ionic.",
+	"description": "Bludit Mobile App — Built all in one website and mobile app UI with bludit ionic.",
 	"features": {
-		"0": "Cover image ready",
-		"1": "Navbar static page",
-		"2": "Social Link on footer",
-		"3": "SideBar Support",
-		"4": "Mobile Web UI App"
+		"0": "Cover image ready.",
+		"1": "Navbar static page.",
+		"2": "Social Link on footer.",
+		"3": "SideBar Support.",
+		"4": "Mobile Web UI App."
 	},
-	"description_de": "Bludit Mobile App - Built all in one website and mobile app UI with bludit ionic.",
+	"description_de": "Bludit Mobile App — Built all in one website and mobile app UI with bludit ionic.",
 	"features_de": {
-		"0": "Cover image ready",
-		"1": "Navbar static page",
-		"2": "Social Link on footer",
-		"3": "SideBar Support",
-		"4": "Mobile Web UI App"
+		"0": "Cover image ready.",
+		"1": "Navbar static page.",
+		"2": "Social Link on footer.",
+		"3": "SideBar Support.",
+		"4": "Mobile Web UI App."
 	},
-	"description_es": "Bludit Mobile App - Built all in one website and mobile app UI with bludit ionic.",
+	"description_es": "Bludit Mobile App — Built all in one website and mobile app UI with bludit ionic.",
 	"features_es": {
-		"0": "Cover image ready",
-		"1": "Navbar static page",
-		"2": "Social Link on footer",
-		"3": "SideBar Support"
+		"0": "Cover image ready.",
+		"1": "Navbar static page.",
+		"2": "Social Link on footer.",
+		"3": "SideBar Support."
 	},
-	"description_ru": "Unique design with astronot css for bludit blog",
+	"description_ru": "Мобильное приложение Bludit — мобильного приложения со встроенным сайтом и пользовательским интерфейсом по принципу «всё в одном». Работает с помощью bludit ionic.",
 	"features_ru": {
-		"0": "Cover image ready",
-		"1": "Navbar static page",
-		"2": "Social Link on footer",
-		"3": "SideBar Support",
-		"4": "Mobile Web UI App"
+		"0": "Поддержка изображений обложкек.",
+		"1": "Страница с навигационной панелью.",
+		"2": "Блок социальных ссылок в нижнем колонтитуле (подвале сайта).",
+		"3": "Поддержка боковой панели.",
+		"4": "Мобильное веб-приложение с пользовательским интерфейсом."
 	}
 }
