@@ -1,0 +1,57 @@
+{
+  "name": "Elfyka",
+  "version": "1.0.0",
+  "author_username": "indocreativemedia",
+  "release_date": "2024-02-12",
+  "license": "Internal Use Only",
+  "price_usd": "15",
+  "download_url": "https://www.indocreativemedia.com/bludit-themes/downloads/elfyka/",
+  "demo_url": "https://www.indocreativemedia.com/bludit-themes-demo/elfyka/",
+  "information_url": "https://www.indocreativemedia.com/bludit-themes/",
+  "credits": "IndoCreativeMedia",
+  "credits_url": "https://www.indocreativemedia.com/",
+  "description": "Simple Bludit theme suitable for blogging or small news site.",
+  "features": {
+    "0": "Responsive theme based on Bootstrap 5.3 with all features fully functional.",
+    "1": "Toggleable color modes: light, dark or auto.",
+    "2": "Scrollable fixed sidebar.",
+    "3": "Custom static homepage layouts: default view or content-only view.",
+    "4": "Automatic social icons on footer.",
+    "5": "Good SEO (search engine optimization) support.",
+    "6": "Good accessibility (screen reader) support.",
+    "7": "Soft color contrast ratio to reduce eye fatigue."
+  },
+  "description_de": "Einfaches Bludit-Theme, geeignet für Blogs oder kleine Nachrichtenseiten.",
+  "features_de": {
+    "0": "Responsives Theme basierend auf Bootstrap 5.3 mit allen Funktionen voll funktionsfähig.",
+    "1": "Umschaltbare Farbmodi: hell, dunkel oder automatisch.",
+    "2": "Scrollbare feste Seitenleiste.",
+    "3": "Benutzerdefinierte statische Homepage-Layouts: Standard oder nur Inhalt.",
+    "4": "Automatische soziale Symbole in der Fußzeile.",
+    "5": "Gute SEO-Unterstützung (Suchmaschinenoptimierung).",
+    "6": "Gute Unterstützung für Barrierefreiheit (Screenreader).",
+    "7": "Weiches Farbkontrastverhältnis zur Reduzierung der Augenermüdung."
+  },
+  "description_es": "Tema Bludit simple adecuado para blogs o sitios pequeños de noticias.",
+  "features_es": {
+    "0": "Tema responsivo basado en Bootstrap 5.3 con todas las características completamente funcionales.",
+    "1": "Modos de color alternables: claro, oscuro o automático.",
+    "2": "Barra lateral fija desplazable.",
+    "3": "Diseños de página de inicio estáticos personalizados: predeterminados o solo de contenido.",
+    "4": "Iconos sociales automáticos en el pie de página.",
+    "5": "Buen soporte de SEO (optimización de motores de búsqueda.",
+    "6": "Buen soporte de accesibilidad (lector de pantalla).",
+    "7": "Relación de contraste de color suave para reducir la fatiga ocular."
+  },
+  "description_ru": "Простая тема Bludit, подходящая для блогов или небольших новостных сайтов.",
+  "features_ru": {
+    "0": "Адаптивная тема на основе Bootstrap 5.3 со всеми полностью функциональными функциями.",
+    "1": "Переключаемые цветовые режимы: светлый, темный или автоматический.",
+    "2": "Прокручиваемая фиксированная боковая панель.",
+    "3": "Пользовательские статические макеты домашней страницы: по умолчанию или только для содержимого.",
+    "4": "Готовый набор значков социальных сетей в нижнем колонтитуле.",
+    "5": "Хорошая поддержка SEO (поисковая оптимизация).",
+    "6": "Хорошая поддержка специальных возможностей (чтение с экрана).",
+    "7": "Мягкая цветовая контрастность для снижения усталости глаз."
+  }
+}
