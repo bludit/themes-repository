@@ -1,0 +1,41 @@
+{
+	"name": "Super Mario",
+	"version": "3.15.0",
+	"author_username": "creativitas",
+	"release_date": "2024-02-13",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://creativitaz.gumroad.com/l/bl-supermariobross",
+	"demo_url": "https://axcora.my.id/bludit/supermario/",
+	"information_url": "https://axcora.my.id/bludit/supermario/full-installation",
+	"credits": "Axcora Bludit",
+	"credits_url": "https://bludit.axcora.com",
+	"description": "Let's Develop your unique website with super mario project.",
+	"features": {
+		"0": "Cover image ready.",
+		"1": "Navbar static page.",
+		"2": "Retro Design.",
+		"3": "SideBar Support."
+	},
+	"description_de": "Let's Develop your unique website with super mario project.",
+	"features_de": {
+		"0": "Titelbild fertig.",
+		"1": "Navbar statische Seite.",
+		"2": "Retro Design",
+		"3": "SideBar-Unterstützung."
+	},
+	"description_es": "Let's Develop your unique website with super mario project.",
+	"features_es": {
+		"0": "Imagen de portada lista.",
+		"1": "Página estática de la barra de navegación.",
+		"2": "Retro Design",
+		"3": "Compatibilidad con la barra lateral."
+	},
+	"description_ru": "Let's Develop your unique website with super mario project.",
+	"features_ru": {
+		"0": "Поддерживаются изображения для обложки записи/страницы.",
+		"1": "Статическая страница навигационной панели.",
+		"2": "Retro Design",
+		"3": "Поддерживается боковая панель."
+	}
+}

@@ -1,0 +1,53 @@
+{
+	"name": "BPers",
+	"version": "3.15.0",
+	"author_username": "creativitas",
+	"release_date": "2024-02-19",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://creativitaz.gumroad.com/l/bpers-bludit",
+	"demo_url": "https://axcora.my.id/bludit/bpers/",
+	"information_url": "https://axcora.my.id/bludit/bpers/documentation",
+	"credits": "Creativitas",
+	"credits_url": "https://www.fiverr.com/creativitas/design-a-website-blog-with-our-cool-template-flat-file-cms",
+	"description": "New modern - News Magazine website multipurpose theme for your bludit projects.",
+	"features": {
+		"0": "Dark Mode",
+		"1": "Light Mode",
+		"2": "Auto Mode",
+		"3": "Cover Image Ready",
+		"4": "Navbar Static Page",
+		"4": "Search Function",
+		"5": "SideBar Support"
+	},
+	"description_de": "Neues, modernes Mehrzweck-Theme für die Website des Nachrichtenmagazins für Ihre Bludit-Projekte.",
+	"features_de": {
+		"0": "Dark Mode",
+		"1": "Light Mode",
+		"2": "Auto Mode",
+		"3": "Cover Image Ready",
+		"4": "Navbar Static Page",
+		"4": "Search Function",
+		"5": "SideBar Support"
+	},
+	"description_es": "Nuevo y moderno tema multipropósito del sitio web de la revista News para sus proyectos Bludit.",
+	"features_es": {
+		"0": "Dark Mode",
+		"1": "Light Mode",
+		"2": "Auto Mode",
+		"3": "Cover Image Ready",
+		"4": "Navbar Static Page",
+		"4": "Search Function",
+		"5": "SideBar Support"
+	},
+	"description_ru": "Новая современная многофункциональная тема веб-сайта News Magazine для ваших блудит-проектов.",
+	"features_ru": {
+		"0": "Dark Mode",
+		"1": "Light Mode",
+		"2": "Auto Mode",
+		"3": "Cover Image Ready",
+		"4": "Navbar Static Page",
+		"4": "Search Function",
+		"5": "SideBar Support"
+	}
+}
