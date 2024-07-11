@@ -1,0 +1,38 @@
+{
+    "name": "BS5Plain",
+    "version": "1.0.1",
+    "author_username": "joho",
+    "release_date": "2024-07-11",
+    "license": "AGPLv3",
+    "price_usd": "0",
+    "download_url": "https://github.com/joho1968/bludit-bs5plain/archive/refs/tags/1.0.1.zip",
+    "demo_url": "https://bludit-bs5plain.joho.se/",
+    "information_url": "",
+    "credits": "",
+    "credits_url": "",
+    "description": "Bootstrap 5 theme for Bludit 3.15.x with support for most Bludit features",
+    "features": {
+        "0": "Auto light/dark",
+        "1": "Blog flow",
+        "2": "Navbar static pages",
+        "3": "Sidebar content"
+    },
+    "description_de": "_DESCRIPTION_GERMAN_",
+        "features_de": {
+        "0": "",
+        "1": "",
+        "2": ""
+    },
+        "description_es": "_DESCRIPTION_SPANISH_",
+        "features_es": {
+        "0": "",
+        "1": "",
+        "2": ""
+    },
+        "description_ru": "_DESCRIPTION_RUSSIAN_",
+        "features_ru": {
+        "0": "",
+        "1": "",
+        "2": ""
+        }
+    }
