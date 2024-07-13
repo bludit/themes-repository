@@ -1,0 +1,41 @@
+{
+	"name": "Nimbus",
+	"version": "1.0",
+	"author_username": "bluditlab",
+	"release_date": "2024-04-19",
+	"license": "CC BY-NC",
+	"price_usd": "0",
+	"download_url": "https://bluditlab.com/themes/technology/nimbus/download",
+	"demo_url": "https://demo.bluditlab.com/theme/nimbus/",
+	"information_url": "https://bluditlab.com/themes/technology/nimbus",
+	"credits": "",
+	"credits_url": "",
+	"description": "Explore Nimbus, a free, light, and elegant Bludit theme designed for clarity and performance. Download today to enhance your site with its fast, SEO-friendly, and customizable features!",
+	"features": {
+		"0": "Lightweight and Fast: Experience ultra-fast loading times and optimal performance across all devices.",
+		"1": "SEO Friendly: Built with best SEO practices in mind to help boost your site's visibility to search engines.",
+		"2": "Extensive Browser Compatibility: Ensures smooth operation and a consistent experience on all modern browsers, including Edge, Firefox, Safari, and Chrome.",
+    "3": "Adaptive Images: Delivers optimal image sizes for different devices, enhancing loading times and bandwidth usage."
+	},
+	"description_de": "Entdecken Sie Nimbus, ein kostenloses, leichtes und elegantes Bludit-Theme, das für Klarheit und Leistung entwickelt wurde. Laden Sie es noch heute herunter, um Ihre Website mit seinen schnellen, SEO-freundlichen und anpassbaren Funktionen zu verbessern!",
+	"features_de": {
+		"0": "Leicht und Schnell: Erleben Sie ultraschnelle Ladezeiten und optimale Leistung auf allen Geräten.",
+		"1": "SEO-freundlich: Entwickelt mit den besten SEO-Praktiken, um die Sichtbarkeit Ihrer Website in Suchmaschinen zu verbessern.",
+		"2": "Umfassende Browser-Kompatibilität: Sorgt für einen reibungslosen Betrieb und ein konsistentes Erlebnis auf allen modernen Browsern, einschließlich Edge, Firefox, Safari und Chrome.",
+		"3": "Adaptive Bilder: Liefert optimale Bildgrößen für verschiedene Geräte, verbessert die Ladezeiten und die Bandbreitennutzung."
+	},
+	"description_es": "Explora Nimbus, un tema de Bludit gratuito, ligero y elegante diseñado para la claridad y el rendimiento. ¡Descárgalo hoy para mejorar tu sitio con sus características rápidas, amigables con el SEO y personalizables!",
+	"features_es": {
+		"0": "Ligero y Rápido: Experimenta tiempos de carga ultrarrápidos y un rendimiento óptimo en todos los dispositivos.",
+		"1": "Amigable con el SEO: Construido con las mejores prácticas de SEO en mente para ayudar a aumentar la visibilidad de tu sitio en los motores de búsqueda.",
+		"2": "Compatibilidad Extensa con Navegadores: Asegura un funcionamiento fluido y una experiencia consistente en todos los navegadores modernos, incluyendo Edge, Firefox, Safari y Chrome.",
+		"3": "Imágenes Adaptativas: Ofrece tamaños de imagen óptimos para diferentes dispositivos, mejorando los tiempos de carga y el uso del ancho de banda."
+	},
+	"description_ru": "Исследуйте Nimbus, бесплатную, легкую и элегантную тему Bludit, разработанную для ясности и производительности. Загрузите сегодня, чтобы улучшить ваш сайт с его быстрыми, SEO-дружественными и настраиваемыми функциями!",
+	"features_ru": {
+		"0": "Легкий и Быстрый: Испытайте сверхбыстрое время загрузки и оптимальную производительность на всех устройствах.",
+		"1": "SEO-дружественный: Разработан с учетом лучших практик SEO, чтобы помочь повысить видимость вашего сайта в поисковых системах.",
+		"2": "Широкая Совместимость с Браузерами: Обеспечивает бесперебойную работу и стабильный опыт во всех современных браузерах, включая Edge, Firefox, Safari и Chrome.",
+		"3": "Адаптивные Изображения: Поставляет оптимальные размеры изображений для различных устройств, улучшая время загрузки и использование пропускной способности."
+	}
+}
