@@ -1,8 +1,8 @@
 {
 	"name": "Celestia",
-	"version": "1.2.1",
+	"version": "1.3.0",
 	"author_username": "indocreativemedia",
-	"release_date": "2024-02-02",
+	"release_date": "2024-08-06",
 	"license": "Internal Use Only",
 	"price_usd": "15",
 	"download_url": "https://www.indocreativemedia.com/bludit-themes/",
@@ -10,7 +10,7 @@
 	"information_url": "https://www.indocreativemedia.com/bludit-themes/",
 	"credits": "IndoCreativeMedia",
 	"credits_url": "https://www.indocreativemedia.com/",
-	"description": "Simple and elegant Bludit theme based on Bootstrap 5.",
+	"description": "Simple and elegant Bludit theme based on Bootstrap 5. Compatible with Bludit version 3.16.x.",
 	"features": {
 		"0": "Responsive theme based on Bootstrap 5.3",
 		"1": "All Bootstrap 5.3 features fully functional.",
@@ -21,7 +21,7 @@
 		"6": "Good accessibility (screen reader) support.",
 		"7": "Eye friendly color contrast ratio."
 	},
-	"description_de": "Einfaches und elegantes Bludit-Theme basierend auf Bootstrap 5.",
+	"description_de": "Einfaches und elegantes Bludit-Theme basierend auf Bootstrap 5. Kompatibel mit Bludit Version 3.16.x.",
 	"features_de": {
 		"0": "Responsives Theme basierend auf Bootstrap 5.3",
 		"1": "Alle Funktionen von Bootstrap 5.3 sind voll funktionsfähig.",
@@ -32,7 +32,7 @@
 		"6": "Gute Unterstützung für Barrierefreiheit (Screenreader).",
 		"7": "Augenfreundliches Farbkontrastverhältnis."
 	},
-	"description_es": "Tema Bludit simple y elegante basado en Bootstrap 5.",
+	"description_es": "Tema Bludit simple y elegante basado en Bootstrap 5. Compatible con Bludit versión 3.16.x.",
 	"features_es": {
 		"0": "Tema responsivo basado en Bootstrap 5.3.",
 		"1": "Todas las características de Bootstrap 5.3 son completamente funcionales.",
@@ -43,7 +43,7 @@
 		"6": "Buen soporte de accesibilidad (lector de pantalla).",
 		"7": "Relación de contraste de color agradable a la vista."
 	},
-	"description_ru": "Простая и элегантная тема Bludit на основе Bootstrap 5.",
+	"description_ru": "Простая и элегантная тема Bludit на основе Bootstrap 5. Совместимо с Bludit версии 3.16.x.",
 	"features_ru": {
 		"0": "Адаптивная тема на основе Bootstrap 5.3",
 		"1": "Никакие функции Bootstrap 5.3 на вырезаны.",
