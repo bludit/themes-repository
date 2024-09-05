@@ -1,0 +1,24 @@
+{
+    "name": "BS5Docs",
+    "version": "1.0.1",
+    "author_username": "joho",
+    "release_date": "2024-09-05",
+    "license": "AGPLv3",
+    "price_usd": "0",
+    "download_url": "https://github.com/joho1968/bludit-bs5docs/archive/refs/tags/1.0.1.zip",
+    "demo_url": "https://bludit-bs5docs.joho.se/",
+    "information_url": "https://code.webbplatsen.net/bludit/bs5docs-theme-for-bludit",
+    "credits": "WebbPlatsen i Sverige AB",
+    "credits_url": "https://www.webbplatsen.se",
+    "description": "Responsive Bootstrap 5 theme to build documentation sites with Bludit",
+    "features": {
+        "0": "Good accessibility (screen reader) support",
+        "1": "Create beautiful online documentation with Bludit and BS5Docs",
+        "2": "Auto-generated Table of Contents",
+        "3": "Mobile friendly",
+        "4": "Support for sidebar content",
+        "5": "Support for homepage, static pages, sub pages, regular pages, sticky pages",
+        "6": "Support for pagenotfound",
+        "7": "Auto light/dark"
+    }
+}
