@@ -1,0 +1,24 @@
+{
+    "name": "BS5SimplyBlog",
+    "version": "1.0.1",
+    "author_username": "joho",
+    "release_date": "2024-10-16",
+    "license": "AGPLv3",
+    "price_usd": "0",
+    "download_url": "https://github.com/joho1968/bludit-bs5simplyblog/archive/refs/tags/1.0.1.zip",
+    "demo_url": "https://bludit-bs5simplyblog.joho.se/",
+    "information_url": "https://bludit-bs5simplyblog.joho.se",
+    "credits": "WebbPlatsen i Sverige AB",
+    "credits_url": "https://www.webbplatsen.se",
+    "description": "Responsive Bootstrap 5 blog theme with support for most Bludit features",
+    "features": {
+        "0": "Good accessibility (screen reader) support",
+        "1": "Mobile friendly",
+        "2": "Auto light/dark",
+        "3": "Support for sidebar content",
+        "4": "Support for homepage, static pages, child pages, regular pages, sticky pages, tags, and categories",
+        "5": "Support for static content positions and static child pages in sidebar",
+        "6": "Support for child page navigation",
+        "7": "Support for pagenotfound"
+    }
+}
