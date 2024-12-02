@@ -1,0 +1,38 @@
+{
+	"name": "Noodles",
+	"version": "1.0.0",
+	"author_username": "msio808",
+	"release_date": "2024-12-02",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/msio808/noodles/releases/tag/v1.0.0",
+	"demo_url": "",
+	"information_url": "https://github.com/msio808/noodles.git",
+	"credits": "",
+	"credits_url": "",
+	"description": "NOODLES Theme is a simple, free, and lightweight blogging theme with social icons and static pages.",
+	"features": {
+		"0": "SEO Friendly",
+		"1": "Responsive & Browser Compatibility",
+		"2": "Disqus Comment Support",
+        "3": "Prism JS for code snippets, & Font Awesome social icons"
+	},
+	"description_de": "_DESCRIPTION_GERMAN_",
+	"features_de": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_es": "_DESCRIPTION_SPANISH_",
+	"features_es": {
+		"0": "",
+		"1": "",
+		"2": ""
+	},
+	"description_ru": "_DESCRIPTION_RUSSIAN_",
+	"features_ru": {
+		"0": "",
+		"1": "",
+		"2": ""
+	}
+}
