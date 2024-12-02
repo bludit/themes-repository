@@ -17,11 +17,12 @@
 		"2": "Disqus Comment Support",
         "3": "Prism JS for code snippets, & Font Awesome social icons"
 	},
-	"description_de": "_DESCRIPTION_GERMAN_",
+	"description_de": "NOODLES Theme is een eenvoudig, gratis en lichtgewicht blogthema met sociale pictogrammen en statische pagina's.",
 	"features_de": {
-		"0": "",
-		"1": "",
-		"2": ""
+        "0": "SEO-vriendelijk",
+        "1": "Responsief & Browsercompatibiliteit",
+        "2": "Disqus Reactieondersteuning",
+        "3": "Prism JS voor codefragmenten & Font Awesome sociale pictogrammen"
 	},
 	"description_es": "_DESCRIPTION_SPANISH_",
 	"features_es": {
