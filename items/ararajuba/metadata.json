@@ -14,18 +14,18 @@
 	"features": {
 		"0": "Support all default plugins already installed on Bludit 3.X, also links to parent and child pages.",
 		"1": "Sticky pages appear on top of home page (one or more pages from that type is required to show it).",
-		"2": "Logo uploaded by Administration Panel - sizes required: 200x100px.",
+		"2": "Logo uploaded by Administration Panel — sizes required: 200x100px.",
 		"3": "Article show cover image if it is set, otherwise image from page content will show if none is defined it shows default image.",
-		"4": "Recommended image size 717x300px - cover.",
+		"4": "Recommended image size 717x300px — cover.",
 		"5": "Some config in <code>init.php</code>."
 	},
 	"description_pt": "Seu nome português e indígena, Ararajúba, significa pequena arara amarela. Nativo da Bacia Amazônica do interior do norte do Brasil está ameaçado pelo desmatamento e inundações, e também pela agora ilegal captura de indivíduos selvagens para o comércio de animais. / Tema simples em branco e cinza com 2 colunas (barra lateral e principal), conteúdo em destaque, paginação por nome e número.",
 	"features_pt": {
 		"0": "Suporte todos os plug-ins padrão já instalados no Bludit 3.X, também links para páginas pai e filho.",
 		"1": "As páginas adesivas aparecem na parte superior da página inicial (é necessária uma ou mais páginas desse tipo para mostrá-la).",
-		"2": "Logotipo enviado pelo Painel de Administração - tamanhos necessários: 200x100px.",
+		"2": "Logotipo enviado pelo Painel de Administração — tamanhos necessários: 200x100px.",
 		"3": "O artigo mostra a imagem de capa, se estiver definido, caso contrário, a imagem do conteúdo da página será exibida; se nenhum estiver definido, será exibida a imagem padrão.",
-		"4": "Tamanho de imagem recomendado 717x300px - capa.",
+		"4": "Tamanho de imagem recomendado 717x300px — capa.",
 		"5": "Alguma configuração no arquivo <code>init.php</code>."
 	},	
 	"description_de": "",
@@ -42,11 +42,11 @@
 	},
 	"description_ru": "На Португальском название темы Ararajúba означает небольшого жёлтого попугая ара. Этот попугай живущий в бассейне реки Амазонка на севере Бразилии находится под угрозой исчезновения из-за вырубки лесов и наводнений, а также из-за незаконной ловли диких особей этих попугаев для торговли этими животными. Простая тема в бело-серых тонах с 2 колонками (боковой и основной), с адаптивным дизайном, с функцией рекомендуемого к просмотру контента, а также с нумерацией страниц по именам и номерам.",
 	"features_ru": {
-		"0": "Поддерживает все плагины, установленные с Bludit 3.X по умолчанию, а также ссылки на родительские и дочерние страницы.",
+		"0": "Поддерживает все плагины, идущие в комплекте с Bludit 3.X по умолчанию, а также ссылки на родительские и дочерние страницы.",
 		"1": "Прикреплённые страницы появляются в верхней части домашней страницы (для их отображения требуется одна или несколько страниц этого типа).",
 		"2": "Логотип загружается в Панели управления — необходимый размер: 200x100 пикселей.",
 		"3": "Страницы показывают изображение обложки, если оно установлено. В противном случае, если изображение не установлено, тема показывает изображение по умолчанию.",
-		"4": "Рекомендуемый размер изображения обложки для страницы 717x300 пикселей.",
+		"4": "Рекомендуемый размер изображения обложки для страницы — 717x300 пикселей.",
 		"5": "Некоторые дополнительные настройки доступны в файле <code>init.php</code> в папке с темой."
 	}
 }

@@ -11,23 +11,23 @@
   "credits_url": "",
   "description": "Welcome to Andy theme for Bludit CMS. Secure & stable, less than 35 kb, top-tier speeds, SEO optimized.",
   "features": {
-    "0": "Working Contact form (require activated BlThemes Plugin - Contact3).",
-    "1": "Social media integration (Github, Twitter, Facebook)."
+    "0": "Working Contact form (require activated BlThemes Plugin — Contact3).",
+    "1": "Social media integration (Github, (ex. Twitter), Facebook)."
   },
   "description_de": "Willkommen beim Andy-Thema für Bludit CMS. Sicher und stabil, weniger als 35 KB, Spitzengeschwindigkeit, SEO-optimiert.",
   "features_de": {
-    "0": "Arbeitskontaktformular (aktiviertes BlThemes Plugin - Contact3 erforderlich).",
+    "0": "Arbeitskontaktformular (aktiviertes BlThemes Plugin — Contact3 erforderlich).",
     "1": "Social Media Integration (Github, Twitter, Facebook)."
   },
   "description_es": "Bienvenido al tema de Andy para Bludit CMS. Seguro y estable, menos de 35 kb, velocidades de primer nivel, SEO optimizado.",
   "features_es": {
-    "0": "Formulario de contacto de trabajo (requiere el complemento BlThemes activado - Contact3).",
+    "0": "Formulario de contacto de trabajo (requiere el complemento BlThemes activado — Contact3).",
     "1": "Integración de redes sociales (Github, Twitter, Facebook)."
   },
-  "description_ru": "Добро пожаловать в тему Andy для Bludit CMS. Безопасная и стабильная, занимает менее 35 КБ, скорость загрузки страниц на высшем уровне, SEO оптимизирован.",
+  "description_ru": "Добро пожаловать в тему Andy для Bludit CMS. Безопасная и стабильная, занимает менее 35 кб, скорость загрузки страниц на высшем уровне, SEO оптимизирован.",
   "features_ru": {
-    "0": "Рабочая контактная форма (требуется активированный плагин от BlThemes - Contact3).",
-    "1": "Интеграция социальных сетей для Github, Facebook и Twitter."
+    "0": "Рабочая контактная форма (требуется активированный плагин от BlThemes — Contact3).",
+    "1": "Интеграция с социальными сетями: Github, X (в прошлом Twitter), Facebook."
   },
   "author_username": "elpak"
 }

@@ -12,42 +12,42 @@
 	"credits_url": "https://www.fiverr.com/creativitas/design-a-website-blog-with-our-cool-template-flat-file-cms",
 	"description": "New modern - News Magazine website multipurpose theme for your bludit projects.",
 	"features": {
-		"0": "Dark Mode",
-		"1": "Light Mode",
-		"2": "Auto Mode",
-		"3": "Cover Image Ready",
-		"4": "Navbar Static Page",
-		"4": "Search Function",
-		"5": "SideBar Support"
+		"0": "Dark Mode.",
+		"1": "Light Mode.",
+		"2": "Auto Mode.",
+		"3": "Cover Image Ready.",
+		"4": "Navbar Static Page.",
+		"5": "Search Function.",
+		"6": "SideBar Support."
 	},
 	"description_de": "Neues, modernes Mehrzweck-Theme für die Website des Nachrichtenmagazins für Ihre Bludit-Projekte.",
 	"features_de": {
-		"0": "Dark Mode",
-		"1": "Light Mode",
-		"2": "Auto Mode",
-		"3": "Cover Image Ready",
-		"4": "Navbar Static Page",
-		"4": "Search Function",
-		"5": "SideBar Support"
+		"0": "Dark Mode.",
+		"1": "Light Mode.",
+		"2": "Auto Mode.",
+		"3": "Cover Image Ready.",
+		"4": "Navbar Static Page.",
+		"5": "Search Function.",
+		"6": "SideBar Support."
 	},
 	"description_es": "Nuevo y moderno tema multipropósito del sitio web de la revista News para sus proyectos Bludit.",
 	"features_es": {
-		"0": "Dark Mode",
-		"1": "Light Mode",
-		"2": "Auto Mode",
-		"3": "Cover Image Ready",
-		"4": "Navbar Static Page",
-		"4": "Search Function",
-		"5": "SideBar Support"
+		"0": "Dark Mode.",
+		"1": "Light Mode.",
+		"2": "Auto Mode.",
+		"3": "Cover Image Ready.",
+		"4": "Navbar Static Page.",
+		"5": "Search Function.",
+		"6": "SideBar Support."
 	},
-	"description_ru": "Новая современная многофункциональная тема веб-сайта News Magazine для ваших блудит-проектов.",
+	"description_ru": "Новая современная многофункциональная тема сайта News Magazine для ваших проектов на Bludit.",
 	"features_ru": {
-		"0": "Dark Mode",
-		"1": "Light Mode",
-		"2": "Auto Mode",
-		"3": "Cover Image Ready",
-		"4": "Navbar Static Page",
-		"4": "Search Function",
-		"5": "SideBar Support"
+		"0": "Тёмный режим.",
+		"1": "Светлый режим.",
+		"2": "Автоматический режим.",
+		"3": "Поддерживаются изображения для обложек записей и страниц.",
+		"4": "Статическая страница панели навигации",
+		"5": "Функция поиска.",
+		"6": "Поддержка боковой панели."
 	}
 }
