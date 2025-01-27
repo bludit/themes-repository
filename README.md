@@ -22,7 +22,8 @@ If your theme is free, the field `price_usd` needs to be `0` otherwise set the p
 
 ## I need help!
 If you don't know how to create these folders please contact us in the forum or chat, and we are going to help you.
+- Discord: https://discord.gg/CFaXEdZWds
 - Forum: https://forum.bludit.com
 - Chat: https://gitter.im/bludit/support
 - Facebook: https://www.facebook.com/bluditcms
-- Twitter: https://twitter.com/bludit
+- X (ex. Twitter): https://twitter.com/bludit
