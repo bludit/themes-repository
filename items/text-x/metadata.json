@@ -10,32 +10,32 @@
 	"information_url": "https://axcora.my.id/bludit/text-x/how-to",
 	"credits": "Creativitas",
 	"credits_url": "https://www.fiverr.com/creativitas/",
-	"description": "Simple Clean Minimalist blog for bludit flatfile cms",
+	"description": "Simple Clean Minimalist blog for bludit flatfile CMS.",
 	"features": {
-		"0": "Cover image ready",
-		"1": "Navbar static page",
-		"2": "Clean design",
-		"3": "SideBar Support"
+		"0": "Cover image ready.",
+		"1": "Navbar static page.",
+		"2": "Clean design.",
+		"3": "SideBar Support."
 	},
-	"description_de": "Einfacher, sauberer, minimalistischer Blog für Bludit Flatfile CMS",
+	"description_de": "Einfacher, sauberer, minimalistischer Blog für Bludit Flatfile CMS.",
 	"features_de": {
-		"0": "Cover image ready",
-		"1": "Navbar static page",
-		"2": "Clean design",
-		"3": "SideBar Support"
+		"0": "Cover image ready.",
+		"1": "Navbar static page.",
+		"2": "Clean design.",
+		"3": "SideBar Support."
 	},
-	"description_es": "Blog simple, limpio y minimalista para bludit flatfile cms",
+	"description_es": "Blog simple, limpio y minimalista para bludit flatfile CMS.",
 	"features_es": {
-		"0": "Cover image ready",
-		"1": "Navbar static page",
-		"2": "Clean design",
-		"3": "SideBar Support"
+		"0": "Cover image ready.",
+		"1": "Navbar static page.",
+		"2": "Clean design.",
+		"3": "SideBar Support."
 	},
-	"description_ru": "Простой чистый минималистский блог для плоских файлов Bludit cms",
+	"description_ru": "Простая, чистая, минималистская тема для блога, разработанная для Bludit.",
 	"features_ru": {
-		"0": "Cover image ready",
-		"1": "Navbar static page",
-		"2": "Clean design",
-		"3": "SideBar Support"
+		"0": "Поддерживает изображения для обложки записи/страницы.",
+		"1": "Статичная страница навигационной панели.",
+		"2": "Имеет простой и чистый дизайн.",
+		"3": "Поддерживает боковую панель."
 	}
 }

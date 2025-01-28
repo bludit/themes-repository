@@ -10,7 +10,7 @@
 	"information_url": "https://jellyio.com/shop/bludit/simplepf",
 	"credits": "",
 	"credits_url": "",
-	"description": "Simple theme for a portfolio or blog based on Bludit CMS.",
+	"description": "Simple theme for a portfolio or blog for Bludit CMS.",
 	"features": {
 		"0": "Personalizable.",
 		"1": "Bundled with a plugin to modify theme without changing any code (includes live preview on plugin page).",
@@ -31,11 +31,11 @@
 		"2": "Diseño con imágenes de portada.",
 		"3": "Diseño web adaptativo."
 	},
-	"description_ru": "Простая тема для портфолио или блога на основе Bludit CMS.",
+	"description_ru": "Простая тема для портфолио или блога для Bludit CMS.",
 	"features_ru": {
 		"0": "Персонализируемая.",
 		"1": "В комплекте идёт плагин для изменения внешнего вида темы без непосредственной работы с кодом (включая предварительный просмотр в режиме реального времени на странице плагина).",
-		"2": "Поддержка изображений обложки.",
-		"3": "Адаптивный веб-дизайн."
+		"2": "Поддерживает изображения обложки для записей/страниц.",
+		"3": "Адаптивный под разные разрешения экранов дизайн."
 	}
 }

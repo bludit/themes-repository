@@ -12,12 +12,13 @@
 	"credits_url": "https://www.fabianosantos.net/",
 	"description": "Dark red, pastel and brown theme with two columns (content and sidebar). Made based on the standard version of Bludit «Blog X» with several improvements.",
 	"features": {
-		"0": "Various theme customization settings in the <code>init.php</code> file such as limiting the number of characters in the abstract, type of pagination, standard image ..."		
+		"0": "Various theme customization settings in the <code>init.php</code> file such as limiting the number of characters in the abstract, type of pagination, standard image ...",
+		"1": "Available in Portuguese and English."
 	},
 	"description_pt": "Tema vermelho escuro, pastel e marrom com duas colunas (conteúdo e barra lateral). Feito com base na versão padrão do Bludit 'Blog X' com várias melhorias.",
 	"features_pt": {
-		"0": "Disponível em portugues e ingles.",
-		"1": "Diversas configurações de customizações do tema no arquivo <code>init.php</code> como limitar numero de caracteres do resumo, tipo de paginação, imagem padrão..."		
+		"0": "Diversas configurações de customizações do tema no arquivo <code>init.php</code> como limitar numero de caracteres do resumo, tipo de paginação, imagem padrão...",
+		"1": "Disponível em portugues e ingles."
 	},	
 	"description_de": "Dunkelrotes, pastellfarbenes und braunes Thema mit zwei Spalten (Inhalt und Seitenleiste). Basierend auf der Standardversion von Bludit «Blog X» mit mehreren Verbesserungen.",
 	"features_de": {
@@ -29,9 +30,9 @@
 		"0": "",
 		"1": ""
 	},
-	"description_ru": "Тёмно-красная, пастельная и коричневая тема с двумя столбцами (контент и боковая панель). Сделана на основе стандартной версии темы «Blog X» для Bludit с некоторыми улучшениями.",
+	"description_ru": "Тема в тёмно-красных, пастельных и коричневыч цветах с двумя столбцами (контент и боковая панель). Сделана на основе стандартной версии темы «Blog X» для Bludit с некоторыми улучшениями.",
 	"features_ru": {
 		"0": "Различные тонкие настройки темы находятся в файле <code>init.php</code> в папке с темой: например, там есть ограничение количества символов в аннотации, тип разбивки на страницы, стандартное изображение обложки для страниц и записей...",
-		"1": ""
+		"1": "Доступна на португальском и английском языках."
 	}
 }
