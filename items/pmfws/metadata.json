@@ -13,29 +13,25 @@
 	"features": {
 		"0": "Simple but responsive.",
 		"1": "Just blogging.",
-		"2": "Header image.",
-		"3": ""
+		"2": "Header image."
 	},
 	"description_de": "Ein einfaches und simples Blogging-Theme ohne viel CSS. Nutze das, was dein Browser hergibt.",
 	"features_de": {
 		"0": "Einfach aber responsiv.",
 		"1": "Einfach nur bloggen.",
-		"2": "Header image.",
-    		"3": ""
+		"2": "Header image."
 	},
 	"description_es": "",
 	"features_es": {
 		"0": "",
 		"1": "",
-		"2": "",
-    		"3": ""
+		"2": ""
 	},
-	"description_ru": "Простая и простая тема блогов без большого количества CSS. Используйте то, что ваш браузер может предложить.",
+	"description_ru": "Простая и элегантная тема блогов без большого количества CSS. Как говорится: используйте то, что ваш браузер может предложить.",
 	"features_ru": {
-		"0": "Простая, но адаптивная тема.",
+		"0": "Простая тема, с адаптивным под разные разрешения экранов дизайном.",
 		"1": "Подходит для ведения блога.",
-		"2": "Поддерживает изображение в заголовке.",
-    		"3": ""
+		"2": "Поддерживает изображения для обложки записи/страницы."
 	},
 	"author_username": "cblte"
 }

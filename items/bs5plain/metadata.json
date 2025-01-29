@@ -10,16 +10,16 @@
     "information_url": "https://code.webbplatsen.net/bludit/bs5plain-theme-for-bludit",
     "credits": "WebbPlatsen i Sverige AB",
     "credits_url": "https://www.webbplatsen.se",
-    "description": "Bootstrap 5 theme for Bludit 3.x with support for most Bludit features",
+    "description": "Bootstrap 5 theme for Bludit 3.X with support for most Bludit features.",
     "features": {
-        "0": "Responsive theme based on Bootstrap 5.3",
-        "1": "Supports sidebar content, RSS feed, and Social Media links",
-        "2": "Supports blog flow and homepage",
-        "3": "Supports static pages, sticky pages, and sub-pages",
-        "4": "Browing by tag and category",
-        "5": "Mobile friendly",
-        "6": "Good accessibility (screen reader) support",
-        "7": "Auto light/dark"
+        "0": "Responsive theme based on Bootstrap 5.3.",
+        "1": "Supports sidebar content, RSS feed, and Social Media links.",
+        "2": "Supports blog flow and homepage.",
+        "3": "Supports static pages, sticky pages, and sub-pages.",
+        "4": "Browing by tag and category.",
+        "5": "Mobile friendly.",
+        "6": "Good accessibility (screen reader) support.",
+        "7": "Auto light/dark mode."
     },
     "description_de": "_DESCRIPTION_GERMAN_",
         "features_de": {
@@ -33,10 +33,15 @@
         "1": "",
         "2": ""
     },
-        "description_ru": "_DESCRIPTION_RUSSIAN_",
+        "description_ru": "Тема основанная Bootstrap 5 для Bludit 3.X с поддержкой большинства функций Bludit.",
         "features_ru": {
-        "0": "",
-        "1": "",
-        "2": ""
+        "0": "Адаптивная тема на основе Bootstrap 5.3.",
+        "1": "Поддерживает содержимое боковой панели, RSS-канал и ссылки на социальные сети.",
+        "2": "Поддерживает ленту блога и домашнюю страницу.",
+        "3": "Поддерживает статические страницы, закреплённые страницы и подстраницы.",
+        "4": "Просмотр по тегам и категориям.",
+        "5": "Удобный вид на мобильных устройствах.",
+        "6": "Поддерживает режим доступности (экранный диктор).",
+        "7": "Автоматическое переключение между тёмным и светлым режимом."
         }
     }

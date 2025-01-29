@@ -11,23 +11,19 @@
 	"credits_url": "",
 	"description": "The theme for Bludit, based on the theme KOH Terminal by Fuchs.",
 	"features": {
-		"0": "RTL and LTR version included.",
-		"1": ""
+		"0": "RTL and LTR version included."
 	},
 	"description_de": "",
 	"features_de": {
-		"0": "",
-		"1": ""
+		"0": ""
 	},
 	"description_es": "",
 	"features_es": {
-		"0": "",
-		"1": ""
+		"0": ""
 	},
 	"description_ru": "Тема для Bludit, основанная на теме KOH Terminal от Fuchs.",
 	"features_ru": {
-		"0": "Включены и поддерживаются версии RTL (для языков которые читают справа-налево) и LTR (для языков которые читают слева-направо).",
-		"1": ""
+		"0": "Темой поддерживаются: RTL версия (для языков которые читают справа-налево) и LTR версия (для языков которые читают слева-направо)."
 	},
 	"author_username": "abdulhalim"
 }

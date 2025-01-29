@@ -13,25 +13,21 @@
 	"description": "Theme based on Halfmoon UI framework.",
 	"features": {
 		"0": "Dark and light mode.",
-		"1": "Collapsible Sidebar.",
-		"2": ""
+		"1": "Collapsible Sidebar."
 	},
 	"description_de": "Theme basierend auf dem Framework Halfmoon UI.",
 	"features_de": {
 		"0": "Umschaltbar zwischen Schwarzweiss- und Weissschwarz-Modus.",
-		"1": "Auf- und zuklappbare Seitenleiste.",
-		"2": ""
+		"1": "Auf- und zuklappbare Seitenleiste."
 	},
 	"description_es": "",
 	"features_es": {
 		"0": "",
-		"1": "",
-		"2": ""
+		"1": ""
 	},
 	"description_ru": "Тема основанная на фреймворке Halfmoon UI.",
 	"features_ru": {
-		"0": "Тёмный и светлый режим.",
-		"1": "Сворачиваемая (прячущаяся) боковая панель.",
-		"2": ""
+		"0": "Тёмный и светлый режимы.",
+		"1": "Сворачиваемая (прячущаяся) боковая панель."
 	}
 }

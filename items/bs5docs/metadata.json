@@ -10,15 +10,26 @@
     "information_url": "https://code.webbplatsen.net/bludit/bs5docs-theme-for-bludit",
     "credits": "WebbPlatsen i Sverige AB",
     "credits_url": "https://www.webbplatsen.se",
-    "description": "Responsive Bootstrap 5 theme to build documentation sites with Bludit",
+    "description": "Responsive Bootstrap 5 theme to build documentation sites with Bludit.",
     "features": {
-        "0": "Good accessibility (screen reader) support",
-        "1": "Create beautiful online documentation with Bludit and BS5Docs",
-        "2": "Auto-generated Table of Contents",
-        "3": "Mobile friendly",
-        "4": "Support for sidebar content",
-        "5": "Support for homepage, static pages, sub pages, regular pages, sticky pages",
-        "6": "Support for pagenotfound",
-        "7": "Auto light/dark"
+        "0": "Good accessibility (screen reader) support.",
+        "1": "Create beautiful online documentation with Bludit and BS5Docs.",
+        "2": "Auto-generated Table of Contents.",
+        "3": "Mobile friendly.",
+        "4": "Support for sidebar content.",
+        "5": "Support for homepage, static pages, sub pages, regular pages, sticky pages.",
+        "6": "Support for pagenotfound.",
+        "7": "Auto light/dark mode."
+    },
+    "description_ru": "Адаптивная тема Bootstrap 5 для создания сайтов документации с помощью Bludit.",
+    "features_ru": {
+        "0": "Поддерживает режим доступности (экранный диктор).",
+        "1": "Способствует созданию красивой онлайн-документации с Bludit и BS5Docs",
+        "2": "Может автоматически генерировать оглавление.",
+        "3": "Удобный вид на мобильных устройствах.",
+        "4": "Поддерживает содержимое боковой панели.",
+        "5": "Поддерживает домашнюю страницу, статические страницы, подстраницы, обычные записи, закреплённые страницы.",
+        "6": "Имеет заготовленный шаблон для страницы 404.",
+        "7": "Автоматическое переключение между тёмным и светлым режимом."
     }
 }
