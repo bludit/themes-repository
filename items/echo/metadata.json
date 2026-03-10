@@ -1,30 +1,30 @@
 {
 	"name": "Echo",
-	"version": "3.5",
-	"release_date": "2018-12-19",
+	"version": "3.18.0",
+	"release_date": "2026-03-10",
 	"license": "GPL-3.0",
 	"price_usd": "0",
-	"download_url": "https://github.com/marekrost/echo/archive/master.zip",
+	"download_url": "https://github.com/marekrost/bludit-theme-echo/releases/download/3.18.0/echo-3.18.0.zip",
 	"demo_url": "",
-	"information_url": "https://github.com/marekrost/echo",
+	"information_url": "https://github.com/marekrost/bludit-theme-echo",
 	"credits": "",
 	"credits_url": "",
-	"description": "Bludit and Bootstrap 4 version of original Echo theme for Nibbleblog by Diego Najar.",
+	"description": "Bootstrap 5.3.x Bludit version of original Echo theme for Nibbleblog by Diego Najar.",
 	"features": {
 		"0": "Lightweight.",
 		"1": "Responsive design."
 	},
-	"description_de": "Bludit und Bootstrap 4-Version des ursprünglichen Echo-Theme für Nibbleblog von Diego Najar.",
+	"description_de": "Bootstrap 5.3.x Bludit-Version des ursprünglichen Echo-Themes für Nibbleblog von Diego Najar.",
 	"features_de": {
 		"0": "Leicht.",
 		"1": "Sich anpassendes Design."
 	},
-	"description_es": "Bludit y Bootstrap 4 versión del tema original de Echo para Nibbleblog por Diego Najar.",
+	"description_es": "Versión Bootstrap 5.3.x Bludit del tema Echo original para Nibbleblog de Diego Najar.",
 	"features_es": {
 		"0": "",
 		"1": ""
 	},
-	"description_ru": "В основе оригинальной темы Echo лежит Bootstrap 3, тема создана для Bludit специально для проекта Nibbleblog Диего Наджара.",
+	"description_ru": "Bootstrap 5.3.x — версия оригинальной темы Echo для Nibbleblog от Диего Нахара, созданная на Bludit.",
 	"features_ru": {
 		"0": "Лёгкая и простая.",
 		"1": "Адаптивный под разные разрешения экранов дизайн."
