@@ -1,0 +1,37 @@
+{
+	"name": "Blowfish",
+	"version": "1.7.0",
+	"author_username": "spleenftw",
+	"release_date": "2026-07-10",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/Spleenftw/bludit-blowfish/archive/refs/heads/main.zip",
+	"demo_url": "https://blog.interlope.xyz/",
+	"information_url": "https://github.com/Spleenftw/bludit-blowfish",
+	"credits": "Inspired by the Blowfish theme for Hugo",
+	"credits_url": "https://blowfish.page",
+	"description": "A clean, minimal blogging theme inspired by the Blowfish Hugo theme. Five colour themes, sticky table of contents, client-side search and rich content blocks. Fully responsive and dependency-free (no jQuery, no webfont requests), with built-in SEO and accessibility.",
+	"features": {
+		"0": "Five colour themes (Light, Dark, Nord, Dracula, Catppuccin) with a navbar swatch picker",
+		"1": "Sticky table of contents, client-side search overlay and keyboard shortcuts",
+		"2": "Image lightbox and carousel, tabbed code blocks and callout boxes"
+	},
+	"description_de": "Ein klares, minimalistisches Blog-Theme, inspiriert vom Hugo-Theme Blowfish. Fünf Farbschemata, mitscrollendes Inhaltsverzeichnis, clientseitige Suche und vielseitige Inhaltsblöcke. Vollständig responsiv und ohne Abhängigkeiten (kein jQuery, keine Webfonts), mit integriertem SEO und Barrierefreiheit.",
+	"features_de": {
+		"0": "Fünf Farbschemata (Light, Dark, Nord, Dracula, Catppuccin) mit Farbwähler in der Navigationsleiste",
+		"1": "Mitscrollendes Inhaltsverzeichnis, clientseitige Suche und Tastaturkürzel",
+		"2": "Bild-Lightbox und -Karussell, Code-Blöcke mit Tabs und Hinweisboxen"
+	},
+	"description_es": "Un tema de blog limpio y minimalista inspirado en el tema Blowfish de Hugo. Cinco esquemas de color, tabla de contenidos fija, búsqueda en el cliente y bloques de contenido enriquecidos. Totalmente responsivo y sin dependencias (sin jQuery ni webfonts), con SEO y accesibilidad integrados.",
+	"features_es": {
+		"0": "Cinco esquemas de color (Light, Dark, Nord, Dracula, Catppuccin) con selector en la barra de navegación",
+		"1": "Tabla de contenidos fija, búsqueda en el cliente y atajos de teclado",
+		"2": "Lightbox y carrusel de imágenes, bloques de código con pestañas y cajas de aviso"
+	},
+	"description_ru": "Чистая минималистичная тема для блога, вдохновлённая темой Blowfish для Hugo. Пять цветовых схем, закреплённое оглавление, поиск на стороне клиента и разнообразные блоки контента. Полностью адаптивная, без зависимостей (без jQuery и веб-шрифтов), со встроенным SEO и доступностью.",
+	"features_ru": {
+		"0": "Пять цветовых схем (Light, Dark, Nord, Dracula, Catppuccin) с переключателем в панели навигации",
+		"1": "Закреплённое оглавление, поиск на стороне клиента и горячие клавиши",
+		"2": "Лайтбокс и карусель изображений, вкладки в блоках кода и информационные блоки"
+	}
+}
