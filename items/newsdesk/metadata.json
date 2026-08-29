@@ -1,0 +1,25 @@
+{
+    "name": "Newsdesk",
+    "version": "1.0.0",
+    "author_username": "horst-pott",
+    "release_date": "2026-08-21",
+    "license": "MIT",
+    "price_usd": "0",
+    "download_url": "https://github.com/horst-pott/bludit-theme-newsdesk/archive/refs/heads/main.zip",
+    "demo_url": "",
+    "information_url": "https://github.com/horst-pott/bludit-theme-newsdesk",
+    "description": "Editorial theme for Bludit with a categories accordion, department sidebar, and automatic archive by category.",
+    "features": {
+        "0": "Header with expandable categories accordion",
+        "1": "Left sidebar with department list",
+        "2": "Right sidebar for recommendations (configurable categories)",
+        "3": "Automatic archive view for older articles, grouped by category"
+    },
+    "description_de": "Redaktions-Theme für Bludit mit Kategorien-Akkordeon, Abteilungs-Sidebar und automatischem Archiv nach Rubrik.",
+    "features_de": {
+        "0": "Header mit aufklappbarem Kategorien-Akkordeon",
+        "1": "Linke Sidebar mit Abteilungsliste",
+        "2": "Rechte Sidebar für Empfehlungen (konfigurierbare Rubriken)",
+        "3": "Automatische Archiv-Ansicht für ältere Artikel, nach Rubrik gruppiert"
+    }
+}
