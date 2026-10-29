@@ -10,10 +10,16 @@
 	"information_url": "https://github.com/jboisseur/bludit-themes/blob/master/simple/README.md",
 	"credits": "Kev Quirk",
 	"credits_url": "https://simplecss.org/",
-	"description": "Simple.css for Bludit",
+	"description": "Simple.css — super simple theme for Bludit.",
 	"features": {
-		"0": "Sidebar support",
-		"1": "Auto light/dark mode",
-		"2": "Responsive"
+		"0": "Sidebar support.",
+		"1": "Auto light/dark mode.",
+		"2": "Responsive design."
+	},
+	"description_ru": "Simple.css — супер простая тема для Bludit.",
+	"features_ru": {
+		"0": "Поддержка боковой панели.",
+		"1": "Автоматическое преключение оформления светлый/тёмный режим.",
+		"2": "Адаптивный дизайн."
 	}
 }

@@ -21,12 +21,12 @@
 	},
 	"description_es": "Versión Bootstrap 5.3.x Bludit del tema Echo original para Nibbleblog de Diego Najar.",
 	"features_es": {
-		"0": "",
-		"1": ""
+		"0": "Ligero.",
+		"1": "Diseño responsive."
 	},
-	"description_ru": "Bootstrap 5.3.x — версия оригинальной темы Echo для Nibbleblog от Диего Нахара, созданная на Bludit.",
+	"description_ru": "Специальная версия оригинальной темы Echo для Nibbleblog от Диего Нахара, созданная для Bludit. Тема использует Bootstrap 5.3.X.",
 	"features_ru": {
-		"0": "Лёгкая и простая.",
+		"0": "Лёгкая и простая в использовании.",
 		"1": "Адаптивный под разные разрешения экранов дизайн."
 	},
 	"author_username": "marekrost"

@@ -10,7 +10,7 @@
     "information_url": "https://code.webbplatsen.net/bludit/bs5plain-theme-for-bludit",
     "credits": "WebbPlatsen i Sverige AB",
     "credits_url": "https://www.webbplatsen.se",
-    "description": "Bootstrap 5 theme for Bludit 3.X with support for most Bludit features.",
+    "description": "Theme for Bludit 3.X made with Bootstrap 5 and with support for most Bludit features.",
     "features": {
         "0": "Responsive theme based on Bootstrap 5.3.",
         "1": "Supports sidebar content, RSS feed, and Social Media links.",
@@ -21,19 +21,19 @@
         "6": "Good accessibility (screen reader) support.",
         "7": "Auto light/dark mode."
     },
-    "description_de": "_DESCRIPTION_GERMAN_",
+    "description_de": "Thema für Bludit 3.X erstellt mit Bootstrap 5 und mit Unterstützung für die meisten Bludit-Funktionen.",
         "features_de": {
         "0": "",
         "1": "",
         "2": ""
     },
-        "description_es": "_DESCRIPTION_SPANISH_",
+        "description_es": "Tema para Bludit 3.X hecho con Bootstrap 5 y con soporte para la mayoría de las funciones de Bludit.",
         "features_es": {
         "0": "",
         "1": "",
         "2": ""
     },
-        "description_ru": "Тема основанная Bootstrap 5 для Bludit 3.X с поддержкой большинства функций Bludit.",
+        "description_ru": "Тема основанная на Bootstrap 5 для Bludit 3.X с поддержкой большинства функций Bludit.",
         "features_ru": {
         "0": "Адаптивная тема на основе Bootstrap 5.3.",
         "1": "Поддерживает содержимое боковой панели, RSS-канал и ссылки на социальные сети.",
