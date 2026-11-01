@@ -1,19 +1,20 @@
 {
 	"name": "Simple.css",
-	"version": "1.1",
+	"version": "2.0",
 	"author_username": "jboisseur",
-	"release_date": "2026-06-13",
+	"release_date": "2026-11-01",
 	"license": "MIT license",
 	"price_usd": "0",
 	"download_url": "https://github.com/jboisseur/bludit-themes/raw/refs/heads/master/simple.zip",
 	"demo_url": "https://jboisseur.xyz/bludit-theme-simplecss",
-	"information_url": "https://github.com/jboisseur/bludit-themes/blob/master/simple/README.md",
+	"information_url": "https://github.com/jboisseur/bludit-themes/tree/master/simple/bl-themes/simple#readme",
 	"credits": "Kev Quirk",
 	"credits_url": "https://simplecss.org/",
 	"description": "Simple.css for Bludit",
 	"features": {
 		"0": "Sidebar support",
 		"1": "Auto light/dark mode",
-		"2": "Responsive"
+		"2": "Responsive",
+		"3": "Theme settings: light/dark mode and hamburger menu toggles"
 	}
 }
