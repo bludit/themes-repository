@@ -1,0 +1,55 @@
+{
+	"name": "BTD - Bludit Tailwind Dark",
+	"version": "3.16.2",
+	"author_username": "fabio-pwd",
+	"release_date": "2025-06-15",
+	"license": "MIT",
+	"price_usd": "25",
+	"download_url": "https://5354021326505.gumroad.com/l/bludittailwindtheme",
+	"demo_url": "https://bludittailwindtheme.great-site.net/",
+	"information_url": "https://bludittailwindtheme.great-site.net/documentation",
+	"credits": "",
+	"credits_url": "",
+	"description": "BTD (Bludit Tailwind Dark) is a modern and responsive theme for Bludit CMS, built with Tailwind CSS 4.0 and featuring an automatic dark mode. Ideal for blogs, portfolios, and corporate websites. More than just another theme from the Bludit repository, BTD is a complete starter kit.",
+	"features": {
+		"0": "Automatic & Manual Dark Mode",
+		"1": "Fully Responsive",
+		"2": "Tailwind CSS 4.0",
+		"3": "Highly Customizable",
+		"4": "This is a Starter Kit for busines, agency, portfolio",
+		"5": "Navbar suspended after scroll",
+		"6": "Good Documentation"
+	},
+	
+    "description_de": "BTD (Bludit Tailwind Dark) ist ein modernes und responsives Theme für Bludit CMS, erstellt mit Tailwind CSS 4.0 und mit automatischem Dark Mode. Ideal für Blogs, Portfolios und Unternehmens-Websites. Mehr als nur ein weiteres Theme aus dem Bludit-Repository - BTD ist ein komplettes Starter-Kit.",
+	"features_de": {
+		"0": "Automatischer & Manueller Dark Mode",
+		"1": "Vollständig Responsiv",
+		"2": "Tailwind CSS 4.0",
+		"3": "Hochgradig Anpassbar",
+		"4": "Dies ist ein Starter-Kit für Unternehmen, Agenturen, Portfolios",
+		"5": "Navbar wird nach dem Scrollen fixiert",
+		"6": "Gute Dokumentation"
+	},
+	"description_es": "BTD (Bludit Tailwind Dark) es un tema moderno y responsivo para Bludit CMS, construido con Tailwind CSS 4.0 y con modo oscuro automático. Ideal para blogs, portafolios y sitios web corporativos. Más que solo otro tema del repositorio de Bludit, BTD es un kit de inicio completo.",
+	"features_es": {
+		"0": "Modo Oscuro Automático y Manual",
+		"1": "Completamente Responsivo",
+		"2": "Tailwind CSS 4.0",
+		"3": "Altamente Personalizable",
+		"4": "Este es un Kit de Inicio para negocios, agencias, portafolios",
+		"5": "Barra de navegación se fija después del scroll",
+		"6": "Buena Documentación"
+	},
+	"description_ru": "BTD (Bludit Tailwind Dark) - это современная и адаптивная тема для Bludit CMS, построенная на Tailwind CSS 4.0 с автоматическим темным режимом. Идеально подходит для блогов, портфолио и корпоративных сайтов. Больше чем просто еще одна тема из репозитория Bludit, BTD - это полный стартовый набор.",
+	"features_ru": {
+		"0": "Автоматический и Ручной Темный Режим",
+		"1": "Полностью Адаптивный",
+		"2": "Tailwind CSS 4.0",
+		"3": "Высоко Настраиваемый",
+		"4": "Это Стартовый Набор для бизнеса, агентств, портфолио",
+		"5": "Навигационная панель фиксируется после прокрутки",
+		"6": "Хорошая Документация"
+	}
+
+}
