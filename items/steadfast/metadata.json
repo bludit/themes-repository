@@ -1,0 +1,41 @@
+{
+	"name": "Steadfast",
+	"version": "1.0.0",
+	"author_username": "kokybiskasvetaine",
+	"release_date": "2026-11-09",
+	"license": "MIT",
+	"price_usd": 0,
+	"download_url": "https://github.com/ello-lithuania/steadfast-bludit/archive/refs/heads/main.zip",
+	"demo_url": "https://ello-lithuania.github.io/steadfast-bootstrap-template/",
+	"information_url": "https://github.com/ello-lithuania/steadfast-bludit",
+	"credits": "KokybiskaSvetaine.lt",
+	"credits_url": "https://kokybiskasvetaine.lt/",
+	"description": "One-page theme for small service businesses, with services, pricing, reviews, FAQ and contact sections. Compatible with Bludit 3.22.",
+	"features": {
+		"0": "Responsive theme based on Bootstrap 5.3.",
+		"1": "Light and dark modes with a manual toggle.",
+		"2": "All home page text in one data file.",
+		"3": "Matching layout for regular pages and posts."
+	},
+	"description_de": "One-Page-Theme für kleine Dienstleistungsbetriebe mit Bereichen für Leistungen, Preise, Bewertungen, FAQ und Kontakt. Kompatibel mit Bludit 3.22.",
+	"features_de": {
+		"0": "Responsives Theme auf Basis von Bootstrap 5.3.",
+		"1": "Heller und dunkler Modus mit manuellem Umschalter.",
+		"2": "Alle Texte der Startseite in einer Datendatei.",
+		"3": "Passendes Layout für normale Seiten und Beiträge."
+	},
+	"description_es": "Tema de una sola página para pequeñas empresas de servicios, con secciones de servicios, precios, opiniones, preguntas frecuentes y contacto. Compatible con Bludit 3.22.",
+	"features_es": {
+		"0": "Tema adaptable basado en Bootstrap 5.3.",
+		"1": "Modos claro y oscuro con selector manual.",
+		"2": "Todo el texto de la portada en un solo archivo de datos.",
+		"3": "Diseño a juego para páginas y entradas normales."
+	},
+	"description_ru": "Одностраничная тема для небольших компаний сферы услуг с разделами услуг, цен, отзывов, вопросов и контактов. Совместима с Bludit 3.22.",
+	"features_ru": {
+		"0": "Адаптивная тема на основе Bootstrap 5.3.",
+		"1": "Светлый и тёмный режимы с ручным переключателем.",
+		"2": "Весь текст главной страницы в одном файле данных.",
+		"3": "Единый стиль для обычных страниц и записей."
+	}
+}
