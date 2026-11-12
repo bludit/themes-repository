@@ -1,0 +1,36 @@
+# Re-runs the theme check on every open pull request when the rules change,
+# so no PR keeps a verdict or label from an older version of the validator.
+# It only starts theme-pr.yml runs; it reads nothing from the PRs itself.
+
+name: Theme PR recheck
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - .github/scripts/validate_pr.py
+      - .github/workflows/theme-pr.yml
+  workflow_dispatch:
+
+permissions: {}
+
+jobs:
+  recheck:
+    name: recheck
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      actions: write # start theme-pr.yml
+      pull-requests: read # list open PRs
+    steps:
+      - name: Check every open pull request again
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+          REF: ${{ github.ref_name }}
+        run: |
+          gh pr list --repo "$REPO" --state open --limit 200 --json number --jq '.[].number' |
+            while read -r number; do
+              gh workflow run theme-pr.yml --repo "$REPO" --ref "$REF" -f pr="$number"
+              echo "Started the theme check for #$number"
+            done
