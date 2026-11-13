@@ -303,6 +303,11 @@ class MetadataTests(RepoTestCase):
                          "placeholder", "`features_es` must be an object", "shows no author"):
             self.assertIn(expected, warnings)
 
+    def test_url_the_parser_rejects_is_reported_not_a_crash(self):
+        errors = self.errors_for(download_url="https://[example.com/theme.zip", demo_url="https://[x")
+        self.assertIn("`download_url` must be a full URL", errors)
+        self.assertIn("`demo_url` must be a full URL", errors)
+
     def test_empty_price_is_reported_once(self):
         self.assertEqual(self.errors_for(price_usd="").count("price_usd"), 1)
 

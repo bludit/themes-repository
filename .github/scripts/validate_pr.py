@@ -345,7 +345,10 @@ def check_url(scope: str, key: str, value: object, strict: bool, report: Report)
     if value == "":
         return None
     problem = None
-    parsed = urllib.parse.urlsplit(value)
+    try:
+        parsed = urllib.parse.urlsplit(value)
+    except ValueError:  # for example an unmatched `[` in the host
+        parsed = urllib.parse.SplitResult("", "", "", "", "")
     if re.search(r"[\s\"'<>`\\]", value):
         problem = "contains spaces, quotes or angle brackets"
     elif parsed.scheme not in ("https", "http") or not parsed.netloc:
@@ -370,7 +373,10 @@ def download_origin(url: object) -> str | None:
     """Who controls a download link: the host, plus the account on code-hosting sites."""
     if not isinstance(url, str) or not url.strip():
         return None
-    parts = urllib.parse.urlsplit(url.strip())
+    try:
+        parts = urllib.parse.urlsplit(url.strip())
+    except ValueError:
+        return None
     host = (parts.hostname or "").lower()
     if not host:
         return None

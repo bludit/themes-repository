@@ -56,7 +56,7 @@ Older themes that don't follow every rule still work. The check only blocks valu
 You can run the same check before opening the pull request:
 
 ```
-python3 .github/scripts/validate_pr.py --base origin/master --head HEAD --author <your-github-login>
+python3 .github/scripts/validate_pr.py --base origin/master --head HEAD --author <your-github-login> --check-links
 ```
 
 ## Review and merge

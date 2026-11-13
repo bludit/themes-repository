@@ -101,8 +101,22 @@ jobs:
             --base HEAD --head "$HEAD_SHA" --author "$PR_AUTHOR" --check-links \
             --report-md "$RUNNER_TEMP/report.md" \
             --github-output "$GITHUB_OUTPUT" || status=$?
-          cat "$RUNNER_TEMP/report.md" >> "$GITHUB_STEP_SUMMARY"
           echo "status=$status" >> "$GITHUB_OUTPUT"
+          if [ ! -s "$RUNNER_TEMP/report.md" ]; then
+            # The validator stopped before writing a report. Say so on the PR
+            # instead of leaving an older verdict in place.
+            {
+              echo '<!-- theme-validator -->'
+              echo '## ⚠️ The check could not finish'
+              echo
+              echo 'The theme check stopped with an internal error, so this pull request has no verdict yet.'
+              echo 'This is a problem with the check, not necessarily with your files. A maintainer will take a look.'
+              echo
+              echo "Details: $GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID"
+            } > "$RUNNER_TEMP/report.md"
+            echo "verdict=broken" >> "$GITHUB_OUTPUT"
+          fi
+          cat "$RUNNER_TEMP/report.md" >> "$GITHUB_STEP_SUMMARY"
 
       - name: Post or update the result comment
         if: always() && steps.check.outputs.status != ''
@@ -132,9 +146,12 @@ jobs:
           case "$VERDICT" in
             ready) add=ready-to-merge ;;
             review) add=needs-review ;;
+            broken) add= ;; # the check itself failed: no verdict, remove the old label
             *) add=needs-changes ;;
           esac
-          gh api --method POST "repos/$REPO/issues/$PR_NUMBER/labels" -f "labels[]=$add" > /dev/null
+          if [ -n "$add" ]; then
+            gh api --method POST "repos/$REPO/issues/$PR_NUMBER/labels" -f "labels[]=$add" > /dev/null
+          fi
           for drop in ready-to-merge needs-review needs-changes; do
             if [ "$drop" != "$add" ]; then
               gh api --method DELETE "repos/$REPO/issues/$PR_NUMBER/labels/$drop" > /dev/null 2>&1 || true
