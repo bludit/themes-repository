@@ -1,0 +1,27 @@
+# Runs the validator's own tests when it changes. This uses `pull_request`
+# (read-only token, no secrets), so running the PR's code here is safe.
+name: Validator tests
+
+on:
+  pull_request:
+    paths:
+      - ".github/scripts/**"
+      - ".github/workflows/**"
+  push:
+    branches: [master]
+    paths:
+      - ".github/scripts/**"
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - name: Run tests
+        run: python3 -m unittest discover -s .github/scripts -v

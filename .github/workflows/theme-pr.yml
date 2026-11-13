@@ -1,0 +1,165 @@
+# Checks every pull request against the theme rules and gives a verdict:
+#   👍 ready to merge          -> label `ready-to-merge`, green check
+#   👍 listing OK, needs review -> label `needs-review`, green check; a maintainer
+#                                 must check something first (e.g. a new theme's code)
+#   👎 not ready               -> label `needs-changes`, red check, comment lists what to fix
+# The bot comment also previews each theme as themes.bludit.com will show it,
+# confirms new links open, and lists what a maintainer should look at.
+# Nothing is merged automatically; a maintainer always merges.
+#
+# When this file or the validator changes on master, theme-pr-recheck.yml runs
+# it again on every open PR. To check one PR by hand:
+# Actions > Theme PR check > Run workflow, and enter the PR number.
+#
+# SECURITY
+# This workflow runs on `pull_request_target`, so it has a write token even for
+# PRs from forks. It must never run code from the PR:
+#   * it checks out the base branch only (trusted code, including the validator);
+#   * it fetches the PR commit as git objects and reads files with git plumbing,
+#     so nothing from the PR is ever checked out or executed;
+#   * PR-controlled values reach shell steps only through `env`, never through
+#     `${{ }}` inside `run:`.
+# Changes to this file or to .github/scripts/ in a PR do not take effect until
+# they are merged, and such PRs are always flagged for a maintainer.
+
+name: Theme PR check
+
+on:
+  pull_request_target:
+    types: [opened, synchronize, reopened, ready_for_review]
+  workflow_dispatch:
+    inputs:
+      pr:
+        description: Pull request number to check
+        required: true
+        type: number
+
+permissions: {}
+
+concurrency:
+  group: theme-pr-${{ github.event.pull_request.number || inputs.pr }}
+  cancel-in-progress: true
+
+jobs:
+  validate:
+    name: validate
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: read
+      pull-requests: write # post the result comment
+      issues: write # create and set the verdict labels
+    env:
+      REPO: ${{ github.repository }}
+    steps:
+      - name: Find the pull request
+        id: pr
+        env:
+          GH_TOKEN: ${{ github.token }}
+          EVENT_PR: ${{ github.event.pull_request.number }}
+          EVENT_SHA: ${{ github.event.pull_request.head.sha }}
+          EVENT_AUTHOR: ${{ github.event.pull_request.user.login }}
+          INPUT_PR: ${{ inputs.pr }}
+        run: |
+          if [ -n "$EVENT_PR" ]; then
+            number=$EVENT_PR sha=$EVENT_SHA author=$EVENT_AUTHOR
+          else
+            number=$INPUT_PR
+            if ! [[ "$number" =~ ^[0-9]+$ ]]; then echo "::error::Not a PR number: $number"; exit 1; fi
+            read -r sha author state < <(gh api "repos/$REPO/pulls/$number" --jq '"\(.head.sha) \(.user.login) \(.state)"')
+            if [ "$state" != "open" ]; then echo "::error::PR #$number is $state"; exit 1; fi
+          fi
+          {
+            echo "number=$number"
+            echo "sha=$sha"
+            echo "author=$author"
+          } >> "$GITHUB_OUTPUT"
+
+      - name: Check out the base branch (trusted)
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          ref: ${{ github.event.pull_request.base.ref || github.event.repository.default_branch }}
+          fetch-depth: 0
+          persist-credentials: false
+
+      - name: Fetch the PR commit (as data, not checked out)
+        env:
+          PR_NUMBER: ${{ steps.pr.outputs.number }}
+          HEAD_SHA: ${{ steps.pr.outputs.sha }}
+        run: |
+          git fetch --no-tags --quiet origin "+refs/pull/${PR_NUMBER}/head:refs/remotes/pr/head"
+          git cat-file -e "${HEAD_SHA}^{commit}"
+
+      - name: Validate
+        id: check
+        env:
+          HEAD_SHA: ${{ steps.pr.outputs.sha }}
+          PR_AUTHOR: ${{ steps.pr.outputs.author }}
+        run: |
+          status=0
+          python3 -I .github/scripts/validate_pr.py \
+            --base HEAD --head "$HEAD_SHA" --author "$PR_AUTHOR" --check-links \
+            --report-md "$RUNNER_TEMP/report.md" \
+            --github-output "$GITHUB_OUTPUT" || status=$?
+          echo "status=$status" >> "$GITHUB_OUTPUT"
+          if [ ! -s "$RUNNER_TEMP/report.md" ]; then
+            # The validator stopped before writing a report. Say so on the PR
+            # instead of leaving an older verdict in place.
+            {
+              echo '<!-- theme-validator -->'
+              echo '## ⚠️ The check could not finish'
+              echo
+              echo 'The theme check stopped with an internal error, so this pull request has no verdict yet.'
+              echo 'This is a problem with the check, not necessarily with your files. A maintainer will take a look.'
+              echo
+              echo "Details: $GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID"
+            } > "$RUNNER_TEMP/report.md"
+            echo "verdict=broken" >> "$GITHUB_OUTPUT"
+          fi
+          cat "$RUNNER_TEMP/report.md" >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Post or update the result comment
+        if: always() && steps.check.outputs.status != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PR_NUMBER: ${{ steps.pr.outputs.number }}
+        run: |
+          marker='<!-- theme-validator -->'
+          comment_id=$(gh api --paginate "repos/$REPO/issues/$PR_NUMBER/comments" \
+            --jq ".[] | select(.user.login == \"github-actions[bot]\" and (.body | contains(\"$marker\"))) | .id" | head -n 1)
+          if [ -n "$comment_id" ]; then
+            gh api --method PATCH "repos/$REPO/issues/comments/$comment_id" -F "body=@$RUNNER_TEMP/report.md" > /dev/null
+          else
+            gh api --method POST "repos/$REPO/issues/$PR_NUMBER/comments" -F "body=@$RUNNER_TEMP/report.md" > /dev/null
+          fi
+
+      - name: Set the verdict label
+        if: always() && steps.check.outputs.status != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PR_NUMBER: ${{ steps.pr.outputs.number }}
+          VERDICT: ${{ steps.check.outputs.verdict }}
+        run: |
+          gh label create ready-to-merge --repo "$REPO" --color 0e8a16 --description "👍 Theme check passed, nothing to review" --force > /dev/null
+          gh label create needs-review --repo "$REPO" --color fbca04 --description "👍 Listing OK, a maintainer must review it" --force > /dev/null
+          gh label create needs-changes --repo "$REPO" --color d93f0b --description "👎 Theme check found problems" --force > /dev/null
+          case "$VERDICT" in
+            ready) add=ready-to-merge ;;
+            review) add=needs-review ;;
+            broken) add= ;; # the check itself failed: no verdict, remove the old label
+            *) add=needs-changes ;;
+          esac
+          if [ -n "$add" ]; then
+            gh api --method POST "repos/$REPO/issues/$PR_NUMBER/labels" -f "labels[]=$add" > /dev/null
+          fi
+          for drop in ready-to-merge needs-review needs-changes; do
+            if [ "$drop" != "$add" ]; then
+              gh api --method DELETE "repos/$REPO/issues/$PR_NUMBER/labels/$drop" > /dev/null 2>&1 || true
+            fi
+          done
+
+      - name: Fail if the PR is not ready
+        if: steps.check.outputs.status != '0'
+        run: |
+          echo "::error::👎 Not ready to merge. See the PR comment or the job summary."
+          exit 1
