@@ -3,14 +3,14 @@
 	"version": "3.22.0",
 	"author_username": "creativitas",
 	"release_date": "2026-11-23",
-	"license": "【entity-MIT¦canonical_name=MIT】",
+	"license": "MIT",
 	"price_usd": "0",
 	"download_url": "https://creativitaz.gumroad.com/l/wwrqzl",
 	"demo_url": "https://axcora.my.id/bludit/blug/",
 	"information_url": "https://www.hockeycomputindo.com/themes/bludit/free-tailwind-blog-blug/",
 	"credits": "Creativitas",
 	"credits_url": "https://bludit.axcora.com",
-	"description": "Build a modern blog with Bludit and Tailwind CSS — BLUG is a BLUdit bloG. A free Bludit template with clean design, cover image, static pages, sidebar, social links, and lazy-loaded images. Fast, no-database, SEO-ready, and fully compatible with Bludit 3.22.0.",
+	"description": "Build a modern blog with Bludit and Tailwind CSS - BLUG is a BLUdit bloG. A free Bludit template with clean design, cover image, static pages, sidebar, social links, and lazy-loaded images. Fast, no-database, SEO-ready, and fully compatible with Bludit 3.22.0.",
 	"features": {
 		"0": "Clean, modern design with Tailwind CSS.",
 		"1": "Fully compatible with Bludit 3.22.0.",
@@ -21,18 +21,18 @@
 		"6": "Lazy-loaded images for faster performance.",
 		"7": "SEO-ready and fast with Bludit flat-file CMS."
 	},
-	"description_de": "Baue einen modernen Blog 【entity-mit¦canonical_name=MIT】 Bludit und Tailwind CSS — BLUG ist ein BLUdit bloG. Ein kostenloses Bludit-Template 【entity-mit¦canonical_name=MIT】 sauberem Design, Coverbild, statischen Seiten, Sidebar, Social Links und Lazy-Loading für Bilder. Schnell, ohne Datenbank, SEO-optimiert und voll kompatibel 【entity-mit¦canonical_name=MIT】 Bludit 3.22.0.",
+	"description_de": "Baue einen modernen Blog mit Bludit und Tailwind CSS - BLUG ist ein BLUdit bloG. Ein kostenloses Bludit-Template mit sauberem Design, Coverbild, statischen Seiten, Sidebar, Social Links und Lazy-Loading für Bilder. Schnell, ohne Datenbank, SEO-optimiert und voll kompatibel mit Bludit 3.22.0.",
 	"features_de": {
-		"0": "Sauberes, modernes Design 【entity-mit¦canonical_name=MIT】 Tailwind CSS.",
-		"1": "Voll kompatibel 【entity-mit¦canonical_name=MIT】 Bludit 3.22.0.",
+		"0": "Sauberes, modernes Design mit Tailwind CSS.",
+		"1": "Voll kompatibel mit Bludit 3.22.0.",
 		"2": "Coverbild bereit für Beiträge und Seiten.",
-		"3": "Navbar 【entity-mit¦canonical_name=MIT】 Unterstützung für statische Seiten.",
+		"3": "Navbar mit Unterstützung für statische Seiten.",
 		"4": "Sidebar-Unterstützung.",
 		"5": "Social Links im Footer.",
 		"6": "Lazy-Loading für Bilder für schnellere Performance.",
-		"7": "SEO-optimiert und schnell 【entity-mit¦canonical_name=MIT】 Bludit Flat-File CMS."
+		"7": "SEO-optimiert und schnell mit Bludit Flat-File CMS."
 	},
-	"description_es": "Crea un blog moderno con Bludit y Tailwind CSS — BLUG es un BLUdit bloG. Una plantilla gratuita de Bludit con diseño limpio, imagen de portada, páginas estáticas, barra lateral, enlaces sociales e imágenes con carga diferida. Rápida, sin base de datos, lista para SEO y totalmente compatible con Bludit 3.22.0.",
+	"description_es": "Crea un blog moderno con Bludit y Tailwind CSS - BLUG es un BLUdit bloG. Una plantilla gratuita de Bludit con diseño limpio, imagen de portada, páginas estáticas, barra lateral, enlaces sociales e imágenes con carga diferida. Rápida, sin base de datos, lista para SEO y totalmente compatible con Bludit 3.22.0.",
 	"features_es": {
 		"0": "Diseño limpio y moderno con Tailwind CSS.",
 		"1": "Totalmente compatible con Bludit 3.22.0.",
@@ -43,7 +43,7 @@
 		"6": "Imágenes con carga diferida para mayor velocidad.",
 		"7": "Lista para SEO y rápida con Bludit flat-file CMS."
 	},
-	"description_ru": "Создайте современный блог с Bludit и Tailwind CSS — BLUG это BLUdit bloG. Бесплатный шаблон Bludit с чистым дизайном, изображением обложки, статическими страницами, боковой панелью, социальными ссылками и отложенной загрузкой изображений. Быстрый, без базы данных, SEO-готовый и полностью совместимый с Bludit 3.22.0.",
+	"description_ru": "Создайте современный блог с Bludit и Tailwind CSS - BLUG это BLUdit bloG. Бесплатный шаблон Bludit с чистым дизайном, изображением обложки, статическими страницами, боковой панелью, социальными ссылками и отложенной загрузкой изображений. Быстрый, без базы данных, SEO-готовый и полностью совместимый с Bludit 3.22.0.",
 	"features_ru": {
 		"0": "Чистый современный дизайн с Tailwind CSS.",
 		"1": "Полностью совместим с Bludit 3.22.0.",
