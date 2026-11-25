@@ -1,41 +1,57 @@
 {
 	"name": "Text-X",
-	"version": "3.15.0",
+	"version": "3.22.0",
 	"author_username": "creativitas",
-	"release_date": "2023-03-04",
+	"release_date": "2026-11-23",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://github.com/mesinkasir/Text-X",
+	"download_url": "https://creativitaz.gumroad.com/l/textx",
 	"demo_url": "https://axcora.my.id/bludit/text-x/",
-	"information_url": "https://axcora.my.id/bludit/text-x/how-to",
+	"information_url": "https://www.hockeycomputindo.com/themes/bludit/textx-free-version-free-download/",
 	"credits": "Creativitas",
-	"credits_url": "https://www.fiverr.com/creativitas/",
-	"description": "Simple Clean Minimalist blog for bludit flatfile CMS.",
+	"credits_url": "https://bludit.axcora.com",
+	"description": "Text-X is a simple, clean, minimalist blog for Bludit flat-file CMS. A free Bludit template with Bootstrap 5.3.9, cover image, static pages, sidebar, and social links. Fast, no-database, SEO-ready, and fully compatible with Bludit 3.22.0.",
 	"features": {
-		"0": "Cover image ready.",
-		"1": "Navbar static page.",
-		"2": "Clean design.",
-		"3": "SideBar Support."
+		"0": "Clean, minimalist design with Bootstrap 5.3.9.",
+		"1": "Fully compatible with Bludit 3.22.0.",
+		"2": "Cover image ready for posts and pages.",
+		"3": "Navbar with static pages support.",
+		"4": "Sidebar support.",
+		"5": "Social links on footer.",
+		"6": "Responsive design for mobile, tablet, and desktop.",
+		"7": "SEO-ready and fast with Bludit flat-file CMS."
 	},
-	"description_de": "Einfacher, sauberer, minimalistischer Blog für Bludit Flatfile CMS.",
+	"description_de": "Text-X ist ein einfacher, sauberer, minimalistischer Blog für Bludit Flat-File CMS. Ein kostenloses Bludit-Template mit Bootstrap 5.3.9, Coverbild, statischen Seiten, Sidebar und Social Links. Schnell, ohne Datenbank, SEO-optimiert und voll kompatibel mit Bludit 3.22.0.",
 	"features_de": {
-		"0": "Cover image ready.",
-		"1": "Navbar static page.",
-		"2": "Clean design.",
-		"3": "SideBar Support."
+		"0": "Sauberes, minimalistisches Design mit Bootstrap 5.3.9.",
+		"1": "Voll kompatibel mit Bludit 3.22.0.",
+		"2": "Coverbild bereit für Beiträge und Seiten.",
+		"3": "Navbar mit Unterstützung für statische Seiten.",
+		"4": "Sidebar-Unterstützung.",
+		"5": "Social Links im Footer.",
+		"6": "Responsives Design für Mobil, Tablet und Desktop.",
+		"7": "SEO-optimiert und schnell mit Bludit Flat-File CMS."
 	},
-	"description_es": "Blog simple, limpio y minimalista para bludit flatfile CMS.",
+	"description_es": "Text-X es un blog simple, limpio y minimalista para Bludit flat-file CMS. Una plantilla gratuita de Bludit con Bootstrap 5.3.9, imagen de portada, páginas estáticas, barra lateral y enlaces sociales. Rápida, sin base de datos, lista para SEO y totalmente compatible con Bludit 3.22.0.",
 	"features_es": {
-		"0": "Cover image ready.",
-		"1": "Navbar static page.",
-		"2": "Clean design.",
-		"3": "SideBar Support."
+		"0": "Diseño limpio y minimalista con Bootstrap 5.3.9.",
+		"1": "Totalmente compatible con Bludit 3.22.0.",
+		"2": "Imagen de portada lista para entradas y páginas.",
+		"3": "Barra de navegación con soporte para páginas estáticas.",
+		"4": "Soporte de barra lateral.",
+		"5": "Enlaces sociales en el pie de página.",
+		"6": "Diseño responsive para móvil, tablet y escritorio.",
+		"7": "Lista para SEO y rápida con Bludit flat-file CMS."
 	},
-	"description_ru": "Простая, чистая, минималистская тема для блога, разработанная для Bludit.",
+	"description_ru": "Text-X — простой, чистый, минималистский блог для Bludit flat-file CMS. Бесплатный шаблон Bludit с Bootstrap 5.3.9, изображением обложки, статическими страницами, боковой панелью и социальными ссылками. Быстрый, без базы данных, SEO-готовый и полностью совместимый с Bludit 3.22.0.",
 	"features_ru": {
-		"0": "Поддерживает изображения для обложки записи/страницы.",
-		"1": "Статичная страница навигационной панели.",
-		"2": "Имеет простой и чистый дизайн.",
-		"3": "Поддерживает боковую панель."
+		"0": "Чистый минималистский дизайн с Bootstrap 5.3.9.",
+		"1": "Полностью совместим с Bludit 3.22.0.",
+		"2": "Изображение обложки готово для записей и страниц.",
+		"3": "Панель навигации с поддержкой статических страниц.",
+		"4": "Поддержка боковой панели.",
+		"5": "Социальные ссылки в подвале сайта.",
+		"6": "Адаптивный дизайн для мобильных, планшетов и десктопов.",
+		"7": "SEO-готовый и быстрый с Bludit flat-file CMS."
 	}
 }

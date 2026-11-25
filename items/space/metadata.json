@@ -1,41 +1,49 @@
 {
 	"name": "Space",
-	"version": "3.14.1",
+	"version": "3.22.0",
 	"author_username": "creativitas",
-	"release_date": "2023-03-01",
+	"release_date": "2026-11-25",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://github.com/mesinkasir/bl-space/archive/refs/heads/main.zip",
-	"demo_url": "https://axcora.my.id/bludit/space",
-	"information_url": "https://axcora.my.id/bludit/space/installation",
-	"credits": "Creativitas",
-	"credits_url": "https://axcora.my.id/bludit/space",
-	"description": "Unique design space for Bludit CMS.",
+	"download_url": "https://creativitaz.gumroad.com/l/bl-space",
+	"demo_url": "https://axcora.my.id/bludit/space/",
+	"information_url": "https://www.hockeycomputindo.com/themes/bludit/free-download-modern-website-blog-space/",
+	"credits": "Bludit Axcora",
+	"credits_url": "https://bludit.axcora.com",
+	"description": "Space is a clean Bludit theme with a unique space design for blogs, portfolios, and landing pages. Built on Bludit flat-file CMS, with no database, so your website stays fast, secure, and easy to update from the admin panel.",
 	"features": {
-		"0": "Cover image ready.",
-		"1": "Navbar static page.",
-		"2": "Social Link on footer.",
-		"3": "SideBar Support."
+		"0": "Clean layout with unique space design for blog, portfolio, and landing page.",
+		"1": "Cover image ready for posts and pages.",
+		"2": "Static pages support for navbar and footer navigation.",
+		"3": "Sidebar support with categories, tags, and links.",
+		"4": "Space plugins included: Contact, Footer Cover.",
+		"5": "Flat-file CMS - no database, fast and easy to install."
 	},
-	"description_de": "Unique design space for Bludit CMS.",
+	"description_de": "Space ist ein sauberes Bludit-Theme mit einzigartigem Space-Design für Blogs, Portfolios und Landingpages. Basierend auf dem Bludit Flat-File CMS, ohne Datenbank, damit deine Website schnell, sicher und einfach über das Admin-Panel zu aktualisieren bleibt.",
 	"features_de": {
-		"0": "Cover image ready.",
-		"1": "Navbar static page.",
-		"2": "Social Link on footer.",
-		"3": "SideBar Support."
+		"0": "Sauberes Layout mit einzigartigem Space-Design für Blog, Portfolio und Landingpage.",
+		"1": "Titelbild bereit für Beiträge und Seiten.",
+		"2": "Statische Seiten für Navbar- und Footer-Navigation.",
+		"3": "Sidebar-Unterstützung mit Kategorien, Tags und Links.",
+		"4": "Space-Plugins enthalten: Contact, Footer Cover.",
+		"5": "Flat-File CMS - ohne Datenbank, schnell und einfach zu installieren."
 	},
-	"description_es": "Unique design space for Bludit CMS.",
+	"description_es": "Space es un tema Bludit limpio con diseño espacial único para blogs, portafolios y páginas de destino. Construido con Bludit CMS de archivo plano, sin base de datos, para que tu sitio sea rápido, seguro y fácil de actualizar desde el panel de administración.",
 	"features_es": {
-		"0": "Cover image ready",
-		"1": "Navbar static page",
-		"2": "Social Link on footer",
-		"3": "SideBar Support"
+		"0": "Diseño limpio con estilo espacial único para blog, portafolio y página de destino.",
+		"1": "Imagen de portada lista para entradas y páginas.",
+		"2": "Páginas estáticas para navegación en barra y pie de página.",
+		"3": "Barra lateral con categorías, etiquetas y enlaces.",
+		"4": "Plugins Space incluidos: Contact, Footer Cover.",
+		"5": "CMS de archivo plano - sin base de datos, rápido y fácil de instalar."
 	},
-	"description_ru": "Тема с уникальным дизайнерским решением, разработанная специально для Bludit CMS.",
+	"description_ru": "Space - чистая тема Bludit с уникальным космическим дизайном для блогов, портфолио и лендингов. Построена на Bludit flat-file CMS, без базы данных, поэтому сайт остаётся быстрым, безопасным и легко обновляется из панели администратора.",
 	"features_ru": {
-		"0": "Поддерживает изображения для обложки записи/страницы.",
-		"1": "Статичная страница навигационной панели.",
-		"2": "Социальные ссылки в подвале сайта (нижнем колонтитуле).",
-		"3": "Поддерживает боковую панель."
+		"0": "Чистый макет с уникальным космическим дизайном для блога, портфолио и лендинга.",
+		"1": "Поддержка обложки для записей и страниц.",
+		"2": "Статические страницы для навигации в шапке и подвале.",
+		"3": "Боковая панель с категориями, тегами и ссылками.",
+		"4": "Плагины Space в комплекте: Contact, Footer Cover.",
+		"5": "Flat-file CMS - без базы данных, быстрая и простая установка."
 	}
 }

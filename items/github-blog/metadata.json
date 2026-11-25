@@ -1,41 +1,49 @@
 {
 	"name": "Github Blog",
-	"version": "3.14.1",
+	"version": "3.22.0",
 	"author_username": "creativitas",
-	"release_date": "2023-03-11",
+	"release_date": "2026-11-25",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://github.com/mesinkasir/bl-github/archive/refs/heads/main.zip",
+	"download_url": "https://creativitaz.gumroad.com/l/github-bl",
 	"demo_url": "https://axcora.my.id/bludit/github/",
-	"information_url": "https://axcora.my.id/bludit/github/category/doc",
-	"credits": "Creativitas",
-	"credits_url": "https://www.fiverr.com/creativitas",
-	"description": "Github blog design template for Bludit focus on SEO.",
+	"information_url": "https://www.hockeycomputindo.com/themes/bludit/free-download-github-blog/",
+	"credits": "Bludit Axcora",
+	"credits_url": "https://bludit.axcora.com",
+	"description": "Github Blog is a clean Bludit theme with a Github-style design for blogs, portfolios, and documentation. Built on Bludit flat-file CMS, with no database, so your website stays fast, secure, and easy to update from the admin panel.",
 	"features": {
-		"0": "Cover image ready.",
-		"1": "Navbar static page.",
-		"2": "Social Link on footer.",
-		"3": "SideBar Support."
+		"0": "Clean Github-style layout for blog, portfolio, and documentation.",
+		"1": "Cover image ready for posts and pages.",
+		"2": "Static pages support for navbar and footer navigation.",
+		"3": "Sidebar support with categories, tags, and links.",
+		"4": "SEO friendly structure.",
+		"5": "Flat-file CMS - no database, fast and easy to install."
 	},
-	"description_de": "Github blog design template for Bludit focus on SEO.",
+	"description_de": "Github Blog ist ein sauberes Bludit-Theme im Github-Stil für Blogs, Portfolios und Dokumentation. Basierend auf dem Bludit Flat-File CMS, ohne Datenbank, damit deine Website schnell, sicher und einfach über das Admin-Panel zu aktualisieren bleibt.",
 	"features_de": {
-		"0": "Cover image ready.",
-		"1": "Navbar static page.",
-		"2": "Social Link on footer.",
-		"3": "SideBar Support."
+		"0": "Sauberes Layout im Github-Stil für Blog, Portfolio und Dokumentation.",
+		"1": "Titelbild bereit für Beiträge und Seiten.",
+		"2": "Statische Seiten für Navbar- und Footer-Navigation.",
+		"3": "Sidebar-Unterstützung mit Kategorien, Tags und Links.",
+		"4": "SEO-freundliche Struktur.",
+		"5": "Flat-File CMS - ohne Datenbank, schnell und einfach zu installieren."
 	},
-	"description_es": "Github blog design template for Bludit focus on SEO.",
+	"description_es": "Github Blog es un tema Bludit limpio con diseño estilo Github para blogs, portafolios y documentación. Construido con Bludit CMS de archivo plano, sin base de datos, para que tu sitio sea rápido, seguro y fácil de actualizar desde el panel de administración.",
 	"features_es": {
-		"0": "Cover image ready.",
-		"1": "Navbar static page.",
-		"2": "Social Link on footer.",
-		"3": "SideBar Support."
+		"0": "Diseño limpio estilo Github para blog, portafolio y documentación.",
+		"1": "Imagen de portada lista para entradas y páginas.",
+		"2": "Páginas estáticas para navegación en barra y pie de página.",
+		"3": "Barra lateral con categorías, etiquetas y enlaces.",
+		"4": "Estructura SEO friendly.",
+		"5": "CMS de archivo plano - sin base de datos, rápido y fácil de instalar."
 	},
-	"description_ru": "Шаблон дизайна Github для блога на Bludit с хорошей SEO оптимизацией.",
+	"description_ru": "Github Blog - чистая тема Bludit в стиле Github для блогов, портфолио и документации. Построена на Bludit flat-file CMS, без базы данных, поэтому сайт остаётся быстрым, безопасным и легко обновляется из панели администратора.",
 	"features_ru": {
-		"0": "Поддерживает изображения для обложки записи и страницы.",
-		"1": "Статическая страница навигационной панели.",
-		"2": "Социальные ссылки в подвале сайта (нижнем колонтитуле).",
-		"3": "Поддерживает боковую панель."
+		"0": "Чистый макет в стиле Github для блога, портфолио и документации.",
+		"1": "Поддержка обложки для записей и страниц.",
+		"2": "Статические страницы для навигации в шапке и подвале.",
+		"3": "Боковая панель с категориями, тегами и ссылками.",
+		"4": "SEO-friendly структура.",
+		"5": "Flat-file CMS - без базы данных, быстрая и простая установка."
 	}
 }

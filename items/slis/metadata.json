@@ -1,0 +1,61 @@
+{
+	"name": "Slis",
+	"version": "3.22.0",
+	"author_username": "creativitas",
+	"release_date": "2026-11-23",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://creativitaz.gumroad.com/l/slisbludit",
+	"demo_url": "https://axcora.my.id/bludit/slis/",
+	"information_url": "https://www.hockeycomputindo.com/themes/bludit/free-download-marketing-presentation-website-themes-slis/",
+	"credits": "Creativitas",
+	"credits_url": "https://bludit.axcora.com",
+	"description": "SLIS is a modern, clean slider website blog design for marketing presentation. A free Bludit template with slider for product and services presentation, cover image, static pages, sidebar, and social links. With Bootstrap 5.3.9. Fast, no-database, SEO-ready, and fully compatible with Bludit 3.22.0.",
+	"features": {
+		"0": "Modern, clean slider design for marketing presentation.",
+		"1": "Fully compatible with Bludit 3.22.0.",
+		"2": "Slider ready for product and services presentation.",
+		"3": "Cover image ready for posts and pages.",
+		"4": "Navbar with static pages support.",
+		"5": "Sidebar support.",
+		"6": "Social links on footer.",
+		"7": "Responsive design for mobile, tablet, and desktop.",
+		"8": "SEO-ready and fast with Bludit flat-file CMS."
+	},
+	"description_de": "SLIS ist ein modernes, sauberes Slider-Website-Blog-Design für Marketing-Präsentation. Ein kostenloses Bludit-Template mit Slider für Produkt- und Service-Präsentation, Coverbild, statischen Seiten, Sidebar und Social Links. Mit Bootstrap 5.3.9. Schnell, ohne Datenbank, SEO-optimiert und voll kompatibel mit Bludit 3.22.0.",
+	"features_de": {
+		"0": "Modernes, sauberes Slider-Design für Marketing-Präsentation.",
+		"1": "Voll kompatibel mit Bludit 3.22.0.",
+		"2": "Slider bereit für Produkt- und Service-Präsentation.",
+		"3": "Coverbild bereit für Beiträge und Seiten.",
+		"4": "Navbar mit Unterstützung für statische Seiten.",
+		"5": "Sidebar-Unterstützung.",
+		"6": "Social Links im Footer.",
+		"7": "Responsives Design für Mobil, Tablet und Desktop.",
+		"8": "SEO-optimiert und schnell mit Bludit Flat-File CMS."
+	},
+	"description_es": "SLIS es un diseño moderno y limpio de blog con slider para presentación de marketing. Una plantilla gratuita de Bludit con slider para presentación de productos y servicios, imagen de portada, páginas estáticas, barra lateral y enlaces sociales. Con Bootstrap 5.3.9. Rápida, sin base de datos, lista para SEO y totalmente compatible con Bludit 3.22.0.",
+	"features_es": {
+		"0": "Diseño moderno y limpio con slider para presentación de marketing.",
+		"1": "Totalmente compatible con Bludit 3.22.0.",
+		"2": "Slider listo para presentación de productos y servicios.",
+		"3": "Imagen de portada lista para entradas y páginas.",
+		"4": "Barra de navegación con soporte para páginas estáticas.",
+		"5": "Soporte de barra lateral.",
+		"6": "Enlaces sociales en el pie de página.",
+		"7": "Diseño responsive para móvil, tablet y escritorio.",
+		"8": "Lista para SEO y rápida con Bludit flat-file CMS."
+	},
+	"description_ru": "SLIS — современный чистый дизайн блога со слайдером для маркетинговой презентации. Бесплатный шаблон Bludit со слайдером для презентации продуктов и услуг, изображением обложки, статическими страницами, боковой панелью и социальными ссылками. С Bootstrap 5.3.9. Быстрый, без базы данных, SEO-готовый и полностью совместимый с Bludit 3.22.0.",
+	"features_ru": {
+		"0": "Современный чистый дизайн со слайдером для маркетинговой презентации.",
+		"1": "Полностью совместим с Bludit 3.22.0.",
+		"2": "Слайдер готов для презентации продуктов и услуг.",
+		"3": "Изображение обложки готово для записей и страниц.",
+		"4": "Панель навигации с поддержкой статических страниц.",
+		"5": "Поддержка боковой панели.",
+		"6": "Социальные ссылки в подвале сайта.",
+		"7": "Адаптивный дизайн для мобильных, планшетов и десктопов.",
+		"8": "SEO-готовый и быстрый с Bludit flat-file CMS."
+	}
+}

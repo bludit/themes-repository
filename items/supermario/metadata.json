@@ -1,41 +1,57 @@
 {
 	"name": "Super Mario",
-	"version": "3.15.0",
+	"version": "3.22.0",
 	"author_username": "creativitas",
-	"release_date": "2024-02-13",
+	"release_date": "2026-11-23",
 	"license": "MIT",
 	"price_usd": "0",
 	"download_url": "https://creativitaz.gumroad.com/l/bl-supermariobross",
 	"demo_url": "https://axcora.my.id/bludit/supermario/",
-	"information_url": "https://axcora.my.id/bludit/supermario/full-installation",
+	"information_url": "https://www.hockeycomputindo.com/themes/bludit/super-mario-bros-bludit-themes-template/",
 	"credits": "Axcora Bludit",
 	"credits_url": "https://bludit.axcora.com",
-	"description": "Let's Develop your unique website with super mario project.",
+	"description": "Build your unique website with Super Mario project. A free Bludit theme with retro Mario-inspired design for blogs, games, and creative websites. With cover image, static pages, sidebar, and responsive layout. Fun, fast, no-database, SEO-ready, and fully compatible with Bludit 3.22.0.",
 	"features": {
-		"0": "Cover image ready.",
-		"1": "Navbar static page.",
-		"2": "Retro Design.",
-		"3": "SideBar Support."
+		"0": "Retro Mario-inspired design for Bludit blog.",
+		"1": "Fully compatible with Bludit 3.22.0.",
+		"2": "Cover image ready for posts and pages.",
+		"3": "Navbar with static pages support.",
+		"4": "Sidebar support.",
+		"5": "Social links on footer.",
+		"6": "Responsive design for mobile, tablet, and desktop.",
+		"7": "SEO-ready and fast with Bludit flat-file CMS."
 	},
-	"description_de": "Let's Develop your unique website with super mario project.",
+	"description_de": "Baue deine einzigartige Website mit dem Super Mario Projekt. Ein kostenloses Bludit-Theme mit Retro-Mario-inspiriertem Design für Blogs, Games und kreative Websites. Mit Coverbild, statischen Seiten, Sidebar und responsivem Layout. Schnell, ohne Datenbank, SEO-optimiert und voll kompatibel mit Bludit 3.22.0.",
 	"features_de": {
-		"0": "Titelbild fertig.",
-		"1": "Navbar statische Seite.",
-		"2": "Retro Design",
-		"3": "SideBar-Unterstützung."
+		"0": "Retro-Mario-inspiriertes Design für Bludit-Blog.",
+		"1": "Voll kompatibel mit Bludit 3.22.0.",
+		"2": "Coverbild bereit für Beiträge und Seiten.",
+		"3": "Navbar mit Unterstützung für statische Seiten.",
+		"4": "Sidebar-Unterstützung.",
+		"5": "Social Links im Footer.",
+		"6": "Responsives Design für Mobil, Tablet und Desktop.",
+		"7": "SEO-optimiert und schnell mit Bludit Flat-File CMS."
 	},
-	"description_es": "Let's Develop your unique website with super mario project.",
+	"description_es": "Crea tu sitio web único con el proyecto Super Mario. Un tema gratuito de Bludit con diseño retro inspirado en Mario para blogs, juegos y sitios web creativos. Con imagen de portada, páginas estáticas, barra lateral y diseño responsive. Divertido, rápido, sin base de datos, listo para SEO y totalmente compatible con Bludit 3.22.0.",
 	"features_es": {
-		"0": "Imagen de portada lista.",
-		"1": "Página estática de la barra de navegación.",
-		"2": "Retro Design",
-		"3": "Compatibilidad con la barra lateral."
+		"0": "Diseño retro inspirado en Mario para blog Bludit.",
+		"1": "Totalmente compatible con Bludit 3.22.0.",
+		"2": "Imagen de portada lista para entradas y páginas.",
+		"3": "Barra de navegación con soporte para páginas estáticas.",
+		"4": "Soporte de barra lateral.",
+		"5": "Enlaces sociales en el pie de página.",
+		"6": "Diseño responsive para móvil, tablet y escritorio.",
+		"7": "Listo para SEO y rápido con Bludit flat-file CMS."
 	},
-	"description_ru": "Разработайте ваш уникальный сайт с темой — Super Mario.",
+	"description_ru": "Создайте свой уникальный сайт с проектом Super Mario. Бесплатная тема Bludit с ретро-дизайном, вдохновлённым Марио, для блогов, игр и креативных сайтов. С изображением обложки, статическими страницами, боковой панелью и адаптивным макетом. Весёлая, быстрая, без базы данных, SEO-готовая и полностью совместимая с Bludit 3.22.0.",
 	"features_ru": {
-		"0": "Поддерживает изображения для обложки записи/страницы.",
-		"1": "Статичная страница навигационной панели.",
-		"2": "Дизайн в ретро стиле.",
-		"3": "Поддерживает боковую панель."
+		"0": "Ретро-дизайн, вдохновлённый Марио, для блога Bludit.",
+		"1": "Полностью совместим с Bludit 3.22.0.",
+		"2": "Изображение обложки готово для записей и страниц.",
+		"3": "Панель навигации с поддержкой статических страниц.",
+		"4": "Поддержка боковой панели.",
+		"5": "Социальные ссылки в подвале сайта.",
+		"6": "Адаптивный дизайн для мобильных, планшетов и десктопов.",
+		"7": "SEO-готовый и быстрый с Bludit flat-file CMS."
 	}
 }
