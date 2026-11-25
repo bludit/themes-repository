@@ -1,41 +1,49 @@
 {
 	"name": "Paimo",
-	"version": "3.14.1",
+	"version": "3.22.0",
 	"author_username": "creativitas",
-	"release_date": "2023-02-25",
+	"release_date": "2026-11-25",
 	"license": "MIT",
 	"price_usd": "0",
-	"download_url": "https://github.com/mesinkasir/paimo/archive/refs/heads/main.zip",
-	"demo_url": "https://axcora.my.id/bludit/paimo",
-	"information_url": "https://axcora.my.id/bludit/paimo/installation",
-	"credits": "Creativitas",
-	"credits_url": "https://axcora.my.id/bludit/paimo",
-	"description": "Clean with black white concept fast and powerfull Bludit flatfile CMS.",
+	"download_url": "https://creativitaz.gumroad.com/l/paimo-bl",
+	"demo_url": "https://axcora.my.id/bludit/paimo/",
+	"information_url": "https://www.hockeycomputindo.com/themes/bludit/simple-clean-paimo/",
+	"credits": "Bludit Axcora",
+	"credits_url": "https://bludit.axcora.com",
+	"description": "Paimo is a simple and clean Bludit theme with a black and white concept for blogs, portfolios, and landing pages. Built on Bludit flat-file CMS, with no database, so your website stays fast, secure, and easy to update from the admin panel.",
 	"features": {
-		"0": "Cover image ready.",
-		"1": "Navbar static page.",
-		"2": "Social Link on footer.",
-		"3": "SideBar Support."
+		"0": "Simple and clean black and white layout for blog, portfolio, and landing page.",
+		"1": "Cover image ready for posts and pages.",
+		"2": "Static pages support for navbar and footer navigation.",
+		"3": "Sidebar support with categories, tags, and links.",
+		"4": "Paimo Contact plugin included.",
+		"5": "Flat-file CMS — no database, fast and easy to install."
 	},
-	"description_de": "Reinigen Sie mit dem Schwarz-Weiß-Konzept schnelles und leistungsstarkes Bludit Flat File CMS (Automatisch übersetzt von einem Online-Übersetzer).",
+	"description_de": "Paimo ist ein einfaches und sauberes Bludit-Theme MIT Schwarz-Weiss-Konzept für Blogs, Portfolios und Landingpages. Basierend auf dem Bludit Flat-File CMS, ohne Datenbank, damit deine Website schnell, sicher und einfach über das Admin-Panel zu aktualisieren bleibt.",
 	"features_de": {
-		"0": "Titelbild fertig.",
-		"1": "Navbar statische Seite.",
-		"2": "Social Link in der Fußzeile.",
-		"3": "SideBar-Unterstützung."
+		"0": "Einfaches und sauberes Schwarz-Weiss-Layout für Blog, Portfolio und Landingpage.",
+		"1": "Titelbild bereit für Beiträge und Seiten.",
+		"2": "Statische Seiten für Navbar- und Footer-Navigation.",
+		"3": "Sidebar-Unterstützung MIT Kategorien, Tags und Links.",
+		"4": "Paimo Contact Plugin enthalten.",
+		"5": "Flat-File CMS — ohne Datenbank, schnell und einfach zu installieren."
 	},
-	"description_es": "Limpie con black white concept CMS de archivo plano Bludit rápido y potente (traducido automáticamente por un traductor en línea).",
+	"description_es": "Paimo es un tema Bludit sencillo y limpio con concepto en blanco y negro para blogs, portafolios y páginas de destino. Construido con Bludit CMS de archivo plano, sin base de datos, para que tu sitio sea rápido, seguro y fácil de actualizar desde el panel de administración.",
 	"features_es": {
-		"0": "Imagen de portada lista.",
-		"1": "Página estática de la barra de navegación.",
-		"2": "Enlace social en el pie de página.",
-		"3": "Compatibilidad con la barra lateral."
+		"0": "Diseño sencillo y limpio en blanco y negro para blog, portafolio y página de destino.",
+		"1": "Imagen de portada lista para entradas y páginas.",
+		"2": "Páginas estáticas para navegación en barra y pie de página.",
+		"3": "Barra lateral con categorías, etiquetas y enlaces.",
+		"4": "Plugin Paimo Contact incluido.",
+		"5": "CMS de archivo plano — sin base de datos, rápido y fácil de instalar."
 	},
-	"description_ru": "Простая и лёгкая тема, основанная на концепции чёрно-белых тонов, быстрая и в то же время мощная тема для Bludit CMS.",
+	"description_ru": "Paimo — простая и чистая тема Bludit в чёрно-белой концепции для блогов, портфолио и лендингов. Построена на Bludit flat-file CMS, без базы данных, поэтому сайт остаётся быстрым, безопасным и легко обновляется из панели администратора.",
 	"features_ru": {
-		"0": "Поддерживает изображения для обложки записи/страницы.",
-		"1": "Статическая страница навигационной панели.",
-		"2": "Социальные ссылки в подвале сайта (нижнем колонтитуле).",
-		"3": "Поддерживает боковую панель."
+		"0": "Простой и чистый чёрно-белый макет для блога, портфолио и лендинга.",
+		"1": "Поддержка обложки для записей и страниц.",
+		"2": "Статические страницы для навигации в шапке и подвале.",
+		"3": "Боковая панель с категориями, тегами и ссылками.",
+		"4": "Плагин Paimo Contact в комплекте.",
+		"5": "Flat-file CMS — без базы данных, быстрая и простая установка."
 	}
 }
